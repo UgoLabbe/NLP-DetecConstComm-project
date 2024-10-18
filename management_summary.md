@@ -1,6 +1,6 @@
 ## Milestone 1
 
-GitHub creation:
-Pre-processing
+- GitHub creation:
+- Pre-processing:
 
 ## Milestone 2
