@@ -5,6 +5,6 @@
 - Potential Issues identification: Ugo Labbé
 - Data Observation: Ugo Labbé
 - Pre-processing: Nicolas Bernal
-- storing in CoNLL-U format:
+- storing in CoNLL-U format: Nicolas Bernal, Ugo Labbé
 
 ## Milestone 2

@@ -1,0 +1,78 @@
+# text = And this Conservative strategy has produced the angry and desperate wing-nuts like the fellow who called reporters 'lying pieces of Sh*t' this week.
+# sent_id = 0
+1	And	and	CCONJ	CC	_	0	_	_	start_char=0|end_char=3
+2	this	this	DET	DT	Number=Sing|PronType=Dem	1	_	_	start_char=4|end_char=8
+3	Conservative	Conservative	ADJ	JJ	Degree=Pos	2	_	_	start_char=9|end_char=21
+4	strategy	strategy	NOUN	NN	Number=Sing	3	_	_	start_char=22|end_char=30
+5	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=31|end_char=34
+6	produced	produce	VERB	VBN	Tense=Past|VerbForm=Part	5	_	_	start_char=35|end_char=43
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=44|end_char=47
+8	angry	angry	ADJ	JJ	Degree=Pos	7	_	_	start_char=48|end_char=53
+9	and	and	CCONJ	CC	_	8	_	_	start_char=54|end_char=57
+10	desperate	desperate	ADJ	JJ	Degree=Pos	9	_	_	start_char=58|end_char=67
+11	wing	wing	NOUN	NN	Number=Sing	10	_	_	start_char=68|end_char=72|SpaceAfter=No
+12	-	-	PUNCT	HYPH	_	11	_	_	start_char=72|end_char=73|SpaceAfter=No
+13	nuts	nut	NOUN	NNS	Number=Plur	12	_	_	start_char=73|end_char=77
+14	like	like	ADP	IN	_	13	_	_	start_char=78|end_char=82
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=83|end_char=86
+16	fellow	fellow	NOUN	NN	Number=Sing	15	_	_	start_char=87|end_char=93
+17	who	who	PRON	WP	PronType=Rel	16	_	_	start_char=94|end_char=97
+18	called	call	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	_	_	start_char=98|end_char=104
+19	reporters	reporter	NOUN	NNS	Number=Plur	18	_	_	start_char=105|end_char=114
+20	'	's	PART	POS	_	19	_	_	start_char=115|end_char=116|SpaceAfter=No
+21	lying	lying	NOUN	NN	Number=Sing	20	_	_	start_char=116|end_char=121
+22	pieces	piece	NOUN	NNS	Number=Plur	21	_	_	start_char=122|end_char=128
+23	of	of	ADP	IN	_	22	_	_	start_char=129|end_char=131
+24	Sh*t	Sh*tember	PROPN	NNP	Number=Sing	23	_	_	start_char=132|end_char=136|SpaceAfter=No
+25	'	'	PUNCT	''	_	24	_	_	start_char=136|end_char=137
+26	this	this	DET	DT	Number=Sing|PronType=Dem	25	_	_	start_char=138|end_char=142
+27	week	week	NOUN	NN	Number=Sing	26	_	_	start_char=143|end_char=147|SpaceAfter=No
+28	.	.	PUNCT	.	_	27	_	_	start_char=147|end_char=148
+
+# text = The fortunate thing is that reporters were able to report it and broadcast it - which may shake up a few folks who recognize a bit of themselves somewhere in there and do some reflecting.
+# sent_id = 1
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=149|end_char=152
+2	fortunate	fortunate	ADJ	JJ	Degree=Pos	1	_	_	start_char=153|end_char=162
+3	thing	thing	NOUN	NN	Number=Sing	2	_	_	start_char=163|end_char=168
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=169|end_char=171
+5	that	that	SCONJ	IN	_	4	_	_	start_char=172|end_char=176
+6	reporters	reporter	NOUN	NNS	Number=Plur	5	_	_	start_char=177|end_char=186
+7	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	_	_	start_char=187|end_char=191
+8	able	able	ADJ	JJ	Degree=Pos	7	_	_	start_char=192|end_char=196
+9	to	to	PART	TO	_	8	_	_	start_char=197|end_char=199
+10	report	report	VERB	VB	VerbForm=Inf	9	_	_	start_char=200|end_char=206
+11	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	_	_	start_char=207|end_char=209
+12	and	and	CCONJ	CC	_	11	_	_	start_char=210|end_char=213
+13	broadcast	broadcast	VERB	VB	VerbForm=Inf	12	_	_	start_char=214|end_char=223
+14	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	_	_	start_char=224|end_char=226
+15	-	-	PUNCT	,	_	14	_	_	start_char=227|end_char=228
+16	which	which	PRON	WDT	PronType=Rel	15	_	_	start_char=229|end_char=234
+17	may	may	AUX	MD	VerbForm=Fin	16	_	_	start_char=235|end_char=238
+18	shake	shake	VERB	VB	VerbForm=Inf	17	_	_	start_char=239|end_char=244
+19	up	up	ADP	RP	_	18	_	_	start_char=245|end_char=247
+20	a	a	DET	DT	Definite=Ind|PronType=Art	19	_	_	start_char=248|end_char=249
+21	few	few	ADJ	JJ	Degree=Pos	20	_	_	start_char=250|end_char=253
+22	folks	folk	NOUN	NNS	Number=Plur	21	_	_	start_char=254|end_char=259
+23	who	who	PRON	WP	PronType=Rel	22	_	_	start_char=260|end_char=263
+24	recognize	recognize	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	23	_	_	start_char=264|end_char=273
+25	a	a	DET	DT	Definite=Ind|PronType=Art	24	_	_	start_char=274|end_char=275
+26	bit	bit	NOUN	NN	Number=Sing	25	_	_	start_char=276|end_char=279
+27	of	of	ADP	IN	_	26	_	_	start_char=280|end_char=282
+28	themselves	themselves	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	27	_	_	start_char=283|end_char=293
+29	somewhere	somewhere	ADV	RB	_	28	_	_	start_char=294|end_char=303
+30	in	in	ADP	IN	_	29	_	_	start_char=304|end_char=306
+31	there	there	ADV	RB	PronType=Dem	30	_	_	start_char=307|end_char=312
+32	and	and	CCONJ	CC	_	31	_	_	start_char=313|end_char=316
+33	do	do	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	32	_	_	start_char=317|end_char=319
+34	some	some	DET	DT	_	33	_	_	start_char=320|end_char=324
+35	reflecting	reflect	NOUN	NN	Number=Sing	34	_	_	start_char=325|end_char=335|SpaceAfter=No
+36	.	.	PUNCT	.	_	35	_	_	start_char=335|end_char=336
+
+# text = I live in hope.
+# sent_id = 2
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	_	_	start_char=337|end_char=338
+2	live	live	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	_	_	start_char=339|end_char=343
+3	in	in	ADP	IN	_	2	_	_	start_char=344|end_char=346
+4	hope	hope	NOUN	NN	Number=Sing	3	_	_	start_char=347|end_char=351|SpaceAfter=No
+5	.	.	PUNCT	.	_	4	_	_	start_char=351|end_char=352|SpaceAfter=No
+
