@@ -8,3 +8,6 @@
 - storing in CoNLL-U format: Nicolas Bernal
 
 ## Milestone 2
+:
+- Implement Non-Deep Learning solutions:
+- Implement Deep Learning solutions:
