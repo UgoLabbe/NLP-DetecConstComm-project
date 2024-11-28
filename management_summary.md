@@ -10,5 +10,5 @@
 ## Milestone 2
 
 - Implement Non-Deep Learning solutions: Ugo Labbé
-- Implement Deep Learning solutions:
+- Implement Deep Learning solutions: Nicolas Bernal
 - Implement Transformers (BERT or other models from huggingface):
