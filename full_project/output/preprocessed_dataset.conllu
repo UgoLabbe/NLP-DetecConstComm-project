@@ -1,0 +1,3129 @@
+# sent_id = 0_0
+# text = And this Conservative strategy has produced the angry and desperate wing-nuts like the fellow who called reporters 'lying pieces of Sh*t' this week.
+1	And	and	CCONJ	CC	_	None	None	_	_
+2	this	this	DET	DT	Number=Sing|PronType=Dem	None	None	_	_
+3	Conservative	Conservative	ADJ	JJ	Degree=Pos	None	None	_	_
+4	strategy	strategy	NOUN	NN	Number=Sing	None	None	_	_
+5	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+6	produced	produce	VERB	VBN	Tense=Past|VerbForm=Part	None	None	_	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+8	angry	angry	ADJ	JJ	Degree=Pos	None	None	_	_
+9	and	and	CCONJ	CC	_	None	None	_	_
+10	desperate	desperate	ADJ	JJ	Degree=Pos	None	None	_	_
+11	wing	wing	NOUN	NN	Number=Sing	None	None	_	_
+12	-	-	PUNCT	HYPH	_	None	None	_	_
+13	nuts	nut	NOUN	NNS	Number=Plur	None	None	_	_
+14	like	like	ADP	IN	_	None	None	_	_
+15	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+16	fellow	fellow	NOUN	NN	Number=Sing	None	None	_	_
+17	who	who	PRON	WP	PronType=Rel	None	None	_	_
+18	called	call	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	None	None	_	_
+19	reporters	reporter	NOUN	NNS	Number=Plur	None	None	_	_
+20	'	's	PART	POS	_	None	None	_	_
+21	lying	lying	NOUN	NN	Number=Sing	None	None	_	_
+22	pieces	piece	NOUN	NNS	Number=Plur	None	None	_	_
+23	of	of	ADP	IN	_	None	None	_	_
+24	Sh*t	Sh*tember	PROPN	NNP	Number=Sing	None	None	_	_
+25	'	'	PUNCT	''	_	None	None	_	_
+26	this	this	DET	DT	Number=Sing|PronType=Dem	None	None	_	_
+27	week	week	NOUN	NN	Number=Sing	None	None	_	_
+28	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 0_1
+# text = The fortunate thing is that reporters were able to report it and broadcast it - which may shake up a few folks who recognize a bit of themselves somewhere in there and do some reflecting.
+1	The	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+2	fortunate	fortunate	ADJ	JJ	Degree=Pos	None	None	_	_
+3	thing	thing	NOUN	NN	Number=Sing	None	None	_	_
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+5	that	that	SCONJ	IN	_	None	None	_	_
+6	reporters	reporter	NOUN	NNS	Number=Plur	None	None	_	_
+7	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	None	None	_	_
+8	able	able	ADJ	JJ	Degree=Pos	None	None	_	_
+9	to	to	PART	TO	_	None	None	_	_
+10	report	report	VERB	VB	VerbForm=Inf	None	None	_	_
+11	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	None	None	_	_
+12	and	and	CCONJ	CC	_	None	None	_	_
+13	broadcast	broadcast	VERB	VB	VerbForm=Inf	None	None	_	_
+14	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	None	None	_	_
+15	-	-	PUNCT	,	_	None	None	_	_
+16	which	which	PRON	WDT	PronType=Rel	None	None	_	_
+17	may	may	AUX	MD	VerbForm=Fin	None	None	_	_
+18	shake	shake	VERB	VB	VerbForm=Inf	None	None	_	_
+19	up	up	ADP	RP	_	None	None	_	_
+20	a	a	DET	DT	Definite=Ind|PronType=Art	None	None	_	_
+21	few	few	ADJ	JJ	Degree=Pos	None	None	_	_
+22	folks	folk	NOUN	NNS	Number=Plur	None	None	_	_
+23	who	who	PRON	WP	PronType=Rel	None	None	_	_
+24	recognize	recognize	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+25	a	a	DET	DT	Definite=Ind|PronType=Art	None	None	_	_
+26	bit	bit	NOUN	NN	Number=Sing	None	None	_	_
+27	of	of	ADP	IN	_	None	None	_	_
+28	themselves	themselves	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	None	None	_	_
+29	somewhere	somewhere	ADV	RB	_	None	None	_	_
+30	in	in	ADP	IN	_	None	None	_	_
+31	there	there	ADV	RB	PronType=Dem	None	None	_	_
+32	and	and	CCONJ	CC	_	None	None	_	_
+33	do	do	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+34	some	some	DET	DT	_	None	None	_	_
+35	reflecting	reflect	NOUN	NN	Number=Sing	None	None	_	_
+36	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 0_2
+# text = I live in hope.
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	None	None	_	_
+2	live	live	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	None	None	_	_
+3	in	in	ADP	IN	_	None	None	_	_
+4	hope	hope	NOUN	NN	Number=Sing	None	None	_	_
+5	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 1_0
+# text = I commend Harper for holding the debates outside of a left-wing forum as this will help prevent the left from manipulating the debates to try to make Harper look bad.
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	None	None	_	_
+2	commend	commend	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	None	None	_	_
+3	Harper	Harper	PROPN	NNP	Number=Sing	None	None	_	_
+4	for	for	SCONJ	IN	_	None	None	_	_
+5	holding	hold	VERB	VBG	VerbForm=Ger	None	None	_	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+7	debates	debate	NOUN	NNS	Number=Plur	None	None	_	_
+8	outside	outside	ADV	RB	_	None	None	_	_
+9	of	of	ADP	IN	_	None	None	_	_
+10	a	a	DET	DT	Definite=Ind|PronType=Art	None	None	_	_
+11	left	left	ADJ	JJ	Degree=Pos	None	None	_	_
+12	-	-	PUNCT	HYPH	_	None	None	_	_
+13	wing	wing	NOUN	NN	Number=Sing	None	None	_	_
+14	forum	forum	NOUN	NN	Number=Sing	None	None	_	_
+15	as	as	SCONJ	IN	_	None	None	_	_
+16	this	this	PRON	DT	Number=Sing|PronType=Dem	None	None	_	_
+17	will	will	AUX	MD	VerbForm=Fin	None	None	_	_
+18	help	help	VERB	VB	VerbForm=Inf	None	None	_	_
+19	prevent	prevent	VERB	VB	VerbForm=Inf	None	None	_	_
+20	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+21	left	left	NOUN	NN	Number=Sing	None	None	_	_
+22	from	from	SCONJ	IN	_	None	None	_	_
+23	manipulating	manipulate	VERB	VBG	VerbForm=Ger	None	None	_	_
+24	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+25	debates	debate	NOUN	NNS	Number=Plur	None	None	_	_
+26	to	to	PART	TO	_	None	None	_	_
+27	try	try	VERB	VB	VerbForm=Inf	None	None	_	_
+28	to	to	PART	TO	_	None	None	_	_
+29	make	make	VERB	VB	VerbForm=Inf	None	None	_	_
+30	Harper	Harper	PROPN	NNP	Number=Sing	None	None	_	_
+31	look	look	VERB	VB	VerbForm=Inf	None	None	_	_
+32	bad	bad	ADJ	JJ	Degree=Pos	None	None	_	_
+33	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 1_1
+# text = Indeed, we’ll finally have some fair debates.
+1	Indeed	indeed	ADV	RB	_	None	None	_	_
+2	,	,	PUNCT	,	_	None	None	_	_
+3	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	None	None	_	_
+4	’ll	will	AUX	MD	VerbForm=Fin	None	None	_	_
+5	finally	finally	ADV	RB	_	None	None	_	_
+6	have	have	VERB	VB	VerbForm=Inf	None	None	_	_
+7	some	some	DET	DT	_	None	None	_	_
+8	fair	fair	ADJ	JJ	Degree=Pos	None	None	_	_
+9	debates	debate	NOUN	NNS	Number=Plur	None	None	_	_
+10	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 1_2
+# text = Trudeau is a coward and the only one who’s opposing this as he’s terrified about losing left-wing protection during the debates if the debates are held elsewhere.
+1	Trudeau	Trudeau	PROPN	NNP	Number=Sing	None	None	_	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+3	a	a	DET	DT	Definite=Ind|PronType=Art	None	None	_	_
+4	coward	coward	NOUN	NN	Number=Sing	None	None	_	_
+5	and	and	CCONJ	CC	_	None	None	_	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+7	only	only	ADJ	JJ	Degree=Pos	None	None	_	_
+8	one	one	NOUN	NN	Number=Sing	None	None	_	_
+9	who	who	PRON	WP	PronType=Rel	None	None	_	_
+10	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+11	opposing	oppose	VERB	VBG	Tense=Pres|VerbForm=Part	None	None	_	_
+12	this	this	PRON	DT	Number=Sing|PronType=Dem	None	None	_	_
+13	as	as	SCONJ	IN	_	None	None	_	_
+14	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	None	None	_	_
+15	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+16	terrified	terrified	ADJ	JJ	Degree=Pos	None	None	_	_
+17	about	about	SCONJ	IN	_	None	None	_	_
+18	losing	lose	VERB	VBG	VerbForm=Ger	None	None	_	_
+19	left	left	ADJ	JJ	Degree=Pos	None	None	_	_
+20	-	-	PUNCT	HYPH	_	None	None	_	_
+21	wing	wing	NOUN	NN	Number=Sing	None	None	_	_
+22	protection	protection	NOUN	NN	Number=Sing	None	None	_	_
+23	during	during	ADP	IN	_	None	None	_	_
+24	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+25	debates	debate	NOUN	NNS	Number=Plur	None	None	_	_
+26	if	if	SCONJ	IN	_	None	None	_	_
+27	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+28	debates	debate	NOUN	NNS	Number=Plur	None	None	_	_
+29	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+30	held	hold	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	None	None	_	_
+31	elsewhere	elsewhere	ADV	RB	_	None	None	_	_
+32	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 1_3
+# text = If Trudeau doesn’t have Chretien or Martin speaking for him or isn't currently in training to learn how to handle himself in a debate, he has May attending the debates to hold his little hand.
+1	If	if	SCONJ	IN	_	None	None	_	_
+2	Trudeau	Trudeau	PROPN	NNP	Number=Sing	None	None	_	_
+3	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+4	n’t	not	PART	RB	_	None	None	_	_
+5	have	have	VERB	VB	VerbForm=Inf	None	None	_	_
+6	Chretien	Chretien	PROPN	NNP	Number=Sing	None	None	_	_
+7	or	or	CCONJ	CC	_	None	None	_	_
+8	Martin	Martin	PROPN	NNP	Number=Sing	None	None	_	_
+9	speaking	speak	VERB	VBG	VerbForm=Ger	None	None	_	_
+10	for	for	ADP	IN	_	None	None	_	_
+11	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	None	None	_	_
+12	or	or	CCONJ	CC	_	None	None	_	_
+13	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+14	n't	not	PART	RB	_	None	None	_	_
+15	currently	currently	ADV	RB	_	None	None	_	_
+16	in	in	ADP	IN	_	None	None	_	_
+17	training	training	NOUN	NN	Number=Sing	None	None	_	_
+18	to	to	PART	TO	_	None	None	_	_
+19	learn	learn	VERB	VB	VerbForm=Inf	None	None	_	_
+20	how	how	ADV	WRB	PronType=Int	None	None	_	_
+21	to	to	PART	TO	_	None	None	_	_
+22	handle	handle	VERB	VB	VerbForm=Inf	None	None	_	_
+23	himself	himself	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	None	None	_	_
+24	in	in	ADP	IN	_	None	None	_	_
+25	a	a	DET	DT	Definite=Ind|PronType=Art	None	None	_	_
+26	debate	debate	NOUN	NN	Number=Sing	None	None	_	_
+27	,	,	PUNCT	,	_	None	None	_	_
+28	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	None	None	_	_
+29	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+30	May	May	PROPN	NNP	Number=Sing	None	None	_	_
+31	attending	attend	VERB	VBG	VerbForm=Ger	None	None	_	_
+32	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+33	debates	debate	NOUN	NNS	Number=Plur	None	None	_	_
+34	to	to	PART	TO	_	None	None	_	_
+35	hold	hold	VERB	VB	VerbForm=Inf	None	None	_	_
+36	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	None	None	_	_
+37	little	little	ADJ	JJ	Degree=Pos	None	None	_	_
+38	hand	hand	NOUN	NN	Number=Sing	None	None	_	_
+39	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 1_4
+# text = If Trudeau can’t speak for himself or handle debates, how does he expect to run a country?
+1	If	if	SCONJ	IN	_	None	None	_	_
+2	Trudeau	Trudeau	PROPN	NNP	Number=Sing	None	None	_	_
+3	ca	can	AUX	MD	VerbForm=Fin	None	None	_	_
+4	n’t	not	PART	RB	_	None	None	_	_
+5	speak	speak	VERB	VB	VerbForm=Inf	None	None	_	_
+6	for	for	ADP	IN	_	None	None	_	_
+7	himself	himself	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	None	None	_	_
+8	or	or	CCONJ	CC	_	None	None	_	_
+9	handle	handle	VERB	VB	VerbForm=Inf	None	None	_	_
+10	debates	debate	NOUN	NNS	Number=Plur	None	None	_	_
+11	,	,	PUNCT	,	_	None	None	_	_
+12	how	how	ADV	WRB	PronType=Int	None	None	_	_
+13	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+14	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	None	None	_	_
+15	expect	expect	VERB	VB	VerbForm=Inf	None	None	_	_
+16	to	to	PART	TO	_	None	None	_	_
+17	run	run	VERB	VB	VerbForm=Inf	None	None	_	_
+18	a	a	DET	DT	Definite=Ind|PronType=Art	None	None	_	_
+19	country	country	NOUN	NN	Number=Sing	None	None	_	_
+20	?	?	PUNCT	.	_	None	None	_	_
+
+# sent_id = 2_0
+# text = What a joke Rachel Notley is.
+1	What	what	PRON	WP	PronType=Int	None	None	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	None	None	_	_
+3	joke	joke	NOUN	NN	Number=Sing	None	None	_	_
+4	Rachel	Rachel	PROPN	NNP	Number=Sing	None	None	_	_
+5	Notley	Notley	PROPN	NNP	Number=Sing	None	None	_	_
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+7	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 2_1
+# text = This is what was posted on the NDP website on the last World Press Freedom Day.
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	None	None	_	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+3	what	what	PRON	WP	PronType=Rel	None	None	_	_
+4	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	None	None	_	_
+5	posted	post	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	None	None	_	_
+6	on	on	ADP	IN	_	None	None	_	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+8	NDP	NDP	PROPN	NNP	Number=Sing	None	None	_	_
+9	website	website	NOUN	NN	Number=Sing	None	None	_	_
+10	on	on	ADP	IN	_	None	None	_	_
+11	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+12	last	last	ADJ	JJ	Degree=Pos	None	None	_	_
+13	World	World	PROPN	NNP	Number=Sing	None	None	_	_
+14	Press	Press	PROPN	NNP	Number=Sing	None	None	_	_
+15	Freedom	Freedom	PROPN	NNP	Number=Sing	None	None	_	_
+16	Day	Day	PROPN	NNP	Number=Sing	None	None	_	_
+17	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 2_2
+# text = She can't even follow her own leader.
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	None	None	_	_
+2	ca	can	AUX	MD	VerbForm=Fin	None	None	_	_
+3	n't	not	PART	RB	_	None	None	_	_
+4	even	even	ADV	RB	_	None	None	_	_
+5	follow	follow	VERB	VB	VerbForm=Inf	None	None	_	_
+6	her	her	PRON	PRP$	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	None	None	_	_
+7	own	own	ADJ	JJ	Degree=Pos	None	None	_	_
+8	leader	leader	NOUN	NN	Number=Sing	None	None	_	_
+9	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 2_3
+# text = She should resign.
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	None	None	_	_
+2	should	should	AUX	MD	VerbForm=Fin	None	None	_	_
+3	resign	resign	VERB	VB	VerbForm=Inf	None	None	_	_
+4	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 2_4
+# text = Immediately.
+1	Immediately	immediately	ADV	RB	_	None	None	_	_
+2	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 2_5
+# text = “Today, we pay tribute to journalists who have lost their lives or been injured in the line of duty.
+1	“	''	PUNCT	``	_	None	None	_	_
+2	Today	today	NOUN	NN	Number=Sing	None	None	_	_
+3	,	,	PUNCT	,	_	None	None	_	_
+4	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	None	None	_	_
+5	pay	pay	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	None	None	_	_
+6	tribute	tribute	NOUN	NN	Number=Sing	None	None	_	_
+7	to	to	ADP	IN	_	None	None	_	_
+8	journalists	journalist	NOUN	NNS	Number=Plur	None	None	_	_
+9	who	who	PRON	WP	PronType=Rel	None	None	_	_
+10	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+11	lost	lose	VERB	VBN	Tense=Past|VerbForm=Part	None	None	_	_
+12	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	None	None	_	_
+13	lives	life	NOUN	NNS	Number=Plur	None	None	_	_
+14	or	or	CCONJ	CC	_	None	None	_	_
+15	been	be	AUX	VBN	Tense=Past|VerbForm=Part	None	None	_	_
+16	injured	injure	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	None	None	_	_
+17	in	in	ADP	IN	_	None	None	_	_
+18	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+19	line	line	NOUN	NN	Number=Sing	None	None	_	_
+20	of	of	ADP	IN	_	None	None	_	_
+21	duty	duty	NOUN	NN	Number=Sing	None	None	_	_
+22	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 2_6
+# text = It is unacceptable that, in 2015, journalists are still prosecuted, detained and assassinated for doing their jobs.
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	None	None	_	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+3	unacceptable	unacceptable	ADJ	JJ	Degree=Pos	None	None	_	_
+4	that	that	SCONJ	IN	_	None	None	_	_
+5	,	,	PUNCT	,	_	None	None	_	_
+6	in	in	ADP	IN	_	None	None	_	_
+7	2015	2015	NUM	CD	NumForm=Digit|NumType=Card	None	None	_	_
+8	,	,	PUNCT	,	_	None	None	_	_
+9	journalists	journalist	NOUN	NNS	Number=Plur	None	None	_	_
+10	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+11	still	still	ADV	RB	_	None	None	_	_
+12	prosecuted	prosecute	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	None	None	_	_
+13	,	,	PUNCT	,	_	None	None	_	_
+14	detained	detain	VERB	VBN	Tense=Past|VerbForm=Part	None	None	_	_
+15	and	and	CCONJ	CC	_	None	None	_	_
+16	assassinated	assassinate	VERB	VBN	Tense=Past|VerbForm=Part	None	None	_	_
+17	for	for	SCONJ	IN	_	None	None	_	_
+18	doing	do	VERB	VBG	VerbForm=Ger	None	None	_	_
+19	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	None	None	_	_
+20	jobs	job	NOUN	NNS	Number=Plur	None	None	_	_
+21	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 2_7
+# text = Independent media is of immeasurable value in a free and democratic society, and it is our duty to ensure that this continues to be respected and protected.
+1	Independent	independent	ADJ	JJ	Degree=Pos	None	None	_	_
+2	media	media	NOUN	NN	Number=Sing	None	None	_	_
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+4	of	of	ADP	IN	_	None	None	_	_
+5	immeasurable	immeasurable	ADJ	JJ	Degree=Pos	None	None	_	_
+6	value	value	NOUN	NN	Number=Sing	None	None	_	_
+7	in	in	ADP	IN	_	None	None	_	_
+8	a	a	DET	DT	Definite=Ind|PronType=Art	None	None	_	_
+9	free	free	ADJ	JJ	Degree=Pos	None	None	_	_
+10	and	and	CCONJ	CC	_	None	None	_	_
+11	democratic	democratic	ADJ	JJ	Degree=Pos	None	None	_	_
+12	society	society	NOUN	NN	Number=Sing	None	None	_	_
+13	,	,	PUNCT	,	_	None	None	_	_
+14	and	and	CCONJ	CC	_	None	None	_	_
+15	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	None	None	_	_
+16	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+17	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	None	None	_	_
+18	duty	duty	NOUN	NN	Number=Sing	None	None	_	_
+19	to	to	PART	TO	_	None	None	_	_
+20	ensure	ensure	VERB	VB	VerbForm=Inf	None	None	_	_
+21	that	that	SCONJ	IN	_	None	None	_	_
+22	this	this	PRON	DT	Number=Sing|PronType=Dem	None	None	_	_
+23	continues	continue	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+24	to	to	PART	TO	_	None	None	_	_
+25	be	be	AUX	VB	VerbForm=Inf	None	None	_	_
+26	respected	respect	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	None	None	_	_
+27	and	and	CCONJ	CC	_	None	None	_	_
+28	protected	protect	VERB	VBN	Tense=Past|VerbForm=Part	None	None	_	_
+29	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 2_8
+# text = “We also take this opportunity to stand in solidarity with journalists and Canadians who have been affected by the Conservative’s reckless cuts to CBC/ Radio-Canada.
+1	“	''	PUNCT	``	_	None	None	_	_
+2	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	None	None	_	_
+3	also	also	ADV	RB	_	None	None	_	_
+4	take	take	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	None	None	_	_
+5	this	this	DET	DT	Number=Sing|PronType=Dem	None	None	_	_
+6	opportunity	opportunity	NOUN	NN	Number=Sing	None	None	_	_
+7	to	to	PART	TO	_	None	None	_	_
+8	stand	stand	VERB	VB	VerbForm=Inf	None	None	_	_
+9	in	in	ADP	IN	_	None	None	_	_
+10	solidarity	solidarity	NOUN	NN	Number=Sing	None	None	_	_
+11	with	with	ADP	IN	_	None	None	_	_
+12	journalists	journalist	NOUN	NNS	Number=Plur	None	None	_	_
+13	and	and	CCONJ	CC	_	None	None	_	_
+14	Canadians	Canadian	PROPN	NNPS	Number=Plur	None	None	_	_
+15	who	who	PRON	WP	PronType=Rel	None	None	_	_
+16	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+17	been	be	AUX	VBN	Tense=Past|VerbForm=Part	None	None	_	_
+18	affected	affect	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	None	None	_	_
+19	by	by	ADP	IN	_	None	None	_	_
+20	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+21	Conservative	Conservative	PROPN	NNP	Number=Sing	None	None	_	_
+22	’s	's	PART	POS	_	None	None	_	_
+23	reckless	reckless	ADJ	JJ	Degree=Pos	None	None	_	_
+24	cuts	cut	NOUN	NNS	Number=Plur	None	None	_	_
+25	to	to	ADP	IN	_	None	None	_	_
+26	CBC	CBC	PROPN	NNP	Number=Sing	None	None	_	_
+27	/	/	SYM	,	_	None	None	_	_
+28	Radio	Radio	PROPN	NNP	Number=Sing	None	None	_	_
+29	-	-	PUNCT	HYPH	_	None	None	_	_
+30	Canada	Canada	PROPN	NNP	Number=Sing	None	None	_	_
+31	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 2_9
+# text = “When we attack the freedom of the press, we’re attacking our own people, democracy and freedom.
+1	“	''	PUNCT	``	_	None	None	_	_
+2	When	when	ADV	WRB	PronType=Int	None	None	_	_
+3	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	None	None	_	_
+4	attack	attack	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	None	None	_	_
+5	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+6	freedom	freedom	NOUN	NN	Number=Sing	None	None	_	_
+7	of	of	ADP	IN	_	None	None	_	_
+8	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+9	press	press	NOUN	NN	Number=Sing	None	None	_	_
+10	,	,	PUNCT	,	_	None	None	_	_
+11	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	None	None	_	_
+12	’re	be	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	None	None	_	_
+13	attacking	attack	VERB	VBG	Tense=Pres|VerbForm=Part	None	None	_	_
+14	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	None	None	_	_
+15	own	own	ADJ	JJ	Degree=Pos	None	None	_	_
+16	people	person	NOUN	NNS	Number=Plur	None	None	_	_
+17	,	,	PUNCT	,	_	None	None	_	_
+18	democracy	democracy	NOUN	NN	Number=Sing	None	None	_	_
+19	and	and	CCONJ	CC	_	None	None	_	_
+20	freedom	freedom	NOUN	NN	Number=Sing	None	None	_	_
+21	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 2_10
+# text = “New Democrats thank journalists and the media for their invaluable work informing the public.
+1	“	''	PUNCT	``	_	None	None	_	_
+2	New	New	ADJ	NNP	Degree=Pos	None	None	_	_
+3	Democrats	Democrat	PROPN	NNPS	Number=Plur	None	None	_	_
+4	thank	thank	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+5	journalists	journalist	NOUN	NNS	Number=Plur	None	None	_	_
+6	and	and	CCONJ	CC	_	None	None	_	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+8	media	media	NOUN	NN	Number=Sing	None	None	_	_
+9	for	for	ADP	IN	_	None	None	_	_
+10	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	None	None	_	_
+11	invaluable	invaluable	ADJ	JJ	Degree=Pos	None	None	_	_
+12	work	work	NOUN	NN	Number=Sing	None	None	_	_
+13	informing	inform	VERB	VBG	VerbForm=Ger	None	None	_	_
+14	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+15	public	public	NOUN	NN	Number=Sing	None	None	_	_
+16	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 2_11
+# text = Let’s work together to defend freedom of the press.
+1	Let	let	VERB	VB	Mood=Imp|VerbForm=Fin	None	None	_	_
+2	’s	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	None	None	_	_
+3	work	work	VERB	VB	VerbForm=Inf	None	None	_	_
+4	together	together	ADV	RB	_	None	None	_	_
+5	to	to	PART	TO	_	None	None	_	_
+6	defend	defend	VERB	VB	VerbForm=Inf	None	None	_	_
+7	freedom	freedom	NOUN	NN	Number=Sing	None	None	_	_
+8	of	of	ADP	IN	_	None	None	_	_
+9	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+10	press	press	NOUN	NN	Number=Sing	None	None	_	_
+11	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 2_12
+# text = ”
+1	”	''	PUNCT	``	_	None	None	_	_
+
+# sent_id = 2_13
+# text = http://www.ndp.ca/news/statement-ndp-world-press-freedom-day
+1	http://www.ndp.ca/news/statement-ndp-world-press-freedom-day	http://www.ndp.ca/news/statement-ndp-world-press-freedom-day	X	ADD	_	None	None	_	_
+
+# sent_id = 3_0
+# text = Do you need to write an essay to prove the point?
+1	Do	do	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	None	None	_	_
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	None	None	_	_
+3	need	need	VERB	VB	VerbForm=Inf	None	None	_	_
+4	to	to	PART	TO	_	None	None	_	_
+5	write	write	VERB	VB	VerbForm=Inf	None	None	_	_
+6	an	a	DET	DT	Definite=Ind|PronType=Art	None	None	_	_
+7	essay	essay	NOUN	NN	Number=Sing	None	None	_	_
+8	to	to	PART	TO	_	None	None	_	_
+9	prove	prove	VERB	VB	VerbForm=Inf	None	None	_	_
+10	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+11	point	point	NOUN	NN	Number=Sing	None	None	_	_
+12	?	?	PUNCT	.	_	None	None	_	_
+
+# sent_id = 3_1
+# text = Just look at the following two organisations(a) Globe and Mail (leading the pack): Write anything criticizing the sexually disoriented, mullahcracy, or global alarmists--you are censored.
+1	Just	just	ADV	RB	_	None	None	_	_
+2	look	look	VERB	VB	Mood=Imp|VerbForm=Fin	None	None	_	_
+3	at	at	ADP	IN	_	None	None	_	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+5	following	follow	VERB	VBG	VerbForm=Ger	None	None	_	_
+6	two	two	NUM	CD	NumForm=Word|NumType=Card	None	None	_	_
+7	organisations	organisation	NOUN	NNS	Number=Plur	None	None	_	_
+8	(	(	PUNCT	-LRB-	_	None	None	_	_
+9	a	a	NUM	LS	_	None	None	_	_
+10	)	)	PUNCT	-RRB-	_	None	None	_	_
+11	Globe	Globe	PROPN	NNP	Number=Sing	None	None	_	_
+12	and	and	CCONJ	CC	_	None	None	_	_
+13	Mail	Mail	PROPN	NNP	Number=Sing	None	None	_	_
+14	(	(	PUNCT	-LRB-	_	None	None	_	_
+15	leading	lead	VERB	VBG	VerbForm=Ger	None	None	_	_
+16	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+17	pack	pack	NOUN	NN	Number=Sing	None	None	_	_
+18	)	)	PUNCT	-RRB-	_	None	None	_	_
+19	:	:	PUNCT	:	_	None	None	_	_
+20	Write	write	VERB	VB	Mood=Imp|VerbForm=Fin	None	None	_	_
+21	anything	anything	PRON	NN	Number=Sing|PronType=Ind	None	None	_	_
+22	criticizing	criticize	VERB	VBG	VerbForm=Ger	None	None	_	_
+23	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+24	sexually	sexually	ADV	RB	_	None	None	_	_
+25	disoriented	disoriented	ADJ	JJ	Degree=Pos	None	None	_	_
+26	,	,	PUNCT	,	_	None	None	_	_
+27	mullahcracy	mullahcracy	ADJ	JJ	Degree=Pos	None	None	_	_
+28	,	,	PUNCT	,	_	None	None	_	_
+29	or	or	CCONJ	CC	_	None	None	_	_
+30	global	global	ADJ	JJ	Degree=Pos	None	None	_	_
+31	alarmists	alarmist	NOUN	NNS	Number=Plur	None	None	_	_
+32	--	--	PUNCT	,	_	None	None	_	_
+33	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	None	None	_	_
+34	are	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	None	None	_	_
+35	censored	censor	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	None	None	_	_
+36	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 3_2
+# text = Add to this the spurious thumb counts of the most rabid Harperphobes and churchphobes.(b) Human Rights(without responsibility)
+1	Add	add	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	None	None	_	_
+2	to	to	ADP	IN	_	None	None	_	_
+3	this	this	PRON	DT	Number=Sing|PronType=Dem	None	None	_	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+5	spurious	spurious	ADJ	JJ	Degree=Pos	None	None	_	_
+6	thumb	thumb	NOUN	NN	Number=Sing	None	None	_	_
+7	counts	count	NOUN	NNS	Number=Plur	None	None	_	_
+8	of	of	ADP	IN	_	None	None	_	_
+9	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+10	most	most	ADV	RBS	Degree=Sup	None	None	_	_
+11	rabid	rabid	ADJ	JJ	Degree=Pos	None	None	_	_
+12	Harperphobes	Harperphobes	PROPN	NNPS	Number=Plur	None	None	_	_
+13	and	and	CCONJ	CC	_	None	None	_	_
+14	churchphobes	churchphobe	NOUN	NNS	Number=Plur	None	None	_	_
+15	.	.	PUNCT	.	_	None	None	_	_
+16	(	(	PUNCT	-LRB-	_	None	None	_	_
+17	b	billion	NUM	LS	_	None	None	_	_
+18	)	)	PUNCT	-RRB-	_	None	None	_	_
+19	Human	human	ADJ	JJ	Degree=Pos	None	None	_	_
+20	Rights	right	NOUN	NNS	Number=Plur	None	None	_	_
+21	(	(	PUNCT	-LRB-	_	None	None	_	_
+22	without	without	ADP	IN	_	None	None	_	_
+23	responsibility	responsibility	NOUN	NN	Number=Sing	None	None	_	_
+24	)	)	PUNCT	-RRB-	_	None	None	_	_
+
+# sent_id = 3_3
+# text = Commission:
+1	Commission	commission	NOUN	NN	Number=Sing	None	None	_	_
+2	:	:	PUNCT	:	_	None	None	_	_
+
+# sent_id = 3_4
+# text = It has become a citadel of ethnic racists, who are inclined to be offended by anything and everything.
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	None	None	_	_
+2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+3	become	become	VERB	VBN	Tense=Past|VerbForm=Part	None	None	_	_
+4	a	a	DET	DT	Definite=Ind|PronType=Art	None	None	_	_
+5	citadel	citadel	NOUN	NN	Number=Sing	None	None	_	_
+6	of	of	ADP	IN	_	None	None	_	_
+7	ethnic	ethnic	ADJ	JJ	Degree=Pos	None	None	_	_
+8	racists	racist	NOUN	NNS	Number=Plur	None	None	_	_
+9	,	,	PUNCT	,	_	None	None	_	_
+10	who	who	PRON	WP	PronType=Rel	None	None	_	_
+11	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+12	inclined	inclined	ADJ	JJ	Degree=Pos	None	None	_	_
+13	to	to	PART	TO	_	None	None	_	_
+14	be	be	AUX	VB	VerbForm=Inf	None	None	_	_
+15	offended	offend	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	None	None	_	_
+16	by	by	ADP	IN	_	None	None	_	_
+17	anything	anything	PRON	NN	Number=Sing|PronType=Ind	None	None	_	_
+18	and	and	CCONJ	CC	_	None	None	_	_
+19	everything	everything	PRON	NN	Number=Sing|PronType=Tot	None	None	_	_
+20	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 3_5
+# text = Net result?
+1	Net	net	ADJ	JJ	Degree=Pos	None	None	_	_
+2	result	result	NOUN	NN	Number=Sing	None	None	_	_
+3	?	?	PUNCT	.	_	None	None	_	_
+
+# sent_id = 3_6
+# text = Muzzling the voice and promotion of reverse discrimination (CBC is pioneer)
+1	Muzzling	muzzle	VERB	VBG	VerbForm=Ger	None	None	_	_
+2	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+3	voice	voice	NOUN	NN	Number=Sing	None	None	_	_
+4	and	and	CCONJ	CC	_	None	None	_	_
+5	promotion	promotion	NOUN	NN	Number=Sing	None	None	_	_
+6	of	of	ADP	IN	_	None	None	_	_
+7	reverse	reverse	ADJ	JJ	Degree=Pos	None	None	_	_
+8	discrimination	discrimination	NOUN	NN	Number=Sing	None	None	_	_
+9	(	(	PUNCT	-LRB-	_	None	None	_	_
+10	CBC	CBC	PROPN	NNP	Number=Sing	None	None	_	_
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+12	pioneer	pioneer	NOUN	NN	Number=Sing	None	None	_	_
+13	)	)	PUNCT	-RRB-	_	None	None	_	_
+
+# sent_id = 4_0
+# text = Rob Ford was no saint.
+1	Rob	Rob	PROPN	NNP	Number=Sing	None	None	_	_
+2	Ford	Ford	PROPN	NNP	Number=Sing	None	None	_	_
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	None	None	_	_
+4	no	no	DET	DT	_	None	None	_	_
+5	saint	saint	NOUN	NN	Number=Sing	None	None	_	_
+6	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 4_1
+# text = He should never have become Toronto’s 64th mayor.
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	None	None	_	_
+2	should	should	AUX	MD	VerbForm=Fin	None	None	_	_
+3	never	never	ADV	RB	_	None	None	_	_
+4	have	have	AUX	VB	VerbForm=Inf	None	None	_	_
+5	become	become	VERB	VBN	Tense=Past|VerbForm=Part	None	None	_	_
+6	Toronto	Toronto	PROPN	NNP	Number=Sing	None	None	_	_
+7	’s	's	PART	POS	_	None	None	_	_
+8	64th	64th	ADJ	JJ	Degree=Pos|NumType=Ord	None	None	_	_
+9	mayor	mayor	NOUN	NN	Number=Sing	None	None	_	_
+10	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 4_2
+# text = However, he did, big warts and all.
+1	However	however	ADV	RB	_	None	None	_	_
+2	,	,	PUNCT	,	_	None	None	_	_
+3	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	None	None	_	_
+4	did	do	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	None	None	_	_
+5	,	,	PUNCT	,	_	None	None	_	_
+6	big	big	ADJ	JJ	Degree=Pos	None	None	_	_
+7	warts	wart	NOUN	NNS	Number=Plur	None	None	_	_
+8	and	and	CCONJ	CC	_	None	None	_	_
+9	all	all	DET	DT	_	None	None	_	_
+10	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 4_3
+# text = What I think the entire Rob Ford saga showed is just how spiteful, mean, malicious and vitriolic our media has become.
+1	What	what	PRON	WP	PronType=Rel	None	None	_	_
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	None	None	_	_
+3	think	think	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	None	None	_	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+5	entire	entire	ADJ	JJ	Degree=Pos	None	None	_	_
+6	Rob	Rob	PROPN	NNP	Number=Sing	None	None	_	_
+7	Ford	Ford	PROPN	NNP	Number=Sing	None	None	_	_
+8	saga	saga	NOUN	NN	Number=Sing	None	None	_	_
+9	showed	show	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	None	None	_	_
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+11	just	just	ADV	RB	_	None	None	_	_
+12	how	how	ADV	WRB	PronType=Int	None	None	_	_
+13	spiteful	spiteful	ADJ	JJ	Degree=Pos	None	None	_	_
+14	,	,	PUNCT	,	_	None	None	_	_
+15	mean	mean	ADJ	JJ	Degree=Pos	None	None	_	_
+16	,	,	PUNCT	,	_	None	None	_	_
+17	malicious	malicious	ADJ	JJ	Degree=Pos	None	None	_	_
+18	and	and	CCONJ	CC	_	None	None	_	_
+19	vitriolic	vitriolic	ADJ	JJ	Degree=Pos	None	None	_	_
+20	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	None	None	_	_
+21	media	media	NOUN	NN	Number=Sing	None	None	_	_
+22	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+23	become	become	VERB	VBN	Tense=Past|VerbForm=Part	None	None	_	_
+24	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 4_4
+# text = Many columnists most likely cannot wait to dance on his grave.
+1	Many	many	ADJ	JJ	Degree=Pos	None	None	_	_
+2	columnists	columnist	NOUN	NNS	Number=Plur	None	None	_	_
+3	most	most	ADV	RBS	Degree=Sup	None	None	_	_
+4	likely	likely	ADV	RB	_	None	None	_	_
+5	can	can	AUX	MD	VerbForm=Fin	None	None	_	_
+6	not	not	PART	RB	_	None	None	_	_
+7	wait	wait	VERB	VB	VerbForm=Inf	None	None	_	_
+8	to	to	PART	TO	_	None	None	_	_
+9	dance	dance	VERB	VB	VerbForm=Inf	None	None	_	_
+10	on	on	ADP	IN	_	None	None	_	_
+11	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	None	None	_	_
+12	grave	grave	NOUN	NN	Number=Sing	None	None	_	_
+13	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 4_5
+# text = From mocking him about being overweight to laughingly sneering about his downward spiral into drugs and alcohol they all couldn’t wait until he fell on his face.
+1	From	from	SCONJ	IN	_	None	None	_	_
+2	mocking	mock	VERB	VBG	VerbForm=Ger	None	None	_	_
+3	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	None	None	_	_
+4	about	about	SCONJ	IN	_	None	None	_	_
+5	being	be	AUX	VBG	VerbForm=Ger	None	None	_	_
+6	overweight	overweight	ADJ	JJ	Degree=Pos	None	None	_	_
+7	to	to	ADP	IN	_	None	None	_	_
+8	laughingly	laughingly	ADV	RB	_	None	None	_	_
+9	sneering	sneer	VERB	VBG	VerbForm=Ger	None	None	_	_
+10	about	about	ADP	IN	_	None	None	_	_
+11	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	None	None	_	_
+12	downward	downward	ADJ	JJ	Degree=Pos	None	None	_	_
+13	spiral	spiral	NOUN	NN	Number=Sing	None	None	_	_
+14	into	into	ADP	IN	_	None	None	_	_
+15	drugs	drug	NOUN	NNS	Number=Plur	None	None	_	_
+16	and	and	CCONJ	CC	_	None	None	_	_
+17	alcohol	alcohol	NOUN	NN	Number=Sing	None	None	_	_
+18	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	None	None	_	_
+19	all	all	DET	DT	_	None	None	_	_
+20	could	could	AUX	MD	VerbForm=Fin	None	None	_	_
+21	n’t	not	PART	RB	_	None	None	_	_
+22	wait	wait	VERB	VB	VerbForm=Inf	None	None	_	_
+23	until	until	SCONJ	IN	_	None	None	_	_
+24	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	None	None	_	_
+25	fell	fall	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	None	None	_	_
+26	on	on	ADP	IN	_	None	None	_	_
+27	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	None	None	_	_
+28	face	face	NOUN	NN	Number=Sing	None	None	_	_
+29	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 4_6
+# text = It is those opinion writers and columnists who should take some time to reflect on their own lot in life and the next time they feel they have the right to mock someone in the public eye because they do not like them they need to step away and put down the pen.
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	None	None	_	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+3	those	that	DET	DT	Number=Plur|PronType=Dem	None	None	_	_
+4	opinion	opinion	NOUN	NN	Number=Sing	None	None	_	_
+5	writers	writer	NOUN	NNS	Number=Plur	None	None	_	_
+6	and	and	CCONJ	CC	_	None	None	_	_
+7	columnists	columnist	NOUN	NNS	Number=Plur	None	None	_	_
+8	who	who	PRON	WP	PronType=Rel	None	None	_	_
+9	should	should	AUX	MD	VerbForm=Fin	None	None	_	_
+10	take	take	VERB	VB	VerbForm=Inf	None	None	_	_
+11	some	some	DET	DT	_	None	None	_	_
+12	time	time	NOUN	NN	Number=Sing	None	None	_	_
+13	to	to	PART	TO	_	None	None	_	_
+14	reflect	reflect	VERB	VB	VerbForm=Inf	None	None	_	_
+15	on	on	ADP	IN	_	None	None	_	_
+16	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	None	None	_	_
+17	own	own	ADJ	JJ	Degree=Pos	None	None	_	_
+18	lot	lot	NOUN	NN	Number=Sing	None	None	_	_
+19	in	in	ADP	IN	_	None	None	_	_
+20	life	life	NOUN	NN	Number=Sing	None	None	_	_
+21	and	and	CCONJ	CC	_	None	None	_	_
+22	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+23	next	next	ADJ	JJ	Degree=Pos	None	None	_	_
+24	time	time	NOUN	NN	Number=Sing	None	None	_	_
+25	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	None	None	_	_
+26	feel	feel	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+27	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	None	None	_	_
+28	have	have	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+29	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+30	right	right	NOUN	NN	Number=Sing	None	None	_	_
+31	to	to	PART	TO	_	None	None	_	_
+32	mock	mock	VERB	VB	VerbForm=Inf	None	None	_	_
+33	someone	someone	PRON	NN	Number=Sing|PronType=Ind	None	None	_	_
+34	in	in	ADP	IN	_	None	None	_	_
+35	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+36	public	public	ADJ	JJ	Degree=Pos	None	None	_	_
+37	eye	eye	NOUN	NN	Number=Sing	None	None	_	_
+38	because	because	SCONJ	IN	_	None	None	_	_
+39	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	None	None	_	_
+40	do	do	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+41	not	not	PART	RB	_	None	None	_	_
+42	like	like	VERB	VB	VerbForm=Inf	None	None	_	_
+43	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	None	None	_	_
+44	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	None	None	_	_
+45	need	need	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+46	to	to	PART	TO	_	None	None	_	_
+47	step	step	VERB	VB	VerbForm=Inf	None	None	_	_
+48	away	away	ADV	RB	_	None	None	_	_
+49	and	and	CCONJ	CC	_	None	None	_	_
+50	put	put	VERB	VB	VerbForm=Inf	None	None	_	_
+51	down	down	ADP	RP	_	None	None	_	_
+52	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+53	pen	pen	NOUN	NN	Number=Sing	None	None	_	_
+54	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 5_0
+# text = What an absurd opinion piece!
+1	What	what	DET	WDT	PronType=Int	None	None	_	_
+2	an	a	DET	DT	Definite=Ind|PronType=Art	None	None	_	_
+3	absurd	absurd	ADJ	JJ	Degree=Pos	None	None	_	_
+4	opinion	opinion	NOUN	NN	Number=Sing	None	None	_	_
+5	piece	piece	NOUN	NN	Number=Sing	None	None	_	_
+6	!	!	PUNCT	.	_	None	None	_	_
+
+# sent_id = 5_1
+# text = Identity politics are vile, but this is not an example of that.
+1	Identity	identity	NOUN	NN	Number=Sing	None	None	_	_
+2	politics	politics	NOUN	NNS	Number=Plur	None	None	_	_
+3	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+4	vile	vile	ADJ	JJ	Degree=Pos	None	None	_	_
+5	,	,	PUNCT	,	_	None	None	_	_
+6	but	but	CCONJ	CC	_	None	None	_	_
+7	this	this	PRON	DT	Number=Sing|PronType=Dem	None	None	_	_
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+9	not	not	PART	RB	_	None	None	_	_
+10	an	a	DET	DT	Definite=Ind|PronType=Art	None	None	_	_
+11	example	example	NOUN	NN	Number=Sing	None	None	_	_
+12	of	of	ADP	IN	_	None	None	_	_
+13	that	that	PRON	DT	Number=Sing|PronType=Dem	None	None	_	_
+14	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 5_2
+# text = This is an example of someone lying to bolster an exotic history to improve their brand.
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	None	None	_	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+3	an	a	DET	DT	Definite=Ind|PronType=Art	None	None	_	_
+4	example	example	NOUN	NN	Number=Sing	None	None	_	_
+5	of	of	ADP	IN	_	None	None	_	_
+6	someone	someone	PRON	NN	Number=Sing|PronType=Ind	None	None	_	_
+7	lying	lie	VERB	VBG	VerbForm=Ger	None	None	_	_
+8	to	to	PART	TO	_	None	None	_	_
+9	bolster	bolster	VERB	VB	VerbForm=Inf	None	None	_	_
+10	an	a	DET	DT	Definite=Ind|PronType=Art	None	None	_	_
+11	exotic	exotic	ADJ	JJ	Degree=Pos	None	None	_	_
+12	history	history	NOUN	NN	Number=Sing	None	None	_	_
+13	to	to	PART	TO	_	None	None	_	_
+14	improve	improve	VERB	VB	VerbForm=Inf	None	None	_	_
+15	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	None	None	_	_
+16	brand	brand	NOUN	NN	Number=Sing	None	None	_	_
+17	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 5_3
+# text = I had the DNA test done too.
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	None	None	_	_
+2	had	have	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	None	None	_	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+4	DNA	DNA	NOUN	NN	Number=Sing	None	None	_	_
+5	test	test	NOUN	NN	Number=Sing	None	None	_	_
+6	done	do	VERB	VBN	Tense=Past|VerbForm=Part	None	None	_	_
+7	too	too	ADV	RB	_	None	None	_	_
+8	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 5_4
+# text = I am apparently 25% indigenous 'blood' - Mi'kmaq and Huron.
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	None	None	_	_
+2	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	None	None	_	_
+3	apparently	apparently	ADV	RB	_	None	None	_	_
+4	25	25	NUM	CD	NumForm=Digit|NumType=Card	None	None	_	_
+5	%	%	SYM	NN	Number=Sing	None	None	_	_
+6	indigenous	indigenous	ADJ	JJ	Degree=Pos	None	None	_	_
+7	'	'	PUNCT	``	_	None	None	_	_
+8	blood	blood	NOUN	NN	Number=Sing	None	None	_	_
+9	'	'	PUNCT	''	_	None	None	_	_
+10	-	-	PUNCT	HYPH	_	None	None	_	_
+11	Mi'kmaq	Mi'kmaq	PROPN	NNP	Number=Sing	None	None	_	_
+12	and	and	CCONJ	CC	_	None	None	_	_
+13	Huron	Huron	PROPN	NNP	Number=Sing	None	None	_	_
+14	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 5_5
+# text = So what?
+1	So	so	ADV	RB	_	None	None	_	_
+2	what	what	PRON	WP	PronType=Int	None	None	_	_
+3	?	?	PUNCT	.	_	None	None	_	_
+
+# sent_id = 5_6
+# text = So are a lot of other Canadians whose ancestors have been here for a few hundred years.
+1	So	so	ADV	RB	_	None	None	_	_
+2	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+3	a	a	DET	DT	Definite=Ind|PronType=Art	None	None	_	_
+4	lot	lot	NOUN	NN	Number=Sing	None	None	_	_
+5	of	of	ADP	IN	_	None	None	_	_
+6	other	other	ADJ	JJ	Degree=Pos	None	None	_	_
+7	Canadians	Canadian	PROPN	NNPS	Number=Plur	None	None	_	_
+8	whose	whose	PRON	WP$	Poss=Yes|PronType=Rel	None	None	_	_
+9	ancestors	ancestor	NOUN	NNS	Number=Plur	None	None	_	_
+10	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+11	been	be	AUX	VBN	Tense=Past|VerbForm=Part	None	None	_	_
+12	here	here	ADV	RB	PronType=Dem	None	None	_	_
+13	for	for	ADP	IN	_	None	None	_	_
+14	a	a	DET	DT	Definite=Ind|PronType=Art	None	None	_	_
+15	few	few	ADJ	JJ	Degree=Pos	None	None	_	_
+16	hundred	hundred	NUM	CD	NumForm=Word|NumType=Card	None	None	_	_
+17	years	year	NOUN	NNS	Number=Plur	None	None	_	_
+18	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 5_7
+# text = That does not entitle me to grants and awards meant for people who have been raised in that culture.
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	None	None	_	_
+2	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+3	not	not	PART	RB	_	None	None	_	_
+4	entitle	entitle	VERB	VB	VerbForm=Inf	None	None	_	_
+5	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	None	None	_	_
+6	to	to	ADP	IN	_	None	None	_	_
+7	grants	grant	NOUN	NNS	Number=Plur	None	None	_	_
+8	and	and	CCONJ	CC	_	None	None	_	_
+9	awards	award	NOUN	NNS	Number=Plur	None	None	_	_
+10	meant	mean	VERB	VBN	Tense=Past|VerbForm=Part	None	None	_	_
+11	for	for	ADP	IN	_	None	None	_	_
+12	people	person	NOUN	NNS	Number=Plur	None	None	_	_
+13	who	who	PRON	WP	PronType=Rel	None	None	_	_
+14	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+15	been	be	AUX	VBN	Tense=Past|VerbForm=Part	None	None	_	_
+16	raised	raise	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	None	None	_	_
+17	in	in	ADP	IN	_	None	None	_	_
+18	that	that	DET	DT	Number=Sing|PronType=Dem	None	None	_	_
+19	culture	culture	NOUN	NN	Number=Sing	None	None	_	_
+20	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 5_8
+# text = They are the ones who have lived with the privations that mean they need help to get to a level playing field and who are able to speak from experience about their history and culture.
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	None	None	_	_
+2	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+4	ones	one	NOUN	NNS	Number=Plur	None	None	_	_
+5	who	who	PRON	WP	PronType=Rel	None	None	_	_
+6	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+7	lived	live	VERB	VBN	Tense=Past|VerbForm=Part	None	None	_	_
+8	with	with	ADP	IN	_	None	None	_	_
+9	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+10	privations	privation	NOUN	NNS	Number=Plur	None	None	_	_
+11	that	that	PRON	WDT	PronType=Rel	None	None	_	_
+12	mean	mean	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+13	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	None	None	_	_
+14	need	need	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+15	help	help	NOUN	NN	Number=Sing	None	None	_	_
+16	to	to	PART	TO	_	None	None	_	_
+17	get	get	VERB	VB	VerbForm=Inf	None	None	_	_
+18	to	to	ADP	IN	_	None	None	_	_
+19	a	a	DET	DT	Definite=Ind|PronType=Art	None	None	_	_
+20	level	level	NOUN	NN	Number=Sing	None	None	_	_
+21	playing	playing	NOUN	NN	Number=Sing	None	None	_	_
+22	field	field	NOUN	NN	Number=Sing	None	None	_	_
+23	and	and	CCONJ	CC	_	None	None	_	_
+24	who	who	PRON	WP	PronType=Rel	None	None	_	_
+25	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+26	able	able	ADJ	JJ	Degree=Pos	None	None	_	_
+27	to	to	PART	TO	_	None	None	_	_
+28	speak	speak	VERB	VB	VerbForm=Inf	None	None	_	_
+29	from	from	ADP	IN	_	None	None	_	_
+30	experience	experience	NOUN	NN	Number=Sing	None	None	_	_
+31	about	about	ADP	IN	_	None	None	_	_
+32	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	None	None	_	_
+33	history	history	NOUN	NN	Number=Sing	None	None	_	_
+34	and	and	CCONJ	CC	_	None	None	_	_
+35	culture	culture	NOUN	NN	Number=Sing	None	None	_	_
+36	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 5_9
+# text = A lot of the cultural appropriation rhetoric is B.S.
+1	A	a	DET	DT	Definite=Ind|PronType=Art	None	None	_	_
+2	lot	lot	NOUN	NN	Number=Sing	None	None	_	_
+3	of	of	ADP	IN	_	None	None	_	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+5	cultural	cultural	ADJ	JJ	Degree=Pos	None	None	_	_
+6	appropriation	appropriation	NOUN	NN	Number=Sing	None	None	_	_
+7	rhetoric	rhetoric	NOUN	NN	Number=Sing	None	None	_	_
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+9	B.S.	b.s.	NOUN	NN	Number=Sing	None	None	_	_
+
+# sent_id = 5_10
+# text = No one should claim any writer can't write about anything he or she wants to.
+1	No	no	DET	DT	_	None	None	_	_
+2	one	one	PRON	NN	Number=Sing|PronType=Neg	None	None	_	_
+3	should	should	AUX	MD	VerbForm=Fin	None	None	_	_
+4	claim	claim	VERB	VB	VerbForm=Inf	None	None	_	_
+5	any	any	DET	DT	_	None	None	_	_
+6	writer	writer	NOUN	NN	Number=Sing	None	None	_	_
+7	ca	can	AUX	MD	VerbForm=Fin	None	None	_	_
+8	n't	not	PART	RB	_	None	None	_	_
+9	write	write	VERB	VB	VerbForm=Inf	None	None	_	_
+10	about	about	ADP	IN	_	None	None	_	_
+11	anything	anything	PRON	NN	Number=Sing|PronType=Ind	None	None	_	_
+12	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	None	None	_	_
+13	or	or	CCONJ	CC	_	None	None	_	_
+14	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	None	None	_	_
+15	wants	want	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+16	to	to	PART	TO	_	None	None	_	_
+17	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 5_11
+# text = HOWEVER, if they are going to lie about their connection to the subject matter and claim an 'authenticity' they do not possess, they should expect to be criticized.
+1	HOWEVER	however	ADV	RB	_	None	None	_	_
+2	,	,	PUNCT	,	_	None	None	_	_
+3	if	if	SCONJ	IN	_	None	None	_	_
+4	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	None	None	_	_
+5	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+6	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	None	None	_	_
+7	to	to	PART	TO	_	None	None	_	_
+8	lie	lie	VERB	VB	VerbForm=Inf	None	None	_	_
+9	about	about	ADP	IN	_	None	None	_	_
+10	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	None	None	_	_
+11	connection	connection	NOUN	NN	Number=Sing	None	None	_	_
+12	to	to	ADP	IN	_	None	None	_	_
+13	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+14	subject	subject	NOUN	NN	Number=Sing	None	None	_	_
+15	matter	matter	NOUN	NN	Number=Sing	None	None	_	_
+16	and	and	CCONJ	CC	_	None	None	_	_
+17	claim	claim	VERB	VB	VerbForm=Inf	None	None	_	_
+18	an	a	DET	DT	Definite=Ind|PronType=Art	None	None	_	_
+19	'	'	PUNCT	``	_	None	None	_	_
+20	authenticity	authenticity	NOUN	NN	Number=Sing	None	None	_	_
+21	'	'	PUNCT	''	_	None	None	_	_
+22	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	None	None	_	_
+23	do	do	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+24	not	not	PART	RB	_	None	None	_	_
+25	possess	possess	VERB	VB	VerbForm=Inf	None	None	_	_
+26	,	,	PUNCT	,	_	None	None	_	_
+27	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	None	None	_	_
+28	should	should	AUX	MD	VerbForm=Fin	None	None	_	_
+29	expect	expect	VERB	VB	VerbForm=Inf	None	None	_	_
+30	to	to	PART	TO	_	None	None	_	_
+31	be	be	AUX	VB	VerbForm=Inf	None	None	_	_
+32	criticized	criticize	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	None	None	_	_
+33	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 6_0
+# text = In the USA most states have a senate.
+1	In	in	ADP	IN	_	None	None	_	_
+2	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+3	USA	USA	PROPN	NNP	Number=Sing	None	None	_	_
+4	most	most	ADJ	JJS	Degree=Sup	None	None	_	_
+5	states	state	NOUN	NNS	Number=Plur	None	None	_	_
+6	have	have	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+7	a	a	DET	DT	Definite=Ind|PronType=Art	None	None	_	_
+8	senate	senate	NOUN	NN	Number=Sing	None	None	_	_
+9	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 6_1
+# text = I believe that Ontario has gotten big enough that perhaps we need a sober 2nd thought.
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	None	None	_	_
+2	believe	believe	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	None	None	_	_
+3	that	that	SCONJ	IN	_	None	None	_	_
+4	Ontario	Ontario	PROPN	NNP	Number=Sing	None	None	_	_
+5	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+6	gotten	get	VERB	VBN	Tense=Past|VerbForm=Part	None	None	_	_
+7	big	big	ADJ	JJ	Degree=Pos	None	None	_	_
+8	enough	enough	ADV	RB	_	None	None	_	_
+9	that	that	SCONJ	IN	_	None	None	_	_
+10	perhaps	perhaps	ADV	RB	_	None	None	_	_
+11	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	None	None	_	_
+12	need	need	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	None	None	_	_
+13	a	a	DET	DT	Definite=Ind|PronType=Art	None	None	_	_
+14	sober	sober	ADJ	JJ	Degree=Pos	None	None	_	_
+15	2nd	2nd	ADJ	JJ	Degree=Pos|NumType=Ord	None	None	_	_
+16	thought	thought	NOUN	NN	Number=Sing	None	None	_	_
+17	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 6_2
+# text = This is to ensure that dictators like Wynne don't run roughshod over Ontario's future.
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	None	None	_	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+3	to	to	PART	TO	_	None	None	_	_
+4	ensure	ensure	VERB	VB	VerbForm=Inf	None	None	_	_
+5	that	that	SCONJ	IN	_	None	None	_	_
+6	dictators	dictator	NOUN	NNS	Number=Plur	None	None	_	_
+7	like	like	ADP	IN	_	None	None	_	_
+8	Wynne	Wynne	PROPN	NNP	Number=Sing	None	None	_	_
+9	do	do	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+10	n't	not	PART	RB	_	None	None	_	_
+11	run	run	VERB	VB	VerbForm=Inf	None	None	_	_
+12	roughshod	roughshod	ADV	RB	_	None	None	_	_
+13	over	over	ADP	IN	_	None	None	_	_
+14	Ontario	Ontario	PROPN	NNP	Number=Sing	None	None	_	_
+15	's	's	PART	POS	_	None	None	_	_
+16	future	future	NOUN	NN	Number=Sing	None	None	_	_
+17	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 6_3
+# text = What $1 billion scandal or two wouldn't buy?
+1	What	what	DET	WDT	PronType=Int	None	None	_	_
+2	$	$	SYM	$	_	None	None	_	_
+3	1	1	NUM	CD	NumForm=Digit|NumType=Card	None	None	_	_
+4	billion	billion	NUM	CD	NumForm=Word|NumType=Card	None	None	_	_
+5	scandal	scandal	NOUN	NN	Number=Sing	None	None	_	_
+6	or	or	CCONJ	CC	_	None	None	_	_
+7	two	two	NUM	CD	NumForm=Word|NumType=Card	None	None	_	_
+8	would	would	AUX	MD	VerbForm=Fin	None	None	_	_
+9	n't	not	PART	RB	_	None	None	_	_
+10	buy	buy	VERB	VB	VerbForm=Inf	None	None	_	_
+11	?	?	PUNCT	.	_	None	None	_	_
+
+# sent_id = 6_4
+# text = Critics are denounced falsely as racist.
+1	Critics	critic	NOUN	NNS	Number=Plur	None	None	_	_
+2	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+3	denounced	denounce	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	None	None	_	_
+4	falsely	falsely	ADV	RB	_	None	None	_	_
+5	as	as	ADP	IN	_	None	None	_	_
+6	racist	racist	ADJ	JJ	Degree=Pos	None	None	_	_
+7	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 6_5
+# text = Ontario's future is now down the toilet.
+1	Ontario	Ontario	PROPN	NNP	Number=Sing	None	None	_	_
+2	's	's	PART	POS	_	None	None	_	_
+3	future	future	NOUN	NN	Number=Sing	None	None	_	_
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+5	now	now	ADV	RB	_	None	None	_	_
+6	down	down	ADP	IN	_	None	None	_	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+8	toilet	toilet	NOUN	NN	Number=Sing	None	None	_	_
+9	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 6_6
+# text = There will be no more equalization payments coming Ontario's way.
+1	There	there	PRON	EX	_	None	None	_	_
+2	will	will	AUX	MD	VerbForm=Fin	None	None	_	_
+3	be	be	AUX	VB	VerbForm=Inf	None	None	_	_
+4	no	no	DET	DT	_	None	None	_	_
+5	more	more	ADJ	JJR	Degree=Cmp	None	None	_	_
+6	equalization	equalization	NOUN	NN	Number=Sing	None	None	_	_
+7	payments	payment	NOUN	NNS	Number=Plur	None	None	_	_
+8	coming	come	VERB	VBG	VerbForm=Ger	None	None	_	_
+9	Ontario	Ontario	PROPN	NNP	Number=Sing	None	None	_	_
+10	's	's	PART	POS	_	None	None	_	_
+11	way	way	NOUN	NN	Number=Sing	None	None	_	_
+12	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 6_7
+# text = The books are yet not balanced while she goes off on more stupid spending ideas or a tax this or that scheme.
+1	The	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+2	books	book	NOUN	NNS	Number=Plur	None	None	_	_
+3	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+4	yet	yet	ADV	RB	_	None	None	_	_
+5	not	not	PART	RB	_	None	None	_	_
+6	balanced	balance	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	None	None	_	_
+7	while	while	SCONJ	IN	_	None	None	_	_
+8	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	None	None	_	_
+9	goes	go	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+10	off	off	ADP	RP	_	None	None	_	_
+11	on	on	ADP	IN	_	None	None	_	_
+12	more	more	ADV	RBR	Degree=Cmp	None	None	_	_
+13	stupid	stupid	ADJ	JJ	Degree=Pos	None	None	_	_
+14	spending	spending	NOUN	NN	Number=Sing	None	None	_	_
+15	ideas	idea	NOUN	NNS	Number=Plur	None	None	_	_
+16	or	or	CCONJ	CC	_	None	None	_	_
+17	a	a	DET	DT	Definite=Ind|PronType=Art	None	None	_	_
+18	tax	tax	NOUN	NN	Number=Sing	None	None	_	_
+19	this	this	PRON	DT	Number=Sing|PronType=Dem	None	None	_	_
+20	or	or	CCONJ	CC	_	None	None	_	_
+21	that	that	DET	DT	Number=Sing|PronType=Dem	None	None	_	_
+22	scheme	scheme	NOUN	NN	Number=Sing	None	None	_	_
+23	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 7_0
+# text = Quoting the elder Trudeau's comments out of context boosts the liberal cause in Quebec and it creates a gaping hole in the Conservatives defenses that Liberals will surely drive a stake thru.
+1	Quoting	quote	VERB	VBG	VerbForm=Ger	None	None	_	_
+2	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+3	elder	elder	ADJ	JJ	Degree=Pos	None	None	_	_
+4	Trudeau	Trudeau	PROPN	NNP	Number=Sing	None	None	_	_
+5	's	's	PART	POS	_	None	None	_	_
+6	comments	comment	NOUN	NNS	Number=Plur	None	None	_	_
+7	out	out	ADP	IN	_	None	None	_	_
+8	of	of	ADP	IN	_	None	None	_	_
+9	context	context	NOUN	NN	Number=Sing	None	None	_	_
+10	boosts	boost	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+11	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+12	liberal	liberal	ADJ	JJ	Degree=Pos	None	None	_	_
+13	cause	cause	NOUN	NN	Number=Sing	None	None	_	_
+14	in	in	ADP	IN	_	None	None	_	_
+15	Quebec	Quebec	PROPN	NNP	Number=Sing	None	None	_	_
+16	and	and	CCONJ	CC	_	None	None	_	_
+17	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	None	None	_	_
+18	creates	create	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+19	a	a	DET	DT	Definite=Ind|PronType=Art	None	None	_	_
+20	gaping	gape	VERB	VBG	VerbForm=Ger	None	None	_	_
+21	hole	hole	NOUN	NN	Number=Sing	None	None	_	_
+22	in	in	ADP	IN	_	None	None	_	_
+23	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+24	Conservatives	Conservatives	PROPN	NNPS	Number=Plur	None	None	_	_
+25	defenses	defens	NOUN	NNS	Number=Plur	None	None	_	_
+26	that	that	PRON	WDT	PronType=Rel	None	None	_	_
+27	Liberals	Liberals	PROPN	NNPS	Number=Plur	None	None	_	_
+28	will	will	AUX	MD	VerbForm=Fin	None	None	_	_
+29	surely	surely	ADV	RB	_	None	None	_	_
+30	drive	drive	VERB	VB	VerbForm=Inf	None	None	_	_
+31	a	a	DET	DT	Definite=Ind|PronType=Art	None	None	_	_
+32	stake	stake	NOUN	NN	Number=Sing	None	None	_	_
+33	thru	through	ADV	RB	_	None	None	_	_
+34	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 7_1
+# text = When Canadians understand the origins of this duplicity, only the Conservatives will put it off to 'just politics'.
+1	When	when	ADV	WRB	PronType=Int	None	None	_	_
+2	Canadians	Canadian	PROPN	NNPS	Number=Plur	None	None	_	_
+3	understand	understand	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+5	origins	origin	NOUN	NNS	Number=Plur	None	None	_	_
+6	of	of	ADP	IN	_	None	None	_	_
+7	this	this	DET	DT	Number=Sing|PronType=Dem	None	None	_	_
+8	duplicity	duplicity	NOUN	NN	Number=Sing	None	None	_	_
+9	,	,	PUNCT	,	_	None	None	_	_
+10	only	only	ADV	RB	_	None	None	_	_
+11	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+12	Conservatives	Conservatives	PROPN	NNPS	Number=Plur	None	None	_	_
+13	will	will	AUX	MD	VerbForm=Fin	None	None	_	_
+14	put	put	VERB	VB	VerbForm=Inf	None	None	_	_
+15	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	None	None	_	_
+16	off	off	ADP	RP	_	None	None	_	_
+17	to	to	ADP	IN	_	None	None	_	_
+18	'	'	PUNCT	``	_	None	None	_	_
+19	just	just	ADV	RB	_	None	None	_	_
+20	politics	politics	NOUN	NNS	Number=Plur	None	None	_	_
+21	'	'	PUNCT	''	_	None	None	_	_
+22	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 7_2
+# text = The rest of us will take it as another proof that the Harper government are liars as well as bullies.
+1	The	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+2	rest	rest	NOUN	NN	Number=Sing	None	None	_	_
+3	of	of	ADP	IN	_	None	None	_	_
+4	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	None	None	_	_
+5	will	will	AUX	MD	VerbForm=Fin	None	None	_	_
+6	take	take	VERB	VB	VerbForm=Inf	None	None	_	_
+7	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	None	None	_	_
+8	as	as	ADP	IN	_	None	None	_	_
+9	another	another	DET	DT	_	None	None	_	_
+10	proof	proof	NOUN	NN	Number=Sing	None	None	_	_
+11	that	that	SCONJ	IN	_	None	None	_	_
+12	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+13	Harper	Harper	PROPN	NNP	Number=Sing	None	None	_	_
+14	government	government	NOUN	NN	Number=Sing	None	None	_	_
+15	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+16	liars	liar	NOUN	NNS	Number=Plur	None	None	_	_
+17	as	as	ADV	RB	_	None	None	_	_
+18	well	well	ADV	RB	Degree=Pos	None	None	_	_
+19	as	as	ADP	IN	_	None	None	_	_
+20	bullies	bully	NOUN	NNS	Number=Plur	None	None	_	_
+21	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 7_3
+# text = Its time for a change in the practice of governance.
+1	Its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	None	None	_	_
+2	time	time	NOUN	NN	Number=Sing	None	None	_	_
+3	for	for	ADP	IN	_	None	None	_	_
+4	a	a	DET	DT	Definite=Ind|PronType=Art	None	None	_	_
+5	change	change	NOUN	NN	Number=Sing	None	None	_	_
+6	in	in	ADP	IN	_	None	None	_	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+8	practice	practice	NOUN	NN	Number=Sing	None	None	_	_
+9	of	of	ADP	IN	_	None	None	_	_
+10	governance	governance	NOUN	NN	Number=Sing	None	None	_	_
+11	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 8_0
+# text = =============================='
+1	=============================='	=============================='	SYM	NFP	_	None	None	_	_
+
+# sent_id = 8_1
+# text = Ben Carr, a Winnipeg teacher and Liberal activist, finds it curious that the Conservatives engage in character attacks and bullying while, in schools across the country, anti-bullying campaigns encouraged by these same Conservatives are afoot.
+1	Ben	Ben	PROPN	NNP	Number=Sing	None	None	_	_
+2	Carr	Carr	PROPN	NNP	Number=Sing	None	None	_	_
+3	,	,	PUNCT	,	_	None	None	_	_
+4	a	a	DET	DT	Definite=Ind|PronType=Art	None	None	_	_
+5	Winnipeg	Winnipeg	PROPN	NNP	Number=Sing	None	None	_	_
+6	teacher	teacher	NOUN	NN	Number=Sing	None	None	_	_
+7	and	and	CCONJ	CC	_	None	None	_	_
+8	Liberal	liberal	ADJ	JJ	Degree=Pos	None	None	_	_
+9	activist	activist	NOUN	NN	Number=Sing	None	None	_	_
+10	,	,	PUNCT	,	_	None	None	_	_
+11	finds	find	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+12	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	None	None	_	_
+13	curious	curious	ADJ	JJ	Degree=Pos	None	None	_	_
+14	that	that	SCONJ	IN	_	None	None	_	_
+15	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+16	Conservatives	Conservatives	PROPN	NNPS	Number=Plur	None	None	_	_
+17	engage	engage	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+18	in	in	ADP	IN	_	None	None	_	_
+19	character	character	NOUN	NN	Number=Sing	None	None	_	_
+20	attacks	attack	NOUN	NNS	Number=Plur	None	None	_	_
+21	and	and	CCONJ	CC	_	None	None	_	_
+22	bullying	bullying	NOUN	NN	Number=Sing	None	None	_	_
+23	while	while	SCONJ	IN	_	None	None	_	_
+24	,	,	PUNCT	,	_	None	None	_	_
+25	in	in	ADP	IN	_	None	None	_	_
+26	schools	school	NOUN	NNS	Number=Plur	None	None	_	_
+27	across	across	ADP	IN	_	None	None	_	_
+28	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+29	country	country	NOUN	NN	Number=Sing	None	None	_	_
+30	,	,	PUNCT	,	_	None	None	_	_
+31	anti-bullying	anti-bullying	NOUN	NN	Number=Sing	None	None	_	_
+32	campaigns	campaign	NOUN	NNS	Number=Plur	None	None	_	_
+33	encouraged	encourage	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	None	None	_	_
+34	by	by	ADP	IN	_	None	None	_	_
+35	these	this	DET	DT	Number=Plur|PronType=Dem	None	None	_	_
+36	same	same	ADJ	JJ	Degree=Pos	None	None	_	_
+37	Conservatives	Conservatives	PROPN	NNPS	Number=Plur	None	None	_	_
+38	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+39	afoot	afoot	ADJ	JJ	Degree=Pos	None	None	_	_
+40	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 8_2
+# text = '==================================
+1	'==================================	'==================================	SYM	NFP	_	None	None	_	_
+
+# sent_id = 8_3
+# text = Please.
+1	Please	please	INTJ	UH	_	None	None	_	_
+2	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 8_4
+# text = Ben Carr trivializes bullying with this kind of hyperbole.
+1	Ben	Ben	PROPN	NNP	Number=Sing	None	None	_	_
+2	Carr	Carr	PROPN	NNP	Number=Sing	None	None	_	_
+3	trivializes	trivialize	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+4	bullying	bullying	NOUN	NN	Number=Sing	None	None	_	_
+5	with	with	ADP	IN	_	None	None	_	_
+6	this	this	DET	DT	Number=Sing|PronType=Dem	None	None	_	_
+7	kind	kind	NOUN	NN	Number=Sing	None	None	_	_
+8	of	of	ADP	IN	_	None	None	_	_
+9	hyperbole	hyperbole	NOUN	NN	Number=Sing	None	None	_	_
+10	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 8_5
+# text = JT seems fairly adept at giving himself figurative wedgies anyway.
+1	JT	JT	PROPN	NNP	Number=Sing	None	None	_	_
+2	seems	seem	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+3	fairly	fairly	ADV	RB	_	None	None	_	_
+4	adept	adept	ADJ	JJ	Degree=Pos	None	None	_	_
+5	at	at	SCONJ	IN	_	None	None	_	_
+6	giving	give	VERB	VBG	VerbForm=Ger	None	None	_	_
+7	himself	himself	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	None	None	_	_
+8	figurative	figurative	ADJ	JJ	Degree=Pos	None	None	_	_
+9	wedgies	wedgy	NOUN	NNS	Number=Plur	None	None	_	_
+10	anyway	anyway	ADV	RB	_	None	None	_	_
+11	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 8_6
+# text = When the Liberals produce similar attack ads against the Cons people like Ben Carr and Lawerence Martin would describe them as 'hard-hitting'.
+1	When	when	ADV	WRB	PronType=Int	None	None	_	_
+2	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+3	Liberals	Liberals	PROPN	NNPS	Number=Plur	None	None	_	_
+4	produce	produce	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+5	similar	similar	ADJ	JJ	Degree=Pos	None	None	_	_
+6	attack	attack	NOUN	NN	Number=Sing	None	None	_	_
+7	ads	ad	NOUN	NNS	Number=Plur	None	None	_	_
+8	against	against	ADP	IN	_	None	None	_	_
+9	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+10	Cons	con	NOUN	NNS	Number=Plur	None	None	_	_
+11	people	person	NOUN	NNS	Number=Plur	None	None	_	_
+12	like	like	ADP	IN	_	None	None	_	_
+13	Ben	Ben	PROPN	NNP	Number=Sing	None	None	_	_
+14	Carr	Carr	PROPN	NNP	Number=Sing	None	None	_	_
+15	and	and	CCONJ	CC	_	None	None	_	_
+16	Lawerence	Lawerence	PROPN	NNP	Number=Sing	None	None	_	_
+17	Martin	Martin	PROPN	NNP	Number=Sing	None	None	_	_
+18	would	would	AUX	MD	VerbForm=Fin	None	None	_	_
+19	describe	describe	VERB	VB	VerbForm=Inf	None	None	_	_
+20	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	None	None	_	_
+21	as	as	ADP	IN	_	None	None	_	_
+22	'	'	PUNCT	``	_	None	None	_	_
+23	hard	hard	ADJ	JJ	Degree=Pos	None	None	_	_
+24	-	-	PUNCT	HYPH	_	None	None	_	_
+25	hitting	hit	NOUN	NN	Number=Sing	None	None	_	_
+26	'	'	PUNCT	''	_	None	None	_	_
+27	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 8_7
+# text = Liberal mover Warren Kinsella would describe them as 'a$$-kicking' in deference to the book he wrote about smearing and ridiculing Stockwell Day.
+1	Liberal	liberal	ADJ	JJ	Degree=Pos	None	None	_	_
+2	mover	mover	NOUN	NN	Number=Sing	None	None	_	_
+3	Warren	Warren	PROPN	NNP	Number=Sing	None	None	_	_
+4	Kinsella	Kinsella	PROPN	NNP	Number=Sing	None	None	_	_
+5	would	would	AUX	MD	VerbForm=Fin	None	None	_	_
+6	describe	describe	VERB	VB	VerbForm=Inf	None	None	_	_
+7	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	None	None	_	_
+8	as	as	ADP	IN	_	None	None	_	_
+9	'	'	PUNCT	``	_	None	None	_	_
+10	a$	a$	SYM	SYM	_	None	None	_	_
+11	$	$	SYM	$	_	None	None	_	_
+12	-	-	PUNCT	HYPH	_	None	None	_	_
+13	kicking	kick	NOUN	NN	Number=Sing	None	None	_	_
+14	'	'	PUNCT	''	_	None	None	_	_
+15	in	in	ADP	IN	_	None	None	_	_
+16	deference	deference	NOUN	NN	Number=Sing	None	None	_	_
+17	to	to	ADP	IN	_	None	None	_	_
+18	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+19	book	book	NOUN	NN	Number=Sing	None	None	_	_
+20	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	None	None	_	_
+21	wrote	write	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	None	None	_	_
+22	about	about	SCONJ	IN	_	None	None	_	_
+23	smearing	smear	VERB	VBG	VerbForm=Ger	None	None	_	_
+24	and	and	CCONJ	CC	_	None	None	_	_
+25	ridiculing	ridicule	VERB	VBG	VerbForm=Ger	None	None	_	_
+26	Stockwell	Stockwell	PROPN	NNP	Number=Sing	None	None	_	_
+27	Day	Day	PROPN	NNP	Number=Sing	None	None	_	_
+28	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 8_8
+# text = It's all so hypocritical.
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	None	None	_	_
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+3	all	all	ADV	RB	_	None	None	_	_
+4	so	so	ADV	RB	_	None	None	_	_
+5	hypocritical	hypocritical	ADJ	JJ	Degree=Pos	None	None	_	_
+6	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 9_0
+# text = This government needs the public to remain ill informed, it assumes most of us are just illiterate idiots who don't know how to deal with information.
+1	This	this	DET	DT	Number=Sing|PronType=Dem	None	None	_	_
+2	government	government	NOUN	NN	Number=Sing	None	None	_	_
+3	needs	need	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+5	public	public	NOUN	NN	Number=Sing	None	None	_	_
+6	to	to	PART	TO	_	None	None	_	_
+7	remain	remain	VERB	VB	VerbForm=Inf	None	None	_	_
+8	ill	ill	ADV	RB	_	None	None	_	_
+9	informed	inform	VERB	VBN	Tense=Past|VerbForm=Part	None	None	_	_
+10	,	,	PUNCT	,	_	None	None	_	_
+11	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	None	None	_	_
+12	assumes	assume	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+13	most	most	ADJ	JJS	Degree=Sup	None	None	_	_
+14	of	of	ADP	IN	_	None	None	_	_
+15	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	None	None	_	_
+16	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+17	just	just	ADV	RB	_	None	None	_	_
+18	illiterate	illiterate	ADJ	JJ	Degree=Pos	None	None	_	_
+19	idiots	idiot	NOUN	NNS	Number=Plur	None	None	_	_
+20	who	who	PRON	WP	PronType=Rel	None	None	_	_
+21	do	do	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+22	n't	not	PART	RB	_	None	None	_	_
+23	know	know	VERB	VB	VerbForm=Inf	None	None	_	_
+24	how	how	ADV	WRB	PronType=Int	None	None	_	_
+25	to	to	PART	TO	_	None	None	_	_
+26	deal	deal	VERB	VB	VerbForm=Inf	None	None	_	_
+27	with	with	ADP	IN	_	None	None	_	_
+28	information	information	NOUN	NN	Number=Sing	None	None	_	_
+29	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 9_1
+# text = What's interesting is that the fundamentalists who blindly support them refers to others as the elitists.
+1	What	what	PRON	WP	PronType=Int	None	None	_	_
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+3	interesting	interesting	ADJ	JJ	Degree=Pos	None	None	_	_
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+5	that	that	SCONJ	IN	_	None	None	_	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+7	fundamentalists	fundamentalist	NOUN	NNS	Number=Plur	None	None	_	_
+8	who	who	PRON	WP	PronType=Rel	None	None	_	_
+9	blindly	blindly	ADV	RB	_	None	None	_	_
+10	support	support	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+11	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	None	None	_	_
+12	refers	refer	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+13	to	to	ADP	IN	_	None	None	_	_
+14	others	other	NOUN	NNS	Number=Plur	None	None	_	_
+15	as	as	ADP	IN	_	None	None	_	_
+16	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+17	elitists	elitist	NOUN	NNS	Number=Plur	None	None	_	_
+18	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 9_2
+# text = Its code for people who think -- you have to alienate and generalize the enemy if you want to win the war and surpress oppoistion.
+1	Its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	None	None	_	_
+2	code	code	NOUN	NN	Number=Sing	None	None	_	_
+3	for	for	ADP	IN	_	None	None	_	_
+4	people	person	NOUN	NNS	Number=Plur	None	None	_	_
+5	who	who	PRON	WP	PronType=Rel	None	None	_	_
+6	think	think	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+7	--	--	PUNCT	,	_	None	None	_	_
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	None	None	_	_
+9	have	have	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	None	None	_	_
+10	to	to	PART	TO	_	None	None	_	_
+11	alienate	alienate	VERB	VB	VerbForm=Inf	None	None	_	_
+12	and	and	CCONJ	CC	_	None	None	_	_
+13	generalize	generalize	VERB	VB	VerbForm=Inf	None	None	_	_
+14	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+15	enemy	enemy	NOUN	NN	Number=Sing	None	None	_	_
+16	if	if	SCONJ	IN	_	None	None	_	_
+17	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	None	None	_	_
+18	want	want	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	None	None	_	_
+19	to	to	PART	TO	_	None	None	_	_
+20	win	win	VERB	VB	VerbForm=Inf	None	None	_	_
+21	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+22	war	war	NOUN	NN	Number=Sing	None	None	_	_
+23	and	and	CCONJ	CC	_	None	None	_	_
+24	surpress	surpress	NOUN	NN	Number=Sing	None	None	_	_
+25	oppoistion	oppoistion	NOUN	NN	Number=Sing	None	None	_	_
+26	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 9_3
+# text = Remember the old Fred Astaire movie, Silk Stockings, where the artists from the USSR was accompanied by a political controller.
+1	Remember	remember	VERB	VB	Mood=Imp|VerbForm=Fin	None	None	_	_
+2	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+3	old	old	ADJ	JJ	Degree=Pos	None	None	_	_
+4	Fred	Fred	PROPN	NNP	Number=Sing	None	None	_	_
+5	Astaire	Astaire	PROPN	NNP	Number=Sing	None	None	_	_
+6	movie	movie	NOUN	NN	Number=Sing	None	None	_	_
+7	,	,	PUNCT	,	_	None	None	_	_
+8	Silk	Silk	PROPN	NNP	Number=Sing	None	None	_	_
+9	Stockings	Stockings	PROPN	NNPS	Number=Plur	None	None	_	_
+10	,	,	PUNCT	,	_	None	None	_	_
+11	where	where	ADV	WRB	PronType=Rel	None	None	_	_
+12	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+13	artists	artist	NOUN	NNS	Number=Plur	None	None	_	_
+14	from	from	ADP	IN	_	None	None	_	_
+15	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+16	USSR	USSR	PROPN	NNP	Number=Sing	None	None	_	_
+17	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	None	None	_	_
+18	accompanied	accompany	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	None	None	_	_
+19	by	by	ADP	IN	_	None	None	_	_
+20	a	a	DET	DT	Definite=Ind|PronType=Art	None	None	_	_
+21	political	political	ADJ	JJ	Degree=Pos	None	None	_	_
+22	controller	controller	NOUN	NN	Number=Sing	None	None	_	_
+23	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 9_4
+# text = Remeber the second World War when German Soldiers and Generals always had someone from the Gestapo assigned to them, to monitor their public views.
+1	Remeber	remeber	VERB	VB	VerbForm=Fin	None	None	_	_
+2	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+3	second	second	ADJ	JJ	Degree=Pos|NumType=Ord	None	None	_	_
+4	World	World	PROPN	NNP	Number=Sing	None	None	_	_
+5	War	War	PROPN	NNP	Number=Sing	None	None	_	_
+6	when	when	ADV	WRB	PronType=Int	None	None	_	_
+7	German	German	ADJ	JJ	Degree=Pos	None	None	_	_
+8	Soldiers	Soldier	PROPN	NNPS	Number=Plur	None	None	_	_
+9	and	and	CCONJ	CC	_	None	None	_	_
+10	Generals	Generals	PROPN	NNPS	Number=Plur	None	None	_	_
+11	always	always	ADV	RB	_	None	None	_	_
+12	had	have	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	None	None	_	_
+13	someone	someone	PRON	NN	Number=Sing|PronType=Ind	None	None	_	_
+14	from	from	ADP	IN	_	None	None	_	_
+15	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+16	Gestapo	Gestapo	PROPN	NNP	Number=Sing	None	None	_	_
+17	assigned	assign	VERB	VBN	Tense=Past|VerbForm=Part	None	None	_	_
+18	to	to	ADP	IN	_	None	None	_	_
+19	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	None	None	_	_
+20	,	,	PUNCT	,	_	None	None	_	_
+21	to	to	PART	TO	_	None	None	_	_
+22	monitor	monitor	VERB	VB	VerbForm=Inf	None	None	_	_
+23	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	None	None	_	_
+24	public	public	ADJ	JJ	Degree=Pos	None	None	_	_
+25	views	view	NOUN	NNS	Number=Plur	None	None	_	_
+26	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 9_5
+# text = Ever do a tour of China where the Tour Guide is closely observed by political monitors.
+1	Ever	ever	ADV	RB	_	None	None	_	_
+2	do	do	VERB	VB	Mood=Imp|VerbForm=Fin	None	None	_	_
+3	a	a	DET	DT	Definite=Ind|PronType=Art	None	None	_	_
+4	tour	tour	NOUN	NN	Number=Sing	None	None	_	_
+5	of	of	ADP	IN	_	None	None	_	_
+6	China	China	PROPN	NNP	Number=Sing	None	None	_	_
+7	where	where	ADV	WRB	PronType=Rel	None	None	_	_
+8	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+9	Tour	Tour	PROPN	NNP	Number=Sing	None	None	_	_
+10	Guide	Guide	PROPN	NNP	Number=Sing	None	None	_	_
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+12	closely	closely	ADV	RB	_	None	None	_	_
+13	observed	observe	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	None	None	_	_
+14	by	by	ADP	IN	_	None	None	_	_
+15	political	political	ADJ	JJ	Degree=Pos	None	None	_	_
+16	monitors	monitor	NOUN	NNS	Number=Plur	None	None	_	_
+17	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 9_6
+# text = Parliament is no longer used, the Executive releases inofrmation thru press conferences outside the house.
+1	Parliament	Parliament	PROPN	NNP	Number=Sing	None	None	_	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+3	no	no	ADV	RB	_	None	None	_	_
+4	longer	long	ADV	RBR	Degree=Cmp	None	None	_	_
+5	used	use	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	None	None	_	_
+6	,	,	PUNCT	,	_	None	None	_	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+8	Executive	executive	NOUN	NN	Number=Sing	None	None	_	_
+9	releases	release	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+10	inofrmation	inofrmation	NOUN	NN	Number=Sing	None	None	_	_
+11	thru	through	ADP	IN	_	None	None	_	_
+12	press	press	NOUN	NN	Number=Sing	None	None	_	_
+13	conferences	conference	NOUN	NNS	Number=Plur	None	None	_	_
+14	outside	outside	ADP	IN	_	None	None	_	_
+15	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+16	house	house	NOUN	NN	Number=Sing	None	None	_	_
+17	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 9_7
+# text = This is not to say other parties have employed some similar techniques.
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	None	None	_	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+3	not	not	PART	RB	_	None	None	_	_
+4	to	to	PART	TO	_	None	None	_	_
+5	say	say	VERB	VB	VerbForm=Inf	None	None	_	_
+6	other	other	ADJ	JJ	Degree=Pos	None	None	_	_
+7	parties	party	NOUN	NNS	Number=Plur	None	None	_	_
+8	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+9	employed	employ	VERB	VBN	Tense=Past|VerbForm=Part	None	None	_	_
+10	some	some	DET	DT	_	None	None	_	_
+11	similar	similar	ADJ	JJ	Degree=Pos	None	None	_	_
+12	techniques	technique	NOUN	NNS	Number=Plur	None	None	_	_
+13	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 9_8
+# text = But its getting worse.
+1	But	but	CCONJ	CC	_	None	None	_	_
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	None	None	_	_
+3	s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+4	getting	get	VERB	VBG	Tense=Pres|VerbForm=Part	None	None	_	_
+5	worse	bad	ADJ	JJR	Degree=Cmp	None	None	_	_
+6	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 9_9
+# text = It serves no purpose to say well other parties did the same.
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	None	None	_	_
+2	serves	serve	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+3	no	no	DET	DT	_	None	None	_	_
+4	purpose	purpose	NOUN	NN	Number=Sing	None	None	_	_
+5	to	to	PART	TO	_	None	None	_	_
+6	say	say	VERB	VB	VerbForm=Inf	None	None	_	_
+7	well	well	ADV	RB	Degree=Pos	None	None	_	_
+8	other	other	ADJ	JJ	Degree=Pos	None	None	_	_
+9	parties	party	NOUN	NNS	Number=Plur	None	None	_	_
+10	did	do	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	None	None	_	_
+11	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+12	same	same	ADJ	JJ	Degree=Pos	None	None	_	_
+13	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 9_10
+# text = We shouldn't tolerate this type of control from anyone.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	None	None	_	_
+2	should	should	AUX	MD	VerbForm=Fin	None	None	_	_
+3	n't	not	PART	RB	_	None	None	_	_
+4	tolerate	tolerate	VERB	VB	VerbForm=Inf	None	None	_	_
+5	this	this	DET	DT	Number=Sing|PronType=Dem	None	None	_	_
+6	type	type	NOUN	NN	Number=Sing	None	None	_	_
+7	of	of	ADP	IN	_	None	None	_	_
+8	control	control	NOUN	NN	Number=Sing	None	None	_	_
+9	from	from	ADP	IN	_	None	None	_	_
+10	anyone	anyone	PRON	NN	Number=Sing|PronType=Ind	None	None	_	_
+11	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 9_11
+# text = Regardless of political views, write you member of parliament and protest.
+1	Regardless	regardless	ADV	RB	_	None	None	_	_
+2	of	of	ADP	IN	_	None	None	_	_
+3	political	political	ADJ	JJ	Degree=Pos	None	None	_	_
+4	views	view	NOUN	NNS	Number=Plur	None	None	_	_
+5	,	,	PUNCT	,	_	None	None	_	_
+6	write	write	VERB	VB	Mood=Imp|VerbForm=Fin	None	None	_	_
+7	you	you	PRON	PRP$	Case=Acc|Person=2|PronType=Prs	None	None	_	_
+8	member	member	NOUN	NN	Number=Sing	None	None	_	_
+9	of	of	ADP	IN	_	None	None	_	_
+10	parliament	parliament	NOUN	NN	Number=Sing	None	None	_	_
+11	and	and	CCONJ	CC	_	None	None	_	_
+12	protest	protest	NOUN	NN	Number=Sing	None	None	_	_
+13	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 9_12
+# text = THe truth will set you free and transparency is the antidote for corruption.
+1	THe	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+2	truth	truth	NOUN	NN	Number=Sing	None	None	_	_
+3	will	will	AUX	MD	VerbForm=Fin	None	None	_	_
+4	set	set	VERB	VB	VerbForm=Inf	None	None	_	_
+5	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	None	None	_	_
+6	free	free	ADJ	JJ	Degree=Pos	None	None	_	_
+7	and	and	CCONJ	CC	_	None	None	_	_
+8	transparency	transparency	NOUN	NN	Number=Sing	None	None	_	_
+9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+10	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+11	antidote	antidote	NOUN	NN	Number=Sing	None	None	_	_
+12	for	for	ADP	IN	_	None	None	_	_
+13	corruption	corruption	NOUN	NN	Number=Sing	None	None	_	_
+14	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 9_13
+# text = Join Democracy Watch or just do something before its too late.
+1	Join	join	VERB	VB	Mood=Imp|VerbForm=Fin	None	None	_	_
+2	Democracy	democracy	NOUN	NN	Number=Sing	None	None	_	_
+3	Watch	watch	NOUN	NN	Number=Sing	None	None	_	_
+4	or	or	CCONJ	CC	_	None	None	_	_
+5	just	just	ADV	RB	_	None	None	_	_
+6	do	do	VERB	VB	Mood=Imp|VerbForm=Fin	None	None	_	_
+7	something	something	PRON	NN	Number=Sing|PronType=Ind	None	None	_	_
+8	before	before	ADP	IN	_	None	None	_	_
+9	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	None	None	_	_
+10	too	too	ADV	RB	_	None	None	_	_
+11	late	late	ADJ	JJ	Degree=Pos	None	None	_	_
+12	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 10_0
+# text = I'm kinda surprised by the conservative anger generated by this piece.
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	None	None	_	_
+2	'm	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	None	None	_	_
+3	kinda	kinda	ADV	RB	Degree=Pos	None	None	_	_
+4	surprised	surprise	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	None	None	_	_
+5	by	by	ADP	IN	_	None	None	_	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+7	conservative	conservative	ADJ	JJ	Degree=Pos	None	None	_	_
+8	anger	anger	NOUN	NN	Number=Sing	None	None	_	_
+9	generated	generate	VERB	VBN	Tense=Past|VerbForm=Part	None	None	_	_
+10	by	by	ADP	IN	_	None	None	_	_
+11	this	this	DET	DT	Number=Sing|PronType=Dem	None	None	_	_
+12	piece	piece	NOUN	NN	Number=Sing	None	None	_	_
+13	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 10_1
+# text = Simpson's thesis that the CPC is farther right than the old PC party seems to me not only blindingly obvious but also not in the least controversial.
+1	Simpson	Simpson	PROPN	NNP	Number=Sing	None	None	_	_
+2	's	's	PART	POS	_	None	None	_	_
+3	thesis	thesis	NOUN	NN	Number=Sing	None	None	_	_
+4	that	that	PRON	WDT	PronType=Rel	None	None	_	_
+5	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+6	CPC	CPC	PROPN	NNP	Number=Sing	None	None	_	_
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+8	farther	far	ADV	RBR	Degree=Cmp	None	None	_	_
+9	right	right	ADJ	JJ	Degree=Pos	None	None	_	_
+10	than	than	ADP	IN	_	None	None	_	_
+11	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+12	old	old	ADJ	JJ	Degree=Pos	None	None	_	_
+13	PC	PC	NOUN	NN	Number=Sing	None	None	_	_
+14	party	party	NOUN	NN	Number=Sing	None	None	_	_
+15	seems	seem	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+16	to	to	ADP	IN	_	None	None	_	_
+17	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	None	None	_	_
+18	not	not	PART	RB	_	None	None	_	_
+19	only	only	ADV	RB	_	None	None	_	_
+20	blindingly	blindingly	ADV	RB	_	None	None	_	_
+21	obvious	obvious	ADJ	JJ	Degree=Pos	None	None	_	_
+22	but	but	CCONJ	CC	_	None	None	_	_
+23	also	also	ADV	RB	_	None	None	_	_
+24	not	not	PART	RB	_	None	None	_	_
+25	in	in	ADP	IN	_	None	None	_	_
+26	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+27	least	least	ADJ	JJS	Degree=Sup	None	None	_	_
+28	controversial	controversial	ADJ	JJ	Degree=Pos	None	None	_	_
+29	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 10_2
+# text = I would have thought most of you conservatives would agreed.
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	None	None	_	_
+2	would	would	AUX	MD	VerbForm=Fin	None	None	_	_
+3	have	have	AUX	VB	VerbForm=Inf	None	None	_	_
+4	thought	think	VERB	VBN	Tense=Past|VerbForm=Part	None	None	_	_
+5	most	most	ADJ	JJS	Degree=Sup	None	None	_	_
+6	of	of	ADP	IN	_	None	None	_	_
+7	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	None	None	_	_
+8	conservatives	conservative	NOUN	NNS	Number=Plur	None	None	_	_
+9	would	would	AUX	MD	VerbForm=Fin	None	None	_	_
+10	agreed	agree	VERB	VBN	Tense=Past|VerbForm=Part	None	None	_	_
+11	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 10_3
+# text = I expected comments along the lines of 'Thank God we purged the party of all those namby-pamby, red Tory types like Joe Clark.
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	None	None	_	_
+2	expected	expect	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	None	None	_	_
+3	comments	comment	NOUN	NNS	Number=Plur	None	None	_	_
+4	along	along	ADP	IN	_	None	None	_	_
+5	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+6	lines	line	NOUN	NNS	Number=Plur	None	None	_	_
+7	of	of	ADP	IN	_	None	None	_	_
+8	'	'	PUNCT	``	_	None	None	_	_
+9	Thank	thank	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	None	None	_	_
+10	God	God	PROPN	NNP	Number=Sing	None	None	_	_
+11	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	None	None	_	_
+12	purged	purge	VERB	VBD	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	None	None	_	_
+13	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+14	party	party	NOUN	NN	Number=Sing	None	None	_	_
+15	of	of	ADP	IN	_	None	None	_	_
+16	all	all	DET	PDT	_	None	None	_	_
+17	those	that	DET	DT	Number=Plur|PronType=Dem	None	None	_	_
+18	namby	namby	ADJ	JJ	Degree=Pos	None	None	_	_
+19	-	-	PUNCT	HYPH	_	None	None	_	_
+20	pamby	pamby	NOUN	NN	Number=Sing	None	None	_	_
+21	,	,	PUNCT	,	_	None	None	_	_
+22	red	red	ADJ	JJ	Degree=Pos	None	None	_	_
+23	Tory	Tory	PROPN	NNP	Number=Sing	None	None	_	_
+24	types	type	NOUN	NNS	Number=Plur	None	None	_	_
+25	like	like	ADP	IN	_	None	None	_	_
+26	Joe	Joe	PROPN	NNP	Number=Sing	None	None	_	_
+27	Clark	Clark	PROPN	NNP	Number=Sing	None	None	_	_
+28	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 10_4
+# text = He had no business calling himself conservative.'
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	None	None	_	_
+2	had	have	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	None	None	_	_
+3	no	no	DET	DT	_	None	None	_	_
+4	business	business	NOUN	NN	Number=Sing	None	None	_	_
+5	calling	call	VERB	VBG	VerbForm=Ger	None	None	_	_
+6	himself	himself	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	None	None	_	_
+7	conservative	conservative	ADJ	JJ	Degree=Pos	None	None	_	_
+8	.	.	PUNCT	.	_	None	None	_	_
+9	'	'	PUNCT	''	_	None	None	_	_
+
+# sent_id = 10_5
+# text = Or 'we didn't drop the word 'Progressive' from the party name for no reason.'
+1	Or	or	CCONJ	CC	_	None	None	_	_
+2	'	'	PUNCT	``	_	None	None	_	_
+3	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	None	None	_	_
+4	did	do	AUX	VBD	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	None	None	_	_
+5	n't	not	PART	RB	_	None	None	_	_
+6	drop	drop	VERB	VB	VerbForm=Inf	None	None	_	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+8	word	word	NOUN	NN	Number=Sing	None	None	_	_
+9	'	'	PUNCT	``	_	None	None	_	_
+10	Progressive	Progressive	ADJ	JJ	Degree=Pos	None	None	_	_
+11	'	'	PUNCT	''	_	None	None	_	_
+12	from	from	ADP	IN	_	None	None	_	_
+13	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+14	party	party	NOUN	NN	Number=Sing	None	None	_	_
+15	name	name	NOUN	NN	Number=Sing	None	None	_	_
+16	for	for	ADP	IN	_	None	None	_	_
+17	no	no	DET	DT	_	None	None	_	_
+18	reason	reason	NOUN	NN	Number=Sing	None	None	_	_
+19	.	.	PUNCT	.	_	None	None	_	_
+20	'	'	PUNCT	''	_	None	None	_	_
+
+# sent_id = 10_6
+# text = Instead, you Cons are furious.
+1	Instead	instead	ADV	RB	_	None	None	_	_
+2	,	,	PUNCT	,	_	None	None	_	_
+3	you	you	PRON	PRP	Case=Gen|Person=2|PronType=Prs	None	None	_	_
+4	Cons	con	NOUN	NNS	Number=Plur	None	None	_	_
+5	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+6	furious	furious	ADJ	JJ	Degree=Pos	None	None	_	_
+7	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 10_7
+# text = A couple of possible reasons: either 1) you imagine you're being insulted in some way and think it safer to disagree.
+1	A	a	DET	DT	Definite=Ind|PronType=Art	None	None	_	_
+2	couple	couple	NOUN	NN	Number=Sing	None	None	_	_
+3	of	of	ADP	IN	_	None	None	_	_
+4	possible	possible	ADJ	JJ	Degree=Pos	None	None	_	_
+5	reasons	reason	NOUN	NNS	Number=Plur	None	None	_	_
+6	:	:	PUNCT	:	_	None	None	_	_
+7	either	either	CCONJ	CC	_	None	None	_	_
+8	1	1	NUM	LS	_	None	None	_	_
+9	)	)	PUNCT	-RRB-	_	None	None	_	_
+10	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	None	None	_	_
+11	imagine	imagine	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	None	None	_	_
+12	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	None	None	_	_
+13	're	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	None	None	_	_
+14	being	be	AUX	VBG	VerbForm=Ger	None	None	_	_
+15	insulted	insult	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	None	None	_	_
+16	in	in	ADP	IN	_	None	None	_	_
+17	some	some	DET	DT	_	None	None	_	_
+18	way	way	NOUN	NN	Number=Sing	None	None	_	_
+19	and	and	CCONJ	CC	_	None	None	_	_
+20	think	think	VERB	VBP	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	None	None	_	_
+21	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	None	None	_	_
+22	safer	safe	ADJ	JJR	Degree=Cmp	None	None	_	_
+23	to	to	PART	TO	_	None	None	_	_
+24	disagree	disagree	VERB	VB	VerbForm=Inf	None	None	_	_
+25	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 10_8
+# text = (Maybe its just a reflexive reaction to anything a liberal like Simpson has to say.)
+1	(	(	PUNCT	-LRB-	_	None	None	_	_
+2	Maybe	maybe	ADV	RB	_	None	None	_	_
+3	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	None	None	_	_
+4	just	just	ADV	RB	_	None	None	_	_
+5	a	a	DET	DT	Definite=Ind|PronType=Art	None	None	_	_
+6	reflexive	reflexive	ADJ	JJ	Degree=Pos	None	None	_	_
+7	reaction	reaction	NOUN	NN	Number=Sing	None	None	_	_
+8	to	to	ADP	IN	_	None	None	_	_
+9	anything	anything	PRON	NN	Number=Sing|PronType=Ind	None	None	_	_
+10	a	a	DET	DT	Definite=Ind|PronType=Art	None	None	_	_
+11	liberal	liberal	ADJ	JJ	Degree=Pos	None	None	_	_
+12	like	like	SCONJ	IN	_	None	None	_	_
+13	Simpson	Simpson	PROPN	NNP	Number=Sing	None	None	_	_
+14	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+15	to	to	PART	TO	_	None	None	_	_
+16	say	say	VERB	VB	VerbForm=Inf	None	None	_	_
+17	.	.	PUNCT	.	_	None	None	_	_
+18	)	)	PUNCT	-RRB-	_	None	None	_	_
+
+# sent_id = 10_9
+# text = Or 2) you actually consider yourselves moderate.
+1	Or	or	CCONJ	CC	_	None	None	_	_
+2	2	2	NUM	LS	_	None	None	_	_
+3	)	)	PUNCT	-RRB-	_	None	None	_	_
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	None	None	_	_
+5	actually	actually	ADV	RB	_	None	None	_	_
+6	consider	consider	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	None	None	_	_
+7	yourselves	yourselves	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	None	None	_	_
+8	moderate	moderate	ADJ	JJ	Degree=Pos	None	None	_	_
+9	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 10_10
+# text = If 1, relax: only liberals think it's an insult to be right wing.
+1	If	if	SCONJ	IN	_	None	None	_	_
+2	1	1	NUM	CD	NumForm=Digit|NumType=Card	None	None	_	_
+3	,	,	PUNCT	,	_	None	None	_	_
+4	relax	relax	VERB	VB	Mood=Imp|VerbForm=Fin	None	None	_	_
+5	:	:	PUNCT	:	_	None	None	_	_
+6	only	only	ADV	RB	_	None	None	_	_
+7	liberals	liberal	NOUN	NNS	Number=Plur	None	None	_	_
+8	think	think	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+9	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	None	None	_	_
+10	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+11	an	a	DET	DT	Definite=Ind|PronType=Art	None	None	_	_
+12	insult	insult	NOUN	NN	Number=Sing	None	None	_	_
+13	to	to	PART	TO	_	None	None	_	_
+14	be	be	AUX	VB	VerbForm=Inf	None	None	_	_
+15	right	right	ADJ	JJ	Degree=Pos	None	None	_	_
+16	wing	wing	NOUN	NN	Number=Sing	None	None	_	_
+17	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 10_11
+# text = If 2, OK fine: you're moderate.
+1	If	if	SCONJ	IN	_	None	None	_	_
+2	2	2	NUM	CD	NumForm=Digit|NumType=Card	None	None	_	_
+3	,	,	PUNCT	,	_	None	None	_	_
+4	OK	ok	INTJ	UH	_	None	None	_	_
+5	fine	fine	ADJ	JJ	Degree=Pos	None	None	_	_
+6	:	:	PUNCT	:	_	None	None	_	_
+7	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	None	None	_	_
+8	're	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	None	None	_	_
+9	moderate	moderate	ADJ	JJ	Degree=Pos	None	None	_	_
+10	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 10_12
+# text = But if you and the CPC are moderate, what would you call the old PC party?
+1	But	but	CCONJ	CC	_	None	None	_	_
+2	if	if	SCONJ	IN	_	None	None	_	_
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	None	None	_	_
+4	and	and	CCONJ	CC	_	None	None	_	_
+5	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+6	CPC	CPC	PROPN	NNP	Number=Sing	None	None	_	_
+7	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+8	moderate	moderate	ADJ	JJ	Degree=Pos	None	None	_	_
+9	,	,	PUNCT	,	_	None	None	_	_
+10	what	what	PRON	WP	PronType=Int	None	None	_	_
+11	would	would	AUX	MD	VerbForm=Fin	None	None	_	_
+12	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	None	None	_	_
+13	call	call	VERB	VB	VerbForm=Inf	None	None	_	_
+14	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+15	old	old	ADJ	JJ	Degree=Pos	None	None	_	_
+16	PC	PC	NOUN	NN	Number=Sing	None	None	_	_
+17	party	party	NOUN	NN	Number=Sing	None	None	_	_
+18	?	?	PUNCT	.	_	None	None	_	_
+
+# sent_id = 10_13
+# text = Commie pinko faux-conservatives?
+1	Commie	commie	NOUN	NN	Number=Sing	None	None	_	_
+2	pinko	pinko	X	FW	_	None	None	_	_
+3	faux	faux	NOUN	NN	Number=Sing	None	None	_	_
+4	-	-	PUNCT	HYPH	_	None	None	_	_
+5	conservatives	conservative	NOUN	NNS	Number=Plur	None	None	_	_
+6	?	?	PUNCT	.	_	None	None	_	_
+
+# sent_id = 10_14
+# text = If the PC party represented your politics and values, what was the whole point of splitting from it and founding a brand new party?
+1	If	if	SCONJ	IN	_	None	None	_	_
+2	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+3	PC	PC	PROPN	NNP	Number=Sing	None	None	_	_
+4	party	party	NOUN	NN	Number=Sing	None	None	_	_
+5	represented	represent	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	None	None	_	_
+6	your	your	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs	None	None	_	_
+7	politics	politics	NOUN	NNS	Number=Plur	None	None	_	_
+8	and	and	CCONJ	CC	_	None	None	_	_
+9	values	value	NOUN	NNS	Number=Plur	None	None	_	_
+10	,	,	PUNCT	,	_	None	None	_	_
+11	what	what	PRON	WP	PronType=Int	None	None	_	_
+12	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	None	None	_	_
+13	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+14	whole	whole	ADJ	JJ	Degree=Pos	None	None	_	_
+15	point	point	NOUN	NN	Number=Sing	None	None	_	_
+16	of	of	SCONJ	IN	_	None	None	_	_
+17	splitting	split	VERB	VBG	VerbForm=Ger	None	None	_	_
+18	from	from	ADP	IN	_	None	None	_	_
+19	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	None	None	_	_
+20	and	and	CCONJ	CC	_	None	None	_	_
+21	founding	found	VERB	VBG	VerbForm=Ger	None	None	_	_
+22	a	a	DET	DT	Definite=Ind|PronType=Art	None	None	_	_
+23	brand	brand	NOUN	NN	Number=Sing	None	None	_	_
+24	new	new	ADJ	JJ	Degree=Pos	None	None	_	_
+25	party	party	NOUN	NN	Number=Sing	None	None	_	_
+26	?	?	PUNCT	.	_	None	None	_	_
+
+# sent_id = 10_15
+# text = To me, the rise of Reform and the disappearance of the PCs looks like evidence of a shift to the right.
+1	To	to	ADP	IN	_	None	None	_	_
+2	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	None	None	_	_
+3	,	,	PUNCT	,	_	None	None	_	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+5	rise	rise	NOUN	NN	Number=Sing	None	None	_	_
+6	of	of	ADP	IN	_	None	None	_	_
+7	Reform	Reform	NOUN	NN	Number=Sing	None	None	_	_
+8	and	and	CCONJ	CC	_	None	None	_	_
+9	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+10	disappearance	disappearance	NOUN	NN	Number=Sing	None	None	_	_
+11	of	of	ADP	IN	_	None	None	_	_
+12	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+13	PCs	pc	NOUN	NNS	Number=Plur	None	None	_	_
+14	looks	look	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+15	like	like	ADP	IN	_	None	None	_	_
+16	evidence	evidence	NOUN	NN	Number=Sing	None	None	_	_
+17	of	of	ADP	IN	_	None	None	_	_
+18	a	a	DET	DT	Definite=Ind|PronType=Art	None	None	_	_
+19	shift	shift	NOUN	NN	Number=Sing	None	None	_	_
+20	to	to	ADP	IN	_	None	None	_	_
+21	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+22	right	right	NOUN	NN	Number=Sing	None	None	_	_
+23	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 11_0
+# text = The problem occurs when people cling slavishly to works of fiction from thousands of years ago.
+1	The	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+2	problem	problem	NOUN	NN	Number=Sing	None	None	_	_
+3	occurs	occur	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+4	when	when	ADV	WRB	PronType=Int	None	None	_	_
+5	people	person	NOUN	NNS	Number=Plur	None	None	_	_
+6	cling	cling	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+7	slavishly	slavishly	ADV	RB	_	None	None	_	_
+8	to	to	ADP	IN	_	None	None	_	_
+9	works	work	NOUN	NNS	Number=Plur	None	None	_	_
+10	of	of	ADP	IN	_	None	None	_	_
+11	fiction	fiction	NOUN	NN	Number=Sing	None	None	_	_
+12	from	from	ADP	IN	_	None	None	_	_
+13	thousands	thousand	NOUN	NNS	Number=Plur	None	None	_	_
+14	of	of	ADP	IN	_	None	None	_	_
+15	years	year	NOUN	NNS	Number=Plur	None	None	_	_
+16	ago	ago	ADV	RB	_	None	None	_	_
+17	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 11_1
+# text = Viewed on any objective scale, the so called holy books, with their copious amounts of proven falsities and abject horror stories, should be considered trash.
+1	Viewed	View	VERB	VBN	Tense=Past|VerbForm=Part	None	None	_	_
+2	on	on	ADP	IN	_	None	None	_	_
+3	any	any	DET	DT	_	None	None	_	_
+4	objective	objective	ADJ	JJ	Degree=Pos	None	None	_	_
+5	scale	scale	NOUN	NN	Number=Sing	None	None	_	_
+6	,	,	PUNCT	,	_	None	None	_	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+8	so	so	ADV	RB	_	None	None	_	_
+9	called	call	VERB	VBN	Tense=Past|VerbForm=Part	None	None	_	_
+10	holy	holy	ADJ	JJ	Degree=Pos	None	None	_	_
+11	books	book	NOUN	NNS	Number=Plur	None	None	_	_
+12	,	,	PUNCT	,	_	None	None	_	_
+13	with	with	ADP	IN	_	None	None	_	_
+14	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	None	None	_	_
+15	copious	copious	ADJ	JJ	Degree=Pos	None	None	_	_
+16	amounts	amount	NOUN	NNS	Number=Plur	None	None	_	_
+17	of	of	ADP	IN	_	None	None	_	_
+18	proven	prove	VERB	VBN	Tense=Past|VerbForm=Part	None	None	_	_
+19	falsities	falsity	NOUN	NNS	Number=Plur	None	None	_	_
+20	and	and	CCONJ	CC	_	None	None	_	_
+21	abject	abject	ADJ	JJ	Degree=Pos	None	None	_	_
+22	horror	horror	NOUN	NN	Number=Sing	None	None	_	_
+23	stories	story	NOUN	NNS	Number=Plur	None	None	_	_
+24	,	,	PUNCT	,	_	None	None	_	_
+25	should	should	AUX	MD	VerbForm=Fin	None	None	_	_
+26	be	be	AUX	VB	VerbForm=Inf	None	None	_	_
+27	considered	consider	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	None	None	_	_
+28	trash	trash	NOUN	NN	Number=Sing	None	None	_	_
+29	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 11_2
+# text = And, most people who consider them holy obviously do not believe them root and branch.
+1	And	and	CCONJ	CC	_	None	None	_	_
+2	,	,	PUNCT	,	_	None	None	_	_
+3	most	most	ADJ	JJS	Degree=Sup	None	None	_	_
+4	people	person	NOUN	NNS	Number=Plur	None	None	_	_
+5	who	who	PRON	WP	PronType=Rel	None	None	_	_
+6	consider	consider	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+7	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	None	None	_	_
+8	holy	holy	ADJ	JJ	Degree=Pos	None	None	_	_
+9	obviously	obviously	ADV	RB	_	None	None	_	_
+10	do	do	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+11	not	not	PART	RB	_	None	None	_	_
+12	believe	believe	VERB	VB	VerbForm=Inf	None	None	_	_
+13	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	None	None	_	_
+14	root	root	NOUN	NN	Number=Sing	None	None	_	_
+15	and	and	CCONJ	CC	_	None	None	_	_
+16	branch	branch	NOUN	NN	Number=Sing	None	None	_	_
+17	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 11_3
+# text = But, a small minority of believers have an uncanny ability to shut out all the empirical science of the last few millennia, and fanatically profess these books, and their patently transparent silliness, to be the divine wisdom of their special god.
+1	But	but	CCONJ	CC	_	None	None	_	_
+2	,	,	PUNCT	,	_	None	None	_	_
+3	a	a	DET	DT	Definite=Ind|PronType=Art	None	None	_	_
+4	small	small	ADJ	JJ	Degree=Pos	None	None	_	_
+5	minority	minority	NOUN	NN	Number=Sing	None	None	_	_
+6	of	of	ADP	IN	_	None	None	_	_
+7	believers	believer	NOUN	NNS	Number=Plur	None	None	_	_
+8	have	have	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+9	an	a	DET	DT	Definite=Ind|PronType=Art	None	None	_	_
+10	uncanny	uncanny	ADJ	JJ	Degree=Pos	None	None	_	_
+11	ability	ability	NOUN	NN	Number=Sing	None	None	_	_
+12	to	to	PART	TO	_	None	None	_	_
+13	shut	shut	VERB	VB	VerbForm=Inf	None	None	_	_
+14	out	out	ADP	RP	_	None	None	_	_
+15	all	all	DET	PDT	_	None	None	_	_
+16	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+17	empirical	empirical	ADJ	JJ	Degree=Pos	None	None	_	_
+18	science	science	NOUN	NN	Number=Sing	None	None	_	_
+19	of	of	ADP	IN	_	None	None	_	_
+20	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+21	last	last	ADJ	JJ	Degree=Pos	None	None	_	_
+22	few	few	ADJ	JJ	Degree=Pos	None	None	_	_
+23	millennia	millennia	NOUN	NN	Number=Plur	None	None	_	_
+24	,	,	PUNCT	,	_	None	None	_	_
+25	and	and	CCONJ	CC	_	None	None	_	_
+26	fanatically	fanatically	ADV	RB	_	None	None	_	_
+27	profess	profess	VERB	VB	VerbForm=Inf	None	None	_	_
+28	these	this	DET	DT	Number=Plur|PronType=Dem	None	None	_	_
+29	books	book	NOUN	NNS	Number=Plur	None	None	_	_
+30	,	,	PUNCT	,	_	None	None	_	_
+31	and	and	CCONJ	CC	_	None	None	_	_
+32	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	None	None	_	_
+33	patently	patently	ADV	RB	_	None	None	_	_
+34	transparent	transparent	ADJ	JJ	Degree=Pos	None	None	_	_
+35	silliness	silliness	NOUN	NN	Number=Sing	None	None	_	_
+36	,	,	PUNCT	,	_	None	None	_	_
+37	to	to	PART	TO	_	None	None	_	_
+38	be	be	AUX	VB	VerbForm=Inf	None	None	_	_
+39	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+40	divine	divine	ADJ	JJ	Degree=Pos	None	None	_	_
+41	wisdom	wisdom	NOUN	NN	Number=Sing	None	None	_	_
+42	of	of	ADP	IN	_	None	None	_	_
+43	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	None	None	_	_
+44	special	special	ADJ	JJ	Degree=Pos	None	None	_	_
+45	god	god	NOUN	NN	Number=Sing	None	None	_	_
+46	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 11_4
+# text = And, those of us who can walk and chew gum at the same time think that we can reason with these people???
+1	And	and	CCONJ	CC	_	None	None	_	_
+2	,	,	PUNCT	,	_	None	None	_	_
+3	those	that	PRON	DT	Number=Plur|PronType=Dem	None	None	_	_
+4	of	of	ADP	IN	_	None	None	_	_
+5	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	None	None	_	_
+6	who	who	PRON	WP	PronType=Rel	None	None	_	_
+7	can	can	AUX	MD	VerbForm=Fin	None	None	_	_
+8	walk	walk	VERB	VB	VerbForm=Inf	None	None	_	_
+9	and	and	CCONJ	CC	_	None	None	_	_
+10	chew	chew	VERB	VB	VerbForm=Inf	None	None	_	_
+11	gum	gum	NOUN	NN	Number=Sing	None	None	_	_
+12	at	at	ADP	IN	_	None	None	_	_
+13	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+14	same	same	ADJ	JJ	Degree=Pos	None	None	_	_
+15	time	time	NOUN	NN	Number=Sing	None	None	_	_
+16	think	think	VERB	VB	VerbForm=Inf	None	None	_	_
+17	that	that	SCONJ	IN	_	None	None	_	_
+18	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	None	None	_	_
+19	can	can	AUX	MD	VerbForm=Fin	None	None	_	_
+20	reason	reason	VERB	VB	VerbForm=Inf	None	None	_	_
+21	with	with	ADP	IN	_	None	None	_	_
+22	these	this	DET	DT	Number=Plur|PronType=Dem	None	None	_	_
+23	people	person	NOUN	NNS	Number=Plur	None	None	_	_
+24	???	???	PUNCT	.	_	None	None	_	_
+
+# sent_id = 12_0
+# text = Ananda, what a load of horse hockey.
+1	Ananda	Ananda	PROPN	NNP	Number=Sing	None	None	_	_
+2	,	,	PUNCT	,	_	None	None	_	_
+3	what	what	PRON	WP	PronType=Int	None	None	_	_
+4	a	a	DET	DT	Definite=Ind|PronType=Art	None	None	_	_
+5	load	load	NOUN	NN	Number=Sing	None	None	_	_
+6	of	of	ADP	IN	_	None	None	_	_
+7	horse	horse	NOUN	NN	Number=Sing	None	None	_	_
+8	hockey	hockey	NOUN	NN	Number=Sing	None	None	_	_
+9	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 12_1
+# text = However, I should not be surprised after watching your softball interview with Gord Nixon earlier this week.
+1	However	however	ADV	RB	_	None	None	_	_
+2	,	,	PUNCT	,	_	None	None	_	_
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	None	None	_	_
+4	should	should	AUX	MD	VerbForm=Fin	None	None	_	_
+5	not	not	PART	RB	_	None	None	_	_
+6	be	be	AUX	VB	VerbForm=Inf	None	None	_	_
+7	surprised	surprise	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	None	None	_	_
+8	after	after	SCONJ	IN	_	None	None	_	_
+9	watching	watch	VERB	VBG	VerbForm=Ger	None	None	_	_
+10	your	your	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs	None	None	_	_
+11	softball	softball	NOUN	NN	Number=Sing	None	None	_	_
+12	interview	interview	NOUN	NN	Number=Sing	None	None	_	_
+13	with	with	ADP	IN	_	None	None	_	_
+14	Gord	Gord	PROPN	NNP	Number=Sing	None	None	_	_
+15	Nixon	Nixon	PROPN	NNP	Number=Sing	None	None	_	_
+16	earlier	early	ADV	RBR	Degree=Cmp	None	None	_	_
+17	this	this	DET	DT	Number=Sing|PronType=Dem	None	None	_	_
+18	week	week	NOUN	NN	Number=Sing	None	None	_	_
+19	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 12_2
+# text = The only thing missing was a nice backrub for the RBC CEO.
+1	The	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+2	only	only	ADJ	JJ	Degree=Pos	None	None	_	_
+3	thing	thing	NOUN	NN	Number=Sing	None	None	_	_
+4	missing	miss	VERB	VBG	VerbForm=Ger	None	None	_	_
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	None	None	_	_
+6	a	a	DET	DT	Definite=Ind|PronType=Art	None	None	_	_
+7	nice	nice	ADJ	JJ	Degree=Pos	None	None	_	_
+8	backrub	backrub	NOUN	NN	Number=Sing	None	None	_	_
+9	for	for	ADP	IN	_	None	None	_	_
+10	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+11	RBC	RBC	PROPN	NNP	Number=Sing	None	None	_	_
+12	CEO	ceo	NOUN	NN	Number=Sing	None	None	_	_
+13	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 12_3
+# text = Or perhaps it is O'Leary that gives the backrubs?
+1	Or	or	CCONJ	CC	_	None	None	_	_
+2	perhaps	perhaps	ADV	RB	_	None	None	_	_
+3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	None	None	_	_
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+5	O'Leary	O'Leary	PROPN	NNP	Number=Sing	None	None	_	_
+6	that	that	PRON	WDT	PronType=Rel	None	None	_	_
+7	gives	give	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+8	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+9	backrubs	backrub	NOUN	NNS	Number=Plur	None	None	_	_
+10	?	?	PUNCT	.	_	None	None	_	_
+
+# sent_id = 12_4
+# text = Unfortunately if it was just about skills, then these jobs would not be moving.
+1	Unfortunately	unfortunately	ADV	RB	_	None	None	_	_
+2	if	if	SCONJ	IN	_	None	None	_	_
+3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	None	None	_	_
+4	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	None	None	_	_
+5	just	just	ADV	RB	_	None	None	_	_
+6	about	about	ADP	IN	_	None	None	_	_
+7	skills	skill	NOUN	NNS	Number=Plur	None	None	_	_
+8	,	,	PUNCT	,	_	None	None	_	_
+9	then	then	ADV	RB	PronType=Dem	None	None	_	_
+10	these	this	DET	DT	Number=Plur|PronType=Dem	None	None	_	_
+11	jobs	job	NOUN	NNS	Number=Plur	None	None	_	_
+12	would	would	AUX	MD	VerbForm=Fin	None	None	_	_
+13	not	not	PART	RB	_	None	None	_	_
+14	be	be	AUX	VB	VerbForm=Inf	None	None	_	_
+15	moving	move	VERB	VBG	Tense=Pres|VerbForm=Part	None	None	_	_
+16	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 12_5
+# text = It is strictly about money.
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	None	None	_	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+3	strictly	strictly	ADV	RB	_	None	None	_	_
+4	about	about	ADP	IN	_	None	None	_	_
+5	money	money	NOUN	NN	Number=Sing	None	None	_	_
+6	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 12_6
+# text = Having worked in the IT industry for over 20 years I can definitely say that Canadian IT workers are as skilled as any of the Indian workers that their jobs are outsourced to.
+1	Having	have	AUX	VBG	VerbForm=Ger	None	None	_	_
+2	worked	work	VERB	VBN	Tense=Past|VerbForm=Part	None	None	_	_
+3	in	in	ADP	IN	_	None	None	_	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+5	IT	IT	NOUN	NN	Number=Sing	None	None	_	_
+6	industry	industry	NOUN	NN	Number=Sing	None	None	_	_
+7	for	for	ADP	IN	_	None	None	_	_
+8	over	over	ADV	RB	_	None	None	_	_
+9	20	20	NUM	CD	NumForm=Digit|NumType=Card	None	None	_	_
+10	years	year	NOUN	NNS	Number=Plur	None	None	_	_
+11	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	None	None	_	_
+12	can	can	AUX	MD	VerbForm=Fin	None	None	_	_
+13	definitely	definitely	ADV	RB	_	None	None	_	_
+14	say	say	VERB	VB	VerbForm=Inf	None	None	_	_
+15	that	that	SCONJ	IN	_	None	None	_	_
+16	Canadian	Canadian	ADJ	JJ	Degree=Pos	None	None	_	_
+17	IT	IT	NOUN	NN	Number=Sing	None	None	_	_
+18	workers	worker	NOUN	NNS	Number=Plur	None	None	_	_
+19	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+20	as	as	ADV	RB	_	None	None	_	_
+21	skilled	skilled	ADJ	JJ	Degree=Pos	None	None	_	_
+22	as	as	ADP	IN	_	None	None	_	_
+23	any	any	DET	DT	_	None	None	_	_
+24	of	of	ADP	IN	_	None	None	_	_
+25	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+26	Indian	Indian	ADJ	JJ	Degree=Pos	None	None	_	_
+27	workers	worker	NOUN	NNS	Number=Plur	None	None	_	_
+28	that	that	PRON	WDT	PronType=Rel	None	None	_	_
+29	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	None	None	_	_
+30	jobs	job	NOUN	NNS	Number=Plur	None	None	_	_
+31	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+32	outsourced	outsource	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	None	None	_	_
+33	to	to	ADP	IN	_	None	None	_	_
+34	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 12_7
+# text = In fact most of the foreign outsourced workers I have worked with tend to be young and quite inexperienced.
+1	In	in	ADP	IN	_	None	None	_	_
+2	fact	fact	NOUN	NN	Number=Sing	None	None	_	_
+3	most	most	ADJ	JJS	Degree=Sup	None	None	_	_
+4	of	of	ADP	IN	_	None	None	_	_
+5	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+6	foreign	foreign	ADJ	JJ	Degree=Pos	None	None	_	_
+7	outsourced	outsource	VERB	VBN	Tense=Past|VerbForm=Part	None	None	_	_
+8	workers	worker	NOUN	NNS	Number=Plur	None	None	_	_
+9	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	None	None	_	_
+10	have	have	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	None	None	_	_
+11	worked	work	VERB	VBN	Tense=Past|VerbForm=Part	None	None	_	_
+12	with	with	ADP	IN	_	None	None	_	_
+13	tend	tend	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+14	to	to	PART	TO	_	None	None	_	_
+15	be	be	AUX	VB	VerbForm=Inf	None	None	_	_
+16	young	young	ADJ	JJ	Degree=Pos	None	None	_	_
+17	and	and	CCONJ	CC	_	None	None	_	_
+18	quite	quite	ADV	RB	_	None	None	_	_
+19	inexperienced	inexperienced	ADJ	JJ	Degree=Pos	None	None	_	_
+20	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 12_8
+# text = You are also wrong in stating that the TFW program is a sideshow.
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	None	None	_	_
+2	are	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	None	None	_	_
+3	also	also	ADV	RB	_	None	None	_	_
+4	wrong	wrong	ADJ	JJ	Degree=Pos	None	None	_	_
+5	in	in	SCONJ	IN	_	None	None	_	_
+6	stating	state	VERB	VBG	VerbForm=Ger	None	None	_	_
+7	that	that	SCONJ	IN	_	None	None	_	_
+8	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+9	TFW	TFW	PROPN	NNP	Number=Sing	None	None	_	_
+10	program	program	NOUN	NN	Number=Sing	None	None	_	_
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+12	a	a	DET	DT	Definite=Ind|PronType=Art	None	None	_	_
+13	sideshow	sideshow	NOUN	NN	Number=Sing	None	None	_	_
+14	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 12_9
+# text = Outsourcing is directly linked to this program because we allow outsourcing companies to bring their foreign workers here to Canada to take our jobs.
+1	Outsourcing	outsourcing	NOUN	NN	Number=Sing	None	None	_	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+3	directly	directly	ADV	RB	_	None	None	_	_
+4	linked	link	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	None	None	_	_
+5	to	to	ADP	IN	_	None	None	_	_
+6	this	this	DET	DT	Number=Sing|PronType=Dem	None	None	_	_
+7	program	program	NOUN	NN	Number=Sing	None	None	_	_
+8	because	because	SCONJ	IN	_	None	None	_	_
+9	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	None	None	_	_
+10	allow	allow	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	None	None	_	_
+11	outsourcing	outsource	NOUN	NN	Number=Sing	None	None	_	_
+12	companies	company	NOUN	NNS	Number=Plur	None	None	_	_
+13	to	to	PART	TO	_	None	None	_	_
+14	bring	bring	VERB	VB	VerbForm=Inf	None	None	_	_
+15	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	None	None	_	_
+16	foreign	foreign	ADJ	JJ	Degree=Pos	None	None	_	_
+17	workers	worker	NOUN	NNS	Number=Plur	None	None	_	_
+18	here	here	ADV	RB	PronType=Dem	None	None	_	_
+19	to	to	ADP	IN	_	None	None	_	_
+20	Canada	Canada	PROPN	NNP	Number=Sing	None	None	_	_
+21	to	to	PART	TO	_	None	None	_	_
+22	take	take	VERB	VB	VerbForm=Inf	None	None	_	_
+23	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	None	None	_	_
+24	jobs	job	NOUN	NNS	Number=Plur	None	None	_	_
+25	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 12_10
+# text = I bet if you go into any of the big-5 banks in Toronto you will find dozens of Indian IT workers who are ostensibly here to learn the job before returning home.
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	None	None	_	_
+2	bet	bet	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	None	None	_	_
+3	if	if	SCONJ	IN	_	None	None	_	_
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	None	None	_	_
+5	go	go	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	None	None	_	_
+6	into	into	ADP	IN	_	None	None	_	_
+7	any	any	DET	DT	_	None	None	_	_
+8	of	of	ADP	IN	_	None	None	_	_
+9	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+10	big	big	ADJ	JJ	Degree=Pos	None	None	_	_
+11	-	-	PUNCT	HYPH	_	None	None	_	_
+12	5	5	NUM	CD	NumForm=Digit|NumType=Card	None	None	_	_
+13	banks	bank	NOUN	NNS	Number=Plur	None	None	_	_
+14	in	in	ADP	IN	_	None	None	_	_
+15	Toronto	Toronto	PROPN	NNP	Number=Sing	None	None	_	_
+16	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	None	None	_	_
+17	will	will	AUX	MD	VerbForm=Fin	None	None	_	_
+18	find	find	VERB	VB	VerbForm=Inf	None	None	_	_
+19	dozens	dozen	NOUN	NNS	Number=Plur	None	None	_	_
+20	of	of	ADP	IN	_	None	None	_	_
+21	Indian	Indian	ADJ	JJ	Degree=Pos	None	None	_	_
+22	IT	IT	NOUN	NN	Number=Sing	None	None	_	_
+23	workers	worker	NOUN	NNS	Number=Plur	None	None	_	_
+24	who	who	PRON	WP	PronType=Rel	None	None	_	_
+25	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+26	ostensibly	ostensibly	ADV	RB	_	None	None	_	_
+27	here	here	ADV	RB	PronType=Dem	None	None	_	_
+28	to	to	PART	TO	_	None	None	_	_
+29	learn	learn	VERB	VB	VerbForm=Inf	None	None	_	_
+30	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+31	job	job	NOUN	NN	Number=Sing	None	None	_	_
+32	before	before	SCONJ	IN	_	None	None	_	_
+33	returning	return	VERB	VBG	VerbForm=Ger	None	None	_	_
+34	home	home	ADV	RB	_	None	None	_	_
+35	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 12_11
+# text = In fact many of them will be here in Canada for months and even years directly taking Canadian jobs.
+1	In	in	ADP	IN	_	None	None	_	_
+2	fact	fact	NOUN	NN	Number=Sing	None	None	_	_
+3	many	many	ADJ	JJ	Degree=Pos	None	None	_	_
+4	of	of	ADP	IN	_	None	None	_	_
+5	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	None	None	_	_
+6	will	will	AUX	MD	VerbForm=Fin	None	None	_	_
+7	be	be	AUX	VB	VerbForm=Inf	None	None	_	_
+8	here	here	ADV	RB	PronType=Dem	None	None	_	_
+9	in	in	ADP	IN	_	None	None	_	_
+10	Canada	Canada	PROPN	NNP	Number=Sing	None	None	_	_
+11	for	for	ADP	IN	_	None	None	_	_
+12	months	month	NOUN	NNS	Number=Plur	None	None	_	_
+13	and	and	CCONJ	CC	_	None	None	_	_
+14	even	even	ADV	RB	_	None	None	_	_
+15	years	year	NOUN	NNS	Number=Plur	None	None	_	_
+16	directly	directly	ADV	RB	_	None	None	_	_
+17	taking	take	VERB	VBG	VerbForm=Ger	None	None	_	_
+18	Canadian	Canadian	ADJ	JJ	Degree=Pos	None	None	_	_
+19	jobs	job	NOUN	NNS	Number=Plur	None	None	_	_
+20	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 12_12
+# text = A bonus for the company in that they can get the work done cheaper (but not necessarily better) and still have the advantage of getting the work done here.
+1	A	a	DET	DT	Definite=Ind|PronType=Art	None	None	_	_
+2	bonus	bonus	NOUN	NN	Number=Sing	None	None	_	_
+3	for	for	ADP	IN	_	None	None	_	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+5	company	company	NOUN	NN	Number=Sing	None	None	_	_
+6	in	in	ADP	IN	_	None	None	_	_
+7	that	that	SCONJ	IN	_	None	None	_	_
+8	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	None	None	_	_
+9	can	can	AUX	MD	VerbForm=Fin	None	None	_	_
+10	get	get	VERB	VB	VerbForm=Inf	None	None	_	_
+11	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+12	work	work	NOUN	NN	Number=Sing	None	None	_	_
+13	done	do	VERB	VBN	Tense=Past|VerbForm=Part	None	None	_	_
+14	cheaper	cheap	ADJ	JJR	Degree=Cmp	None	None	_	_
+15	(	(	PUNCT	-LRB-	_	None	None	_	_
+16	but	but	CCONJ	CC	_	None	None	_	_
+17	not	not	PART	RB	_	None	None	_	_
+18	necessarily	necessarily	ADV	RB	_	None	None	_	_
+19	better	good	ADJ	JJR	Degree=Cmp	None	None	_	_
+20	)	)	PUNCT	-RRB-	_	None	None	_	_
+21	and	and	CCONJ	CC	_	None	None	_	_
+22	still	still	ADV	RB	_	None	None	_	_
+23	have	have	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+24	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+25	advantage	advantage	NOUN	NN	Number=Sing	None	None	_	_
+26	of	of	SCONJ	IN	_	None	None	_	_
+27	getting	get	VERB	VBG	VerbForm=Ger	None	None	_	_
+28	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+29	work	work	NOUN	NN	Number=Sing	None	None	_	_
+30	done	do	VERB	VBN	Tense=Past|VerbForm=Part	None	None	_	_
+31	here	here	ADV	RB	PronType=Dem	None	None	_	_
+32	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 12_13
+# text = The government tells young Canadians that the knowledge based economy is where the jobs are, but if we keep shipping these jobs offshore then all we are left with will be a nation of ditch diggers.
+1	The	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+2	government	government	NOUN	NN	Number=Sing	None	None	_	_
+3	tells	tell	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+4	young	young	ADJ	JJ	Degree=Pos	None	None	_	_
+5	Canadians	Canadian	PROPN	NNPS	Number=Plur	None	None	_	_
+6	that	that	SCONJ	IN	_	None	None	_	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+8	knowledge	knowledge	NOUN	NN	Number=Sing	None	None	_	_
+9	based	base	VERB	VBN	Tense=Past|VerbForm=Part	None	None	_	_
+10	economy	economy	NOUN	NN	Number=Sing	None	None	_	_
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+12	where	where	ADV	WRB	PronType=Rel	None	None	_	_
+13	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+14	jobs	job	NOUN	NNS	Number=Plur	None	None	_	_
+15	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+16	,	,	PUNCT	,	_	None	None	_	_
+17	but	but	CCONJ	CC	_	None	None	_	_
+18	if	if	SCONJ	IN	_	None	None	_	_
+19	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	None	None	_	_
+20	keep	keep	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	None	None	_	_
+21	shipping	shipping	VERB	VBG	VerbForm=Ger	None	None	_	_
+22	these	this	DET	DT	Number=Plur|PronType=Dem	None	None	_	_
+23	jobs	job	NOUN	NNS	Number=Plur	None	None	_	_
+24	offshore	offshore	ADV	RB	_	None	None	_	_
+25	then	then	ADV	RB	PronType=Dem	None	None	_	_
+26	all	all	DET	DT	_	None	None	_	_
+27	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	None	None	_	_
+28	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	None	None	_	_
+29	left	leave	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	None	None	_	_
+30	with	with	ADP	IN	_	None	None	_	_
+31	will	will	AUX	MD	VerbForm=Fin	None	None	_	_
+32	be	be	AUX	VB	VerbForm=Inf	None	None	_	_
+33	a	a	DET	DT	Definite=Ind|PronType=Art	None	None	_	_
+34	nation	nation	NOUN	NN	Number=Sing	None	None	_	_
+35	of	of	ADP	IN	_	None	None	_	_
+36	ditch	ditch	NOUN	NN	Number=Sing	None	None	_	_
+37	diggers	digger	NOUN	NNS	Number=Plur	None	None	_	_
+38	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 12_14
+# text = I moved from Ontario to Alberta about 15 years ago because my IT job was moving west and I would much rather see a job move from Toronto to Calgary than to see it move to Delhi or Bangalore.
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	None	None	_	_
+2	moved	move	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	None	None	_	_
+3	from	from	ADP	IN	_	None	None	_	_
+4	Ontario	Ontario	PROPN	NNP	Number=Sing	None	None	_	_
+5	to	to	ADP	IN	_	None	None	_	_
+6	Alberta	Alberta	PROPN	NNP	Number=Sing	None	None	_	_
+7	about	about	ADV	RB	_	None	None	_	_
+8	15	15	NUM	CD	NumForm=Digit|NumType=Card	None	None	_	_
+9	years	year	NOUN	NNS	Number=Plur	None	None	_	_
+10	ago	ago	ADV	RB	_	None	None	_	_
+11	because	because	SCONJ	IN	_	None	None	_	_
+12	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	None	None	_	_
+13	IT	IT	NOUN	NN	Number=Sing	None	None	_	_
+14	job	job	NOUN	NN	Number=Sing	None	None	_	_
+15	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	None	None	_	_
+16	moving	move	VERB	VBG	Tense=Pres|VerbForm=Part	None	None	_	_
+17	west	west	ADV	RB	_	None	None	_	_
+18	and	and	CCONJ	CC	_	None	None	_	_
+19	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	None	None	_	_
+20	would	would	AUX	MD	VerbForm=Fin	None	None	_	_
+21	much	much	ADV	RB	_	None	None	_	_
+22	rather	rather	ADV	RB	_	None	None	_	_
+23	see	see	VERB	VB	VerbForm=Inf	None	None	_	_
+24	a	a	DET	DT	Definite=Ind|PronType=Art	None	None	_	_
+25	job	job	NOUN	NN	Number=Sing	None	None	_	_
+26	move	move	VERB	VB	VerbForm=Inf	None	None	_	_
+27	from	from	ADP	IN	_	None	None	_	_
+28	Toronto	Toronto	PROPN	NNP	Number=Sing	None	None	_	_
+29	to	to	ADP	IN	_	None	None	_	_
+30	Calgary	Calgary	PROPN	NNP	Number=Sing	None	None	_	_
+31	than	than	SCONJ	IN	_	None	None	_	_
+32	to	to	PART	TO	_	None	None	_	_
+33	see	see	VERB	VB	VerbForm=Inf	None	None	_	_
+34	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	None	None	_	_
+35	move	move	VERB	VB	VerbForm=Inf	None	None	_	_
+36	to	to	ADP	IN	_	None	None	_	_
+37	Delhi	Delhi	PROPN	NNP	Number=Sing	None	None	_	_
+38	or	or	CCONJ	CC	_	None	None	_	_
+39	Bangalore	Bangalore	PROPN	NNP	Number=Sing	None	None	_	_
+40	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 13_0
+# text = Not sure why a journalist with a degree in architecture is reporting on economic matters in the first place.
+1	Not	not	PART	RB	_	None	None	_	_
+2	sure	sure	ADJ	JJ	Degree=Pos	None	None	_	_
+3	why	why	ADV	WRB	PronType=Int	None	None	_	_
+4	a	a	DET	DT	Definite=Ind|PronType=Art	None	None	_	_
+5	journalist	journalist	NOUN	NN	Number=Sing	None	None	_	_
+6	with	with	ADP	IN	_	None	None	_	_
+7	a	a	DET	DT	Definite=Ind|PronType=Art	None	None	_	_
+8	degree	degree	NOUN	NN	Number=Sing	None	None	_	_
+9	in	in	ADP	IN	_	None	None	_	_
+10	architecture	architecture	NOUN	NN	Number=Sing	None	None	_	_
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+12	reporting	report	VERB	VBG	Tense=Pres|VerbForm=Part	None	None	_	_
+13	on	on	ADP	IN	_	None	None	_	_
+14	economic	economic	ADJ	JJ	Degree=Pos	None	None	_	_
+15	matters	matter	NOUN	NNS	Number=Plur	None	None	_	_
+16	in	in	ADP	IN	_	None	None	_	_
+17	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+18	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	None	None	_	_
+19	place	place	NOUN	NN	Number=Sing	None	None	_	_
+20	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 13_1
+# text = Judging by her op ed piece she has absolutely no idea what she is talking about.
+1	Judging	judge	VERB	VBG	VerbForm=Ger	None	None	_	_
+2	by	by	ADP	IN	_	None	None	_	_
+3	her	her	PRON	PRP$	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	None	None	_	_
+4	op	op	NOUN	NN	Number=Sing	None	None	_	_
+5	ed	ed	NOUN	NN	Number=Sing	None	None	_	_
+6	piece	piece	NOUN	NN	Number=Sing	None	None	_	_
+7	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	None	None	_	_
+8	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+9	absolutely	absolutely	ADV	RB	_	None	None	_	_
+10	no	no	DET	DT	_	None	None	_	_
+11	idea	idea	NOUN	NN	Number=Sing	None	None	_	_
+12	what	what	PRON	WP	PronType=Rel	None	None	_	_
+13	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	None	None	_	_
+14	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+15	talking	talk	VERB	VBG	Tense=Pres|VerbForm=Part	None	None	_	_
+16	about	about	ADP	IN	_	None	None	_	_
+17	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 13_2
+# text = Here is an idea CBC and Globe, how about you hire someone who is qualified to speak on the subject at hand.
+1	Here	here	ADV	RB	PronType=Dem	None	None	_	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+3	an	a	DET	DT	Definite=Ind|PronType=Art	None	None	_	_
+4	idea	idea	NOUN	NN	Number=Sing	None	None	_	_
+5	CBC	CBC	PROPN	NNP	Number=Sing	None	None	_	_
+6	and	and	CCONJ	CC	_	None	None	_	_
+7	Globe	Globe	PROPN	NNP	Number=Sing	None	None	_	_
+8	,	,	PUNCT	,	_	None	None	_	_
+9	how	how	ADV	WRB	PronType=Int	None	None	_	_
+10	about	about	SCONJ	IN	_	None	None	_	_
+11	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	None	None	_	_
+12	hire	hire	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	None	None	_	_
+13	someone	someone	PRON	NN	Number=Sing|PronType=Ind	None	None	_	_
+14	who	who	PRON	WP	PronType=Rel	None	None	_	_
+15	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+16	qualified	qualified	ADJ	JJ	Degree=Pos	None	None	_	_
+17	to	to	PART	TO	_	None	None	_	_
+18	speak	speak	VERB	VB	VerbForm=Inf	None	None	_	_
+19	on	on	ADP	IN	_	None	None	_	_
+20	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+21	subject	subject	NOUN	NN	Number=Sing	None	None	_	_
+22	at	at	ADP	IN	_	None	None	_	_
+23	hand	hand	NOUN	NN	Number=Sing	None	None	_	_
+24	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 13_3
+# text = I know just the place you might find such 'skilled labour'.
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	None	None	_	_
+2	know	know	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	None	None	_	_
+3	just	just	ADV	RB	_	None	None	_	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+5	place	place	NOUN	NN	Number=Sing	None	None	_	_
+6	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	None	None	_	_
+7	might	might	AUX	MD	VerbForm=Fin	None	None	_	_
+8	find	find	VERB	VB	VerbForm=Inf	None	None	_	_
+9	such	such	ADJ	JJ	Degree=Pos	None	None	_	_
+10	'	'	PUNCT	``	_	None	None	_	_
+11	skilled	skilled	ADJ	JJ	Degree=Pos	None	None	_	_
+12	labour	labour	NOUN	NN	Number=Sing	None	None	_	_
+13	'	'	PUNCT	''	_	None	None	_	_
+14	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 14_0
+# text = This is not Birtherism ... the problem is that Maryam Monsef is utterly incompetent!
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	None	None	_	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+3	not	not	PART	RB	_	None	None	_	_
+4	Birtherism	Birtherism	PROPN	NNP	Number=Sing	None	None	_	_
+5	...	...	PUNCT	,	_	None	None	_	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+7	problem	problem	NOUN	NN	Number=Sing	None	None	_	_
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+9	that	that	SCONJ	IN	_	None	None	_	_
+10	Maryam	Maryam	PROPN	NNP	Number=Sing	None	None	_	_
+11	Monsef	Monsef	PROPN	NNP	Number=Sing	None	None	_	_
+12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+13	utterly	utterly	ADV	RB	_	None	None	_	_
+14	incompetent	incompetent	ADJ	JJ	Degree=Pos	None	None	_	_
+15	!	!	PUNCT	.	_	None	None	_	_
+
+# sent_id = 14_1
+# text = Where she was born is nothing compared to her total inability to explain the need for electoral reform, much less the governments insistence that a referendum is not required for any kind of legitimacy.
+1	Where	where	ADV	WRB	PronType=Int	None	None	_	_
+2	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	None	None	_	_
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	None	None	_	_
+4	born	bear	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	None	None	_	_
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+6	nothing	nothing	PRON	NN	Number=Sing|PronType=Neg	None	None	_	_
+7	compared	compare	VERB	VBN	Tense=Past|VerbForm=Part	None	None	_	_
+8	to	to	ADP	IN	_	None	None	_	_
+9	her	her	PRON	PRP$	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	None	None	_	_
+10	total	total	ADJ	JJ	Degree=Pos	None	None	_	_
+11	inability	inability	NOUN	NN	Number=Sing	None	None	_	_
+12	to	to	PART	TO	_	None	None	_	_
+13	explain	explain	VERB	VB	VerbForm=Inf	None	None	_	_
+14	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+15	need	need	NOUN	NN	Number=Sing	None	None	_	_
+16	for	for	ADP	IN	_	None	None	_	_
+17	electoral	electoral	ADJ	JJ	Degree=Pos	None	None	_	_
+18	reform	reform	NOUN	NN	Number=Sing	None	None	_	_
+19	,	,	PUNCT	,	_	None	None	_	_
+20	much	much	ADV	RB	_	None	None	_	_
+21	less	less	ADV	RBR	Degree=Cmp	None	None	_	_
+22	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+23	governments	government	NOUN	NNS	Number=Plur	None	None	_	_
+24	insistence	insistence	NOUN	NN	Number=Sing	None	None	_	_
+25	that	that	SCONJ	IN	_	None	None	_	_
+26	a	a	DET	DT	Definite=Ind|PronType=Art	None	None	_	_
+27	referendum	referendum	NOUN	NN	Number=Sing	None	None	_	_
+28	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+29	not	not	PART	RB	_	None	None	_	_
+30	required	require	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	None	None	_	_
+31	for	for	ADP	IN	_	None	None	_	_
+32	any	any	DET	DT	_	None	None	_	_
+33	kind	kind	NOUN	NN	Number=Sing	None	None	_	_
+34	of	of	ADP	IN	_	None	None	_	_
+35	legitimacy	legitimacy	NOUN	NN	Number=Sing	None	None	_	_
+36	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 14_2
+# text = Only people who don't clearly understand democracy and what 'by the people, for the people' means could hold this view.
+1	Only	only	ADV	RB	_	None	None	_	_
+2	people	person	NOUN	NNS	Number=Plur	None	None	_	_
+3	who	who	PRON	WP	PronType=Rel	None	None	_	_
+4	do	do	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+5	n't	not	PART	RB	_	None	None	_	_
+6	clearly	clearly	ADV	RB	_	None	None	_	_
+7	understand	understand	VERB	VB	VerbForm=Inf	None	None	_	_
+8	democracy	democracy	NOUN	NN	Number=Sing	None	None	_	_
+9	and	and	CCONJ	CC	_	None	None	_	_
+10	what	what	PRON	WP	PronType=Rel	None	None	_	_
+11	'	'	PUNCT	``	_	None	None	_	_
+12	by	by	ADP	IN	_	None	None	_	_
+13	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+14	people	person	NOUN	NNS	Number=Plur	None	None	_	_
+15	,	,	PUNCT	,	_	None	None	_	_
+16	for	for	ADP	IN	_	None	None	_	_
+17	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+18	people	person	NOUN	NNS	Number=Plur	None	None	_	_
+19	'	'	PUNCT	''	_	None	None	_	_
+20	means	means	NOUN	NNS	Number=Plur	None	None	_	_
+21	could	could	AUX	MD	VerbForm=Fin	None	None	_	_
+22	hold	hold	VERB	VB	VerbForm=Inf	None	None	_	_
+23	this	this	DET	DT	Number=Sing|PronType=Dem	None	None	_	_
+24	view	view	NOUN	NN	Number=Sing	None	None	_	_
+25	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 14_3
+# text = Our system of electing our government is owned by the people, not the government of the day, and therefore every citizen of the country deserves their say, not a few forums in a few cities and town in the middle of summer when people are away at the cottage!
+1	Our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	None	None	_	_
+2	system	system	NOUN	NN	Number=Sing	None	None	_	_
+3	of	of	SCONJ	IN	_	None	None	_	_
+4	electing	elect	VERB	VBG	VerbForm=Ger	None	None	_	_
+5	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	None	None	_	_
+6	government	government	NOUN	NN	Number=Sing	None	None	_	_
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+8	owned	own	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	None	None	_	_
+9	by	by	ADP	IN	_	None	None	_	_
+10	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+11	people	person	NOUN	NNS	Number=Plur	None	None	_	_
+12	,	,	PUNCT	,	_	None	None	_	_
+13	not	not	PART	RB	_	None	None	_	_
+14	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+15	government	government	NOUN	NN	Number=Sing	None	None	_	_
+16	of	of	ADP	IN	_	None	None	_	_
+17	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+18	day	day	NOUN	NN	Number=Sing	None	None	_	_
+19	,	,	PUNCT	,	_	None	None	_	_
+20	and	and	CCONJ	CC	_	None	None	_	_
+21	therefore	therefore	ADV	RB	_	None	None	_	_
+22	every	every	DET	DT	_	None	None	_	_
+23	citizen	citizen	NOUN	NN	Number=Sing	None	None	_	_
+24	of	of	ADP	IN	_	None	None	_	_
+25	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+26	country	country	NOUN	NN	Number=Sing	None	None	_	_
+27	deserves	deserve	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+28	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	None	None	_	_
+29	say	say	NOUN	NN	Number=Sing	None	None	_	_
+30	,	,	PUNCT	,	_	None	None	_	_
+31	not	not	PART	RB	_	None	None	_	_
+32	a	a	DET	DT	Definite=Ind|PronType=Art	None	None	_	_
+33	few	few	ADJ	JJ	Degree=Pos	None	None	_	_
+34	forums	forum	NOUN	NNS	Number=Plur	None	None	_	_
+35	in	in	ADP	IN	_	None	None	_	_
+36	a	a	DET	DT	Definite=Ind|PronType=Art	None	None	_	_
+37	few	few	ADJ	JJ	Degree=Pos	None	None	_	_
+38	cities	city	NOUN	NNS	Number=Plur	None	None	_	_
+39	and	and	CCONJ	CC	_	None	None	_	_
+40	town	town	NOUN	NN	Number=Sing	None	None	_	_
+41	in	in	ADP	IN	_	None	None	_	_
+42	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+43	middle	middle	NOUN	NN	Number=Sing	None	None	_	_
+44	of	of	ADP	IN	_	None	None	_	_
+45	summer	summer	NOUN	NN	Number=Sing	None	None	_	_
+46	when	when	ADV	WRB	PronType=Int	None	None	_	_
+47	people	person	NOUN	NNS	Number=Plur	None	None	_	_
+48	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+49	away	away	ADV	RB	_	None	None	_	_
+50	at	at	ADP	IN	_	None	None	_	_
+51	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+52	cottage	cottage	NOUN	NN	Number=Sing	None	None	_	_
+53	!	!	PUNCT	.	_	None	None	_	_
+
+# sent_id = 14_4
+# text = Totally undemocratic in every way!
+1	Totally	totally	ADV	RB	_	None	None	_	_
+2	undemocratic	undemocratic	ADJ	JJ	Degree=Pos	None	None	_	_
+3	in	in	ADP	IN	_	None	None	_	_
+4	every	every	DET	DT	PronType=Tot	None	None	_	_
+5	way	way	NOUN	NN	Number=Sing	None	None	_	_
+6	!	!	PUNCT	.	_	None	None	_	_
+
+# sent_id = 15_0
+# text = IMO, the article misses the big picture by suggesting that there are good and bad sides of identity politics.
+1	IMO	imo	ADV	RB	_	None	None	_	_
+2	,	,	PUNCT	,	_	None	None	_	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+4	article	article	NOUN	NN	Number=Sing	None	None	_	_
+5	misses	miss	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+7	big	big	ADJ	JJ	Degree=Pos	None	None	_	_
+8	picture	picture	NOUN	NN	Number=Sing	None	None	_	_
+9	by	by	SCONJ	IN	_	None	None	_	_
+10	suggesting	suggest	VERB	VBG	VerbForm=Ger	None	None	_	_
+11	that	that	SCONJ	IN	_	None	None	_	_
+12	there	there	PRON	EX	_	None	None	_	_
+13	are	be	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+14	good	good	ADJ	JJ	Degree=Pos	None	None	_	_
+15	and	and	CCONJ	CC	_	None	None	_	_
+16	bad	bad	ADJ	JJ	Degree=Pos	None	None	_	_
+17	sides	side	NOUN	NNS	Number=Plur	None	None	_	_
+18	of	of	ADP	IN	_	None	None	_	_
+19	identity	identity	NOUN	NN	Number=Sing	None	None	_	_
+20	politics	politics	NOUN	NNS	Number=Plur	None	None	_	_
+21	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 15_1
+# text = There aren't.
+1	There	there	PRON	EX	_	None	None	_	_
+2	are	be	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+3	n't	not	PART	RB	_	None	None	_	_
+4	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 15_2
+# text = 'Hey everyone, look at me.
+1	'Hey	'hey	INTJ	UH	_	None	None	_	_
+2	everyone	everyone	PRON	NN	Number=Sing|PronType=Tot	None	None	_	_
+3	,	,	PUNCT	,	_	None	None	_	_
+4	look	look	VERB	VB	Mood=Imp|VerbForm=Fin	None	None	_	_
+5	at	at	ADP	IN	_	None	None	_	_
+6	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	None	None	_	_
+7	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 15_3
+# text = I'm special!' identity politics is never good.
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	None	None	_	_
+2	'm	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	None	None	_	_
+3	special	special	ADJ	JJ	Degree=Pos	None	None	_	_
+4	!	!	PUNCT	.	_	None	None	_	_
+5	'	'	PUNCT	''	_	None	None	_	_
+6	identity	identity	NOUN	NN	Number=Sing	None	None	_	_
+7	politics	politics	NOUN	NNS	Number=Plur	None	None	_	_
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+9	never	never	ADV	RB	_	None	None	_	_
+10	good	good	ADJ	JJ	Degree=Pos	None	None	_	_
+11	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 15_4
+# text = Just like there is no such thing as 'good' racism.
+1	Just	just	ADV	RB	_	None	None	_	_
+2	like	like	SCONJ	IN	_	None	None	_	_
+3	there	there	PRON	EX	_	None	None	_	_
+4	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+5	no	no	DET	DT	_	None	None	_	_
+6	such	such	ADJ	JJ	Degree=Pos	None	None	_	_
+7	thing	thing	NOUN	NN	Number=Sing	None	None	_	_
+8	as	as	ADP	IN	_	None	None	_	_
+9	'	'	PUNCT	``	_	None	None	_	_
+10	good	good	ADJ	JJ	Degree=Pos	None	None	_	_
+11	'	'	PUNCT	''	_	None	None	_	_
+12	racism	racism	NOUN	NN	Number=Sing	None	None	_	_
+13	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 15_5
+# text = There is only racism.
+1	There	there	PRON	EX	_	None	None	_	_
+2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+3	only	only	ADV	RB	_	None	None	_	_
+4	racism	racism	NOUN	NN	Number=Sing	None	None	_	_
+5	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 15_6
+# text = Just like there is no such thing as 'good' gender bias.
+1	Just	just	ADV	RB	_	None	None	_	_
+2	like	like	SCONJ	IN	_	None	None	_	_
+3	there	there	PRON	EX	_	None	None	_	_
+4	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+5	no	no	DET	DT	_	None	None	_	_
+6	such	such	ADJ	JJ	Degree=Pos	None	None	_	_
+7	thing	thing	NOUN	NN	Number=Sing	None	None	_	_
+8	as	as	ADP	IN	_	None	None	_	_
+9	'	'	PUNCT	``	_	None	None	_	_
+10	good	good	ADJ	JJ	Degree=Pos	None	None	_	_
+11	'	'	PUNCT	''	_	None	None	_	_
+12	gender	gender	NOUN	NN	Number=Sing	None	None	_	_
+13	bias	bias	NOUN	NN	Number=Sing	None	None	_	_
+14	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 15_7
+# text = There is only gender bias.
+1	There	there	PRON	EX	_	None	None	_	_
+2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+3	only	only	ADV	RB	_	None	None	_	_
+4	gender	gender	NOUN	NN	Number=Sing	None	None	_	_
+5	bias	bias	NOUN	NN	Number=Sing	None	None	_	_
+6	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 15_8
+# text = Placing a subjective value on these issues simply leads to the tail-chasing gainsaying and whataboutery as demonstrated in this article.
+1	Placing	place	VERB	VBG	VerbForm=Ger	None	None	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	None	None	_	_
+3	subjective	subjective	ADJ	JJ	Degree=Pos	None	None	_	_
+4	value	value	NOUN	NN	Number=Sing	None	None	_	_
+5	on	on	ADP	IN	_	None	None	_	_
+6	these	this	DET	DT	Number=Plur|PronType=Dem	None	None	_	_
+7	issues	issue	NOUN	NNS	Number=Plur	None	None	_	_
+8	simply	simply	ADV	RB	_	None	None	_	_
+9	leads	lead	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+10	to	to	ADP	IN	_	None	None	_	_
+11	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+12	tail	tail	NOUN	NN	Number=Sing	None	None	_	_
+13	-	-	PUNCT	HYPH	_	None	None	_	_
+14	chasing	chase	NOUN	NN	Number=Sing	None	None	_	_
+15	gainsaying	gainsaying	NOUN	NN	Number=Sing	None	None	_	_
+16	and	and	CCONJ	CC	_	None	None	_	_
+17	whataboutery	whataboutery	NOUN	NN	Number=Sing	None	None	_	_
+18	as	as	SCONJ	IN	_	None	None	_	_
+19	demonstrated	demonstrate	VERB	VBN	Tense=Past|VerbForm=Part	None	None	_	_
+20	in	in	ADP	IN	_	None	None	_	_
+21	this	this	DET	DT	Number=Sing|PronType=Dem	None	None	_	_
+22	article	article	NOUN	NN	Number=Sing	None	None	_	_
+23	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 15_9
+# text = Ironically, that's what also causes the divisiveness and inequality that the social justice crowd keeps crying about.
+1	Ironically	ironically	ADV	RB	_	None	None	_	_
+2	,	,	PUNCT	,	_	None	None	_	_
+3	that	that	PRON	DT	Number=Sing|PronType=Dem	None	None	_	_
+4	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+5	what	what	PRON	WP	PronType=Rel	None	None	_	_
+6	also	also	ADV	RB	_	None	None	_	_
+7	causes	cause	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+8	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+9	divisiveness	divisiveness	NOUN	NN	Number=Sing	None	None	_	_
+10	and	and	CCONJ	CC	_	None	None	_	_
+11	inequality	inequality	NOUN	NN	Number=Sing	None	None	_	_
+12	that	that	PRON	WDT	PronType=Rel	None	None	_	_
+13	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+14	social	social	ADJ	JJ	Degree=Pos	None	None	_	_
+15	justice	justice	NOUN	NN	Number=Sing	None	None	_	_
+16	crowd	crowd	NOUN	NN	Number=Sing	None	None	_	_
+17	keeps	keep	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+18	crying	cry	VERB	VBG	VerbForm=Ger	None	None	_	_
+19	about	about	ADP	IN	_	None	None	_	_
+20	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 16_0
+# text = National unity always suffers under liberal governments due to their highly devisive and partisan nature.
+1	National	National	ADJ	JJ	Degree=Pos	None	None	_	_
+2	unity	unity	NOUN	NN	Number=Sing	None	None	_	_
+3	always	always	ADV	RB	_	None	None	_	_
+4	suffers	suffer	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+5	under	under	ADP	IN	_	None	None	_	_
+6	liberal	liberal	ADJ	JJ	Degree=Pos	None	None	_	_
+7	governments	government	NOUN	NNS	Number=Plur	None	None	_	_
+8	due	due	ADP	IN	_	None	None	_	_
+9	to	to	ADP	IN	_	None	None	_	_
+10	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	None	None	_	_
+11	highly	highly	ADV	RB	_	None	None	_	_
+12	devisive	devisive	ADJ	JJ	Degree=Pos	None	None	_	_
+13	and	and	CCONJ	CC	_	None	None	_	_
+14	partisan	hartisan	ADJ	JJ	Degree=Pos	None	None	_	_
+15	nature	nature	NOUN	NN	Number=Sing	None	None	_	_
+16	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 16_1
+# text = Chretien retaliating against con friendly ridings and closing military bases in those ridings for example.
+1	Chretien	Chretien	PROPN	NNP	Number=Sing	None	None	_	_
+2	retaliating	retaliate	VERB	VBG	VerbForm=Ger	None	None	_	_
+3	against	against	ADP	IN	_	None	None	_	_
+4	con	con	NOUN	NN	Number=Sing	None	None	_	_
+5	friendly	friendly	ADJ	JJ	Degree=Pos	None	None	_	_
+6	ridings	riding	NOUN	NNS	Number=Plur	None	None	_	_
+7	and	and	CCONJ	CC	_	None	None	_	_
+8	closing	close	VERB	VBG	VerbForm=Ger	None	None	_	_
+9	military	military	ADJ	JJ	Degree=Pos	None	None	_	_
+10	bases	basis	NOUN	NNS	Number=Plur	None	None	_	_
+11	in	in	ADP	IN	_	None	None	_	_
+12	those	that	DET	DT	Number=Plur|PronType=Dem	None	None	_	_
+13	ridings	riding	NOUN	NNS	Number=Plur	None	None	_	_
+14	for	for	ADP	IN	_	None	None	_	_
+15	example	example	NOUN	NN	Number=Sing	None	None	_	_
+16	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 16_2
+# text = How about Justin stating...“Canada isn’t doing well right now because it’s Albertans who control our community and socio-democratic agenda.
+1	How	how	ADV	WRB	PronType=Int	None	None	_	_
+2	about	about	ADP	IN	_	None	None	_	_
+3	Justin	Justin	PROPN	NNP	Number=Sing	None	None	_	_
+4	stating	state	VERB	VBG	VerbForm=Ger	None	None	_	_
+5	...	...	PUNCT	,	_	None	None	_	_
+6	“	''	PUNCT	``	_	None	None	_	_
+7	Canada	Canada	PROPN	NNP	Number=Sing	None	None	_	_
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+9	n’t	not	PART	RB	_	None	None	_	_
+10	doing	do	VERB	VBG	Tense=Pres|VerbForm=Part	None	None	_	_
+11	well	well	ADV	RB	Degree=Pos	None	None	_	_
+12	right	right	ADV	RB	_	None	None	_	_
+13	now	now	ADV	RB	_	None	None	_	_
+14	because	because	SCONJ	IN	_	None	None	_	_
+15	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	None	None	_	_
+16	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+17	Albertans	Albertans	PROPN	NNPS	Number=Plur	None	None	_	_
+18	who	who	PRON	WP	PronType=Rel	None	None	_	_
+19	control	control	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+20	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	None	None	_	_
+21	community	community	NOUN	NN	Number=Sing	None	None	_	_
+22	and	and	CCONJ	CC	_	None	None	_	_
+23	socio-democratic	socio-democratic	ADJ	JJ	Degree=Pos	None	None	_	_
+24	agenda	agenda	NOUN	NN	Number=Sing	None	None	_	_
+25	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 16_3
+# text = It doesn’t work,” Trudeau said.
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	None	None	_	_
+2	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+3	n’t	not	PART	RB	_	None	None	_	_
+4	work	work	VERB	VB	VerbForm=Inf	None	None	_	_
+5	,	,	PUNCT	,	_	None	None	_	_
+6	”	''	PUNCT	''	_	None	None	_	_
+7	Trudeau	Trudeau	PROPN	NNP	Number=Sing	None	None	_	_
+8	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	None	None	_	_
+9	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 16_4
+# text = When Lagace asked whether Trudeau believed Canada was better off “when there are more Quebecers in charge than Albertans,” Trudeau replied in the affirmative.
+1	When	when	ADV	WRB	PronType=Int	None	None	_	_
+2	Lagace	Lagace	PROPN	NNP	Number=Sing	None	None	_	_
+3	asked	ask	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	None	None	_	_
+4	whether	whether	SCONJ	IN	_	None	None	_	_
+5	Trudeau	Trudeau	PROPN	NNP	Number=Sing	None	None	_	_
+6	believed	believe	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	None	None	_	_
+7	Canada	Canada	PROPN	NNP	Number=Sing	None	None	_	_
+8	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	None	None	_	_
+9	better	good	ADJ	JJR	Degree=Cmp	None	None	_	_
+10	off	off	ADP	RP	_	None	None	_	_
+11	“	''	PUNCT	``	_	None	None	_	_
+12	when	when	ADV	WRB	PronType=Int	None	None	_	_
+13	there	there	PRON	EX	_	None	None	_	_
+14	are	be	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+15	more	more	ADJ	JJR	Degree=Cmp	None	None	_	_
+16	Quebecers	Quebecers	PROPN	NNPS	Number=Plur	None	None	_	_
+17	in	in	ADP	IN	_	None	None	_	_
+18	charge	charge	NOUN	NN	Number=Sing	None	None	_	_
+19	than	than	ADP	IN	_	None	None	_	_
+20	Albertans	Albertans	PROPN	NNPS	Number=Plur	None	None	_	_
+21	,	,	PUNCT	,	_	None	None	_	_
+22	”	''	PUNCT	''	_	None	None	_	_
+23	Trudeau	Trudeau	PROPN	NNP	Number=Sing	None	None	_	_
+24	replied	reply	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	None	None	_	_
+25	in	in	ADP	IN	_	None	None	_	_
+26	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+27	affirmative	affirmative	NOUN	NN	Number=Sing	None	None	_	_
+28	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 16_5
+# text = “I’m a Liberal, so of course I think so, yes.
+1	“	''	PUNCT	``	_	None	None	_	_
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	None	None	_	_
+3	’m	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	None	None	_	_
+4	a	a	DET	DT	Definite=Ind|PronType=Art	None	None	_	_
+5	Liberal	liberal	PROPN	NNP	Number=Sing	None	None	_	_
+6	,	,	PUNCT	,	_	None	None	_	_
+7	so	so	ADV	RB	_	None	None	_	_
+8	of	of	ADV	IN	_	None	None	_	_
+9	course	course	NOUN	NN	Number=Sing	None	None	_	_
+10	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	None	None	_	_
+11	think	think	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	None	None	_	_
+12	so	so	ADV	RB	_	None	None	_	_
+13	,	,	PUNCT	,	_	None	None	_	_
+14	yes	yes	INTJ	UH	_	None	None	_	_
+15	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 16_6
+# text = Certainly when we look at the great prime ministers of the 20th century, those that really stood the test of time, they were MPs from Quebec ...
+1	Certainly	certainly	ADV	RB	_	None	None	_	_
+2	when	when	ADV	WRB	PronType=Int	None	None	_	_
+3	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	None	None	_	_
+4	look	look	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	None	None	_	_
+5	at	at	ADP	IN	_	None	None	_	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+7	great	great	ADJ	JJ	Degree=Pos	None	None	_	_
+8	prime	prime	ADJ	JJ	Degree=Pos	None	None	_	_
+9	ministers	minister	NOUN	NNS	Number=Plur	None	None	_	_
+10	of	of	ADP	IN	_	None	None	_	_
+11	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+12	20th	20th	ADJ	JJ	Degree=Pos|NumType=Ord	None	None	_	_
+13	century	century	NOUN	NN	Number=Sing	None	None	_	_
+14	,	,	PUNCT	,	_	None	None	_	_
+15	those	that	PRON	DT	Number=Plur|PronType=Dem	None	None	_	_
+16	that	that	PRON	WDT	PronType=Rel	None	None	_	_
+17	really	really	ADV	RB	_	None	None	_	_
+18	stood	stand	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	None	None	_	_
+19	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+20	test	test	NOUN	NN	Number=Sing	None	None	_	_
+21	of	of	ADP	IN	_	None	None	_	_
+22	time	time	NOUN	NN	Number=Sing	None	None	_	_
+23	,	,	PUNCT	,	_	None	None	_	_
+24	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	None	None	_	_
+25	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	None	None	_	_
+26	MPs	mp	NOUN	NNS	Number=Plur	None	None	_	_
+27	from	from	ADP	IN	_	None	None	_	_
+28	Quebec	Quebec	PROPN	NNP	Number=Sing	None	None	_	_
+29	...	...	PUNCT	.	_	None	None	_	_
+
+# sent_id = 16_7
+# text = This country — Canada — it belongs to us.
+1	This	this	DET	DT	Number=Sing|PronType=Dem	None	None	_	_
+2	country	country	NOUN	NN	Number=Sing	None	None	_	_
+3	—	—	PUNCT	:	_	None	None	_	_
+4	Canada	Canada	PROPN	NNP	Number=Sing	None	None	_	_
+5	—	—	PUNCT	:	_	None	None	_	_
+6	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	None	None	_	_
+7	belongs	belong	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+8	to	to	ADP	IN	_	None	None	_	_
+9	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	None	None	_	_
+10	.	.	PUNCT	.	_	None	None	_	_
+
+# sent_id = 16_8
+# text = ”And on liberals inability to run a balanced budget?
+1	”	''	PUNCT	``	_	None	None	_	_
+2	And	and	CCONJ	CC	_	None	None	_	_
+3	on	on	ADP	IN	_	None	None	_	_
+4	liberals	liberal	NOUN	NNS	Number=Plur	None	None	_	_
+5	inability	inability	NOUN	NN	Number=Sing	None	None	_	_
+6	to	to	PART	TO	_	None	None	_	_
+7	run	run	VERB	VB	VerbForm=Inf	None	None	_	_
+8	a	a	DET	DT	Definite=Ind|PronType=Art	None	None	_	_
+9	balanced	balanced	ADJ	JJ	Degree=Pos	None	None	_	_
+10	budget	budget	NOUN	NN	Number=Sing	None	None	_	_
+11	?	?	PUNCT	.	_	None	None	_	_
+
+# sent_id = 16_9
+# text = Again, who is suprised when you have Justin promising to implement all recommendations from the TRC's report on aboriginal affairs, WITHOUT HAVING ACTUALLY READ THE DOCUMENT!
+1	Again	again	ADV	RB	_	None	None	_	_
+2	,	,	PUNCT	,	_	None	None	_	_
+3	who	who	PRON	WP	PronType=Rel	None	None	_	_
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+5	suprised	suprise	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	None	None	_	_
+6	when	when	ADV	WRB	PronType=Int	None	None	_	_
+7	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	None	None	_	_
+8	have	have	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	None	None	_	_
+9	Justin	Justin	PROPN	NNP	Number=Sing	None	None	_	_
+10	promising	promise	VERB	VBG	VerbForm=Ger	None	None	_	_
+11	to	to	PART	TO	_	None	None	_	_
+12	implement	implement	VERB	VB	VerbForm=Inf	None	None	_	_
+13	all	all	DET	DT	_	None	None	_	_
+14	recommendations	recommendation	NOUN	NNS	Number=Plur	None	None	_	_
+15	from	from	ADP	IN	_	None	None	_	_
+16	the	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+17	TRC	TRC	PROPN	NNP	Number=Sing	None	None	_	_
+18	's	's	PART	POS	_	None	None	_	_
+19	report	report	NOUN	NN	Number=Sing	None	None	_	_
+20	on	on	ADP	IN	_	None	None	_	_
+21	aboriginal	aboriginal	ADJ	JJ	Degree=Pos	None	None	_	_
+22	affairs	affair	NOUN	NNS	Number=Plur	None	None	_	_
+23	,	,	PUNCT	,	_	None	None	_	_
+24	WITHOUT	without	SCONJ	IN	_	None	None	_	_
+25	HAVING	have	VERB	VBG	VerbForm=Ger	None	None	_	_
+26	ACTUALLY	actually	ADV	RB	_	None	None	_	_
+27	READ	read	VERB	VB	VerbForm=Inf	None	None	_	_
+28	THE	the	DET	DT	Definite=Def|PronType=Art	None	None	_	_
+29	DOCUMENT	document	NOUN	NN	Number=Sing	None	None	_	_
+30	!	!	PUNCT	.	_	None	None	_	_
+
+# sent_id = 16_10
+# text = Canada is in for a very long and troubling 4 years with this level of divisive partisanship and fiscal incompetence from Justin.
+1	Canada	Canada	PROPN	NNP	Number=Sing	None	None	_	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	None	None	_	_
+3	in	in	ADV	RB	_	None	None	_	_
+4	for	for	ADP	IN	_	None	None	_	_
+5	a	a	DET	DT	Definite=Ind|PronType=Art	None	None	_	_
+6	very	very	ADV	RB	_	None	None	_	_
+7	long	long	ADJ	JJ	Degree=Pos	None	None	_	_
+8	and	and	CCONJ	CC	_	None	None	_	_
+9	troubling	troubling	ADJ	JJ	Degree=Pos	None	None	_	_
+10	4	4	NUM	CD	NumForm=Digit|NumType=Card	None	None	_	_
+11	years	year	NOUN	NNS	Number=Plur	None	None	_	_
+12	with	with	ADP	IN	_	None	None	_	_
+13	this	this	DET	DT	Number=Sing|PronType=Dem	None	None	_	_
+14	level	level	NOUN	NN	Number=Sing	None	None	_	_
+15	of	of	ADP	IN	_	None	None	_	_
+16	divisive	divisive	ADJ	JJ	Degree=Pos	None	None	_	_
+17	partisanship	partisanship	NOUN	NN	Number=Sing	None	None	_	_
+18	and	and	CCONJ	CC	_	None	None	_	_
+19	fiscal	fiscal	ADJ	JJ	Degree=Pos	None	None	_	_
+20	incompetence	incompetence	NOUN	NN	Number=Sing	None	None	_	_
+21	from	from	ADP	IN	_	None	None	_	_
+22	Justin	Justin	PROPN	NNP	Number=Sing	None	None	_	_
+23	.	.	PUNCT	.	_	None	None	_	_
+
