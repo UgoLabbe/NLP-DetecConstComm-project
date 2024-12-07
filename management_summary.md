@@ -11,4 +11,4 @@
 
 - Implement Non-Deep Learning solutions: Ugo Labbé
 - Implement Deep Learning solutions: Nicolas Bernal
-- Implement Transformers (BERT or other models from huggingface):
+- Implement Transformers (BERT or other models from huggingface): Gerhard Karbeutz
