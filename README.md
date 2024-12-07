@@ -1,6 +1,9 @@
 ## Project: Detection of Constructive Comments
 ### Milestone 1: Dataset Preparation and Preprocessing
 
+## Overleaf for management report: 
+https://www.overleaf.com/9393782685xkkwjwgqdrqs#28659f
+
 **Dataset Overview**: 
 - The data for this project is a subset of comments from the SFU Opinion and Comments Corpus. This subset, the Constructive Comments Corpus (C3) consists of 12,000 comments annotated by crowdworkers for constructiveness and its characteristics.
 - Total records: 12,000
