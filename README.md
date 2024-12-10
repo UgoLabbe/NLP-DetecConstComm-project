@@ -23,5 +23,16 @@ https://www.overleaf.com/9393782685xkkwjwgqdrqs#28659f
 ### Milestone 2: Implement NLP Solutions
 
 **Implement Non-Deep Learning solutions**:
+- Naive Bayesian classifier on both original and preprocessed text
+- Feature based Machine Learning models:
+    - K Nearest Neighbor
+    - Random Forest (with SHAP values for explainability and qualitative analysis)
+    - Logisitic Regression
 
 **Implement Deep Learning solutions**:
+- Neural Network
+
+**Implement Transform-based solutions**:
+- BERT
+
+You can find the model performancs in the `model_perf.md`
