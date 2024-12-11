@@ -5,7 +5,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 class CoNLLUPreprocessing:
     def __init__(
             self, 
-            input_path='./Data/C3_anonymized.csv',
+            input_path='./input/C3_anonymized.csv',
             output_path='./preprocessed_dataset.conllu',
             preprocessing_opt={}
         ):
