@@ -6,7 +6,7 @@ class CoNLLUPreprocessing:
     def __init__(
             self, 
             input_path='./input/C3_anonymized.csv',
-            output_path='./preprocessed_dataset.conllu',
+            output_path='./output/preprocessed_dataset.conllu',
             preprocessing_opt={}
         ):
         """
@@ -26,7 +26,7 @@ class CoNLLUPreprocessing:
         self.input_data = self.read_input_dataset()
 
         # Create a Stanza pipeline for the English language
-        self.nlp = stanza.Pipeline(lang='en', processors='tokenize,lemma,pos')
+        self.nlp = stanza.Pipeline(lang='en', processors='tokenize,pos')
 
         # Depine aditional preprocessing options
         self.preprocessing_opt = preprocessing_opt
@@ -51,30 +51,36 @@ class CoNLLUPreprocessing:
         return df_anno
     
 
-    def remove_rows(self):
+    def remove_rows(self, data):
         """
         Remove unusable rows from the `Constructive Comments Corpus (C3)` dataset,
         based on the insights found during analysis.
 
         Parameters:
-        input_data (pd.DataFrame): The input dataset as a pandas DataFrame.
+        data (pd.DataFrame): The input dataset as a pandas DataFrame.
 
         Returns:
-        pd.DataFrame: The cleaned dataset.
+        pd.DataFrame: The dataset without unusable rows.
         """
 
         # Remove all rows with less than 10 characters
-        data = self.input_data[self.input_data['comment_text'].str.len() > 10]
+        cleaned_data = data[data['comment_text'].str.len() > 10]
 
         # Remove all rows with Japanese characters
-        data = data[~data['comment_text'].str.contains('[\u3040-\u30ff\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff\uff66-\uff9f]', regex=True)]
+        cleaned_data = cleaned_data[~cleaned_data['comment_text'].str.contains('[\u3040-\u30ff\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff\uff66-\uff9f]', regex=True)]
 
-        return data
+        return cleaned_data
 
 
     def prior_preprocessing(self, data):
         """
         Perform any prior preprocessing steps before sending the data to the NLP pipeline.
+
+        Parameters:
+        data (pd.DataFrame): The input dataset as a pandas DataFrame.
+
+        Returns:
+        pd.DataFrame: The preprocessed dataset.
         """
 
         remove = []
@@ -97,6 +103,13 @@ class CoNLLUPreprocessing:
     def process_comment(self, doc_id, comment):
         """
         Process a single comment with the Stanza NLP pipeline and return the formatted lines.
+
+        Parameters:
+        doc_id (int): The document ID.
+        comment (str): The comment to process.
+
+        Returns:
+        tuple: A tuple containing the document ID and the formatted lines.
         """
         doc = self.nlp(comment)
         lines = []
@@ -113,9 +126,33 @@ class CoNLLUPreprocessing:
 
         return doc_id, lines
 
-    def save_output_dataset(self, data, max_threads=6):
+    def save_classes(self, classes, class_output_path='./output/classes.txt'):
+        """
+        Save the constructive_binary classes to a separate file.
+
+        Parameters:
+        classes (list): List of tuples containing doc_id and constructive_binary.
+        class_output_path (str): Path to the output classes file. Default is './output/classes.txt'.
+
+        Returns:
+        None (saves the output to the class_output_path)
+        """
+        classes.sort(key=lambda x: x[0])
+
+        with open(class_output_path, 'w', encoding='utf-8') as f:
+            f.write("doc_id\tconstructive\n")
+            for doc_id, constructive_binary in classes:
+                f.write(f"{doc_id}\t{constructive_binary}\n")
+
+    def save_output_dataset(self, data):
         """
         Apply preprocessing to the data, and format it as a CoNLL-U file.
+
+        Parameters:
+        data (pd.DataFrame): The input dataset as a pandas DataFrame.
+
+        Returns:
+        None (saves the output to the output_path)
         """
 
         output_lines = []
@@ -125,11 +162,13 @@ class CoNLLUPreprocessing:
             futures = {executor.submit(self.process_comment, doc_id, comment): doc_id for doc_id, comment in enumerate(data["comment_text"])}
 
             results = []
+            classes = []
             for future in as_completed(futures):
                 doc_id = futures[future]
                 try:
                     doc_id, lines = future.result()
                     results.append((doc_id, lines))
+                    classes.append((doc_id, data["constructive_binary"].iloc[doc_id]))
                     print(f"Processed document {doc_id}...")
                 except Exception as exc:
                     print(f"Document {doc_id} generated an exception: {exc}")
@@ -149,3 +188,6 @@ class CoNLLUPreprocessing:
                 # Write any remaining lines to the file
                 if output_lines:
                     f.writelines(output_lines)
+
+            # Save the classes to a separate file
+            self.save_classes(classes)

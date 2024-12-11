@@ -20,7 +20,8 @@ def main():
 
     stop_words = stopwords.words('english')
     punctuation = list(string.punctuation)
-    preprocessing_opt={ "stop_words":stop_words, "punctuation":punctuation }
+    # preprocessing_opt={ "stop_words":stop_words, "punctuation":punctuation }
+    preprocessing_opt={}
 
     try:
         # Initialize the CoNLLUPreprocessing class
@@ -31,7 +32,7 @@ def main():
         )
 
         # Get the input data, and remove unusable rows
-        cleaned_data = pipeline.remove_rows()
+        cleaned_data = pipeline.remove_rows(pipeline.input_data)
 
         # Preprocess the data (remove stopwords, punctuation, etc.)
         preprocessed_data = pipeline.prior_preprocessing(cleaned_data)
@@ -42,7 +43,7 @@ def main():
         print(f"File saved successfully on: {output_path}")
 
     except pd.errors.ParserError as e:
-        print(f"Error processing the input file: {e}")
+        print(f"Error creating CoNLL-U file: {e}")
 
 
 if __name__ == "__main__":
