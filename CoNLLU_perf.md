@@ -105,3 +105,37 @@ Performance on both test is basically the same and they keep the same trends wit
 - anyone `but` `harper` in 2015 .
 - take obama ... look how all that hopey changey stuff work for he !! yes the voter `get` change ... `but` not in a `good` way . the big lame duck president in history .
 - i have always think that `harper` be two - face . trouble be a lot of `person` who support israel do not think about what he be do to this country . `harper` be not good for `canada` and i be not sure he be good for israel .
+
+
+## Neural Network
+
+| Test      | Accurracy | Precision | Recall    | F1 Score |
+|-----------|-----------|-----------|-----------| ---------|
+| Test 1    | 85.20%    | 85.59%    | 86.99%    | 86.29%   |
+| Test 2    | 85.65%    | 85.99%    | 87.47%    | 86.72%   |
+
+
+### Misclassifications
+
+Here we present some examples of misclassifications for the neural network. We present the class that the comment was classified, also we classify some of the comments as `Actual missclassification` so the comment was classified as class 0 but it should be class 1 and vice versa. But also we classify others as `Probably wrong label on the dataset` so the preddiction was actually accurate taking into account the nature of the comment, so the error is in its label on the training data.
+
+#### Classified as class 0 (non-constructive comments)
+
+##### Actual missclassification (should be 1 constructive)
+- Canada spends @10B per year on Indian Affairs. Rath wants a 100B for the natives - or 10 years of our spending. There are @1M natives in the country. Offer 1M per living native. Run a plebisite that would, in exchange for the amount above:-extenguish any and all treaty rights for any bands that vote in majority to accept Canada's offer to pay for the past. -all reserves will be converted to municipalities-all residents of the reserves will receive title to the property on which they reside-the remianing land divided on pro rata basis between-if 2/3rds majority accept the offer in the national vote - ALL natives, ALL bands will be includedThen we can all get on with it. Natives can continue to hold onto their culture they way any other cultural community does. Yet they will be able to be a part of society without being apart.
+- This is an issue that 99 % of Canadians dont understand or give the slightest care about . The CPC is just loving this , watching Justin make himself appear more aloof , even in comparison to Harper ( whos pretty aloof ) . Just plays into the who cares about your priorities line . If the NDP and LPC were smart , theyd shuffle off this issue and on to more important matters , in the eyes of the general population .
+
+#### Probably wrong label on the dataset (should be labeled as 0 non-constructive)
+
+- Stop wasting $$$$$$ on Climate Change and start adding $$$$ to infastructure... Climate has been changing since the beginning of time and will continue to do so.....As for our sewers they were installed for the 25 year storm or 50 year storm, time to upgrade (long over due)...Don't grease Unions pockets, and the list goes on.........Ex Mayor Miller was part of the problem, and the list goes on.........
+- I'm as smart as someone like David Suzuki so can someone please tell me what this will all mean if we actually do reduce CO2 emissions? When will the weather start returning to normal (with no storms or natural disasters) and the earth start cooling to the point that everything will be okay? When and how will we know?
+
+#### Classified as class 1 (constructive comments)
+
+#### Actual missclassification (should be 0 non-constructive)
+- Where is our federal government 
+- Every time oil prices go up, Alberta's politicians breath a sigh of relief and say 'this time it will be different'.It never is . . .
+- It is beyond my comprehension having little pierre or angry tom at the helm during a real emergency. Almost laughable.
+
+#### Probably wrong label on the dataset (should be labeled as 1 constructive)
+- An unfortunate situation for many in Vancouver, but a great opportunity for Calgary. Falling house prices, acres of cheap, high-quality office space. Maybe it is possible to diversify the economy!

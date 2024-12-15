@@ -25,9 +25,6 @@ class CoNLLUPreprocessing:
         # Read the input dataset
         self.input_data = self.read_input_dataset()
 
-        # Create a Stanza pipeline for the English language
-        self.nlp = stanza.Pipeline(lang='en', processors='tokenize,pos')
-
         # Depine aditional preprocessing options
         self.preprocessing_opt = preprocessing_opt
 
@@ -100,7 +97,7 @@ class CoNLLUPreprocessing:
         return data
 
 
-    def process_comment(self, doc_id, comment):
+    def process_comment(self, doc_id, comment, pipeline):
         """
         Process a single comment with the Stanza NLP pipeline and return the formatted lines.
 
@@ -111,7 +108,7 @@ class CoNLLUPreprocessing:
         Returns:
         tuple: A tuple containing the document ID and the formatted lines.
         """
-        doc = self.nlp(comment)
+        doc = pipeline(comment)
         lines = []
 
         # Use list comprehension to accumulate lines
@@ -155,11 +152,13 @@ class CoNLLUPreprocessing:
         None (saves the output to the output_path)
         """
 
+        pipeline = stanza.Pipeline(lang='en', processors='tokenize,lemma,pos')
+
         output_lines = []
         batch_size = 1000
 
         with ThreadPoolExecutor(6) as executor:
-            futures = {executor.submit(self.process_comment, doc_id, comment): doc_id for doc_id, comment in enumerate(data["comment_text"])}
+            futures = {executor.submit(self.process_comment, doc_id, comment, pipeline): doc_id for doc_id, comment in enumerate(data["comment_text"])}
 
             results = []
             classes = []

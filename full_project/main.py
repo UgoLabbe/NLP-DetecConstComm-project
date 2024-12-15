@@ -20,7 +20,11 @@ def main():
 
     stop_words = stopwords.words('english')
     punctuation = list(string.punctuation)
+
+    # Remove the punctuation and stopwords
     # preprocessing_opt={ "stop_words":stop_words, "punctuation":punctuation }
+
+    # No additional preprocessing
     preprocessing_opt={}
 
     try:
