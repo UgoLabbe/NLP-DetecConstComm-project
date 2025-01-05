@@ -201,8 +201,8 @@ class RuleBasedAnnotations:
     def __init__ (self, 
                   preprocessed_conllu_path='./input/preprocessed_dataset.conllu',
                   output_path='./input/new_annotations.txt',
-                  vocabulary_constructive='./input/vocabulary_constructive.txt',
-                  vocabulary_non_constructive='./input/vocabulary_non_constructive.txt'
+                  vocabulary_constructive='./input/vocabulary_constructive.csv',
+                  vocabulary_non_constructive='./input/vocabulary_non_constructive.csv'
         ):
         """
         Initialize the rule_based_annotations class with input and output paths.
@@ -214,11 +214,18 @@ class RuleBasedAnnotations:
         # Path to the output classes file
         self.output_path = output_path
 
-        # Load count of verbs, adverbs, etc from conllu data
+        # Load count of tokens, verbs, and adjetives from conllu data
         self.conllu_data = load_conllu_data(self.preprocessed_conllu_path)
 
         # Load texts from conllu data
         self.conllu_texts = extract_preprocessed_text(self.preprocessed_conllu_path)
+
+        # Load the constructive vocabulary
+        self.vocabulary_constructive = pd.read_csv(vocabulary_constructive)
+
+        # Load the non-constructive vocabulary
+        self.vocabulary_non_constructive = pd.read_csv(vocabulary_non_constructive)
+        
 
     
     def generate_feature_based_annotation(self, data):
@@ -237,9 +244,6 @@ class RuleBasedAnnotations:
         # Keep only comment_id and constructive
         data = data[['constructive']]
 
-        # Rename comment_id to doc_id
-        data.rename(columns={'comment_id': 'doc_id'}, inplace=True)
-
         # Save the annotations to a file
         data.to_csv(self.output_path, sep='\t', index=False, header=False)
 
@@ -257,13 +261,12 @@ class RuleBasedAnnotations:
         list: The annotated dataset.
         """
 
+        data['comment_text'] = self.conllu_texts
+
         data['constructive'] = data.apply(construcive_base_on_keywords_and_features, axis=1, args=(self.vocabulary_constructive, self.vocabulary_non_constructive))
 
         # Keep only comment_id and constructive
         data = data[['constructive']]
-
-        # Rename comment_id to doc_id
-        data.rename(columns={'comment_id': 'doc_id'}, inplace=True)
 
         # Save the annotations to a file
         data.to_csv(self.output_path, sep='\t', index=False, header=False)
@@ -290,9 +293,9 @@ def constructive_based_on_keywords(row, vocabulary_constructive, vocabulary_non_
         return 1 if constructive_count > 0 else 0  # Constructive if count > 0, else Not constructive
 
 
-def construcive_base_on_keywords_and_features(row):
+def construcive_base_on_keywords_and_features(row, vocabulary_constructive, vocabulary_non_constructive):
     features_weight = constructive_based_on_features(row)
-    keywords_weight = constructive_based_on_keywords(row)
+    keywords_weight = constructive_based_on_keywords(row, vocabulary_constructive, vocabulary_non_constructive)
 
     features_weight = features_weight * .70 # 70% weight
     keywords_weight = keywords_weight * .30 # 30% weight
