@@ -17,6 +17,12 @@ warnings.filterwarnings("ignore", category=FutureWarning)
 
 logging.basicConfig(level=logging.WARNING)
 
+INPUT_PATH = './input/preprocessed_dataset.conllu'
+OLD_ANNOTATIONS_PATH = './input/old_annotations.txt'
+NEW_ANNOTATIONS_PATH = './input/new_annotations.txt'
+OLD_RANDOM_FOREST_MODEL_PATH = './models/original_random_forest_model.pkl'
+OLD_NAIVE_BAYES_MODEL_PATH = './models/original_naive_bayes_model.pkl'
+
 def main():
 
     print("\n" + "="*60)
@@ -29,12 +35,10 @@ def main():
     print("  1. Use the old annotations (done by crowdworkers).")
     print("  2. Use the new annotations (generated using the following set of rules: at least 300 characters, 10 verbs and 8 adjectives).\n")
 
-    input_path = 'full_project/input/preprocessed_dataset.conllu'
-
     # Load the different input for our models
-    original_texts = extract_original_text(input_path)
+    original_texts = extract_original_text(INPUT_PATH)
     print("\nOriginal comments loaded")
-    df_features = load_conllu_data(input_path)
+    df_features = load_conllu_data(INPUT_PATH)
     print("Comments features loaded\n")
 
     # User selection for annotations
@@ -45,14 +49,13 @@ def main():
     user_choice = input("Enter 1 or 2: ").strip()
 
     if user_choice == '1':
-        annotations_path = 'full_project/input/old_annotations.txt'
         # Load annotations based on user choice
-        annotations = pd.read_table(annotations_path, header=None)
+        annotations = pd.read_table(OLD_ANNOTATIONS_PATH, header=None)
         print("\nAnnotations loaded")
 
         # Load the different models 
-        original_NB = joblib.load("full_project/models/original_naive_bayes_model.pkl")
-        RF = joblib.load("full_project/models/rf_model.pkl")
+        original_NB = joblib.load(OLD_NAIVE_BAYES_MODEL_PATH)
+        RF = joblib.load(OLD_RANDOM_FOREST_MODEL_PATH)
         print("Models to predict crowdworkers annotations loaded")
 
         # Preparation of data
@@ -90,9 +93,8 @@ def main():
         print("Following the SHAP Values Analysis, we decided to create our own definiton of constructive comments, with the defined set of rules for our new annotations")
         
     elif user_choice == '2':
-        annotations_path = 'full_project/input/new_annotations.txt'
         # Load annotations based on user choice
-        annotations = pd.read_table(annotations_path, header=None)
+        annotations = pd.read_table(NEW_ANNOTATIONS_PATH, header=None)
         print("Annotations loaded")
     else:
         print("Invalid choice. Please restart and choose 1 or 2.")
