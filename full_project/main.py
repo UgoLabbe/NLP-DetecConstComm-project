@@ -46,8 +46,8 @@ def run_rule_based_annotations(output_path):
         rule_based_annotations = RuleBasedAnnotations(output_path)
 
         # Generate the rule-based annotations based on tokens, verbs, and adjetives
-        rule_based_annotations.generate_feature_based_annotation(rule_based_annotations.conllu_data)
-        # rule_based_annotations.generate_keywords_based_annotation(rule_based_annotations.conllu_data)
+        # rule_based_annotations.generate_feature_based_annotation(rule_based_annotations.conllu_data)
+        rule_based_annotations.generate_keywords_based_annotation(rule_based_annotations.conllu_data)
 
         print(f"Rule-based annotations generated successfully for: {output_path}")
 

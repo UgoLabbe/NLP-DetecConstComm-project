@@ -297,8 +297,8 @@ def construcive_base_on_keywords_and_features(row, vocabulary_constructive, voca
     features_weight = constructive_based_on_features(row)
     keywords_weight = constructive_based_on_keywords(row, vocabulary_constructive, vocabulary_non_constructive)
 
-    features_weight = features_weight * .70 # 70% weight
-    keywords_weight = keywords_weight * .30 # 30% weight
+    features_weight = features_weight * .50 # 70% weight
+    keywords_weight = keywords_weight * .50 # 30% weight
 
     if features_weight + keywords_weight >= 0.5:
         return 1 # Constructive
