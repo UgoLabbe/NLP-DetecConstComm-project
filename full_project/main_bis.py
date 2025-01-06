@@ -27,7 +27,6 @@ OLD_NAIVE_BAYES_MODEL_PATH = './models/original_naive_bayes_model.pkl'
 
 NEW_RANDOM_FOREST_MODEL_PATH = './models/rf_model_new_labels_rb.pkl'
 NEW_BAYESIAN_MODEL_PATH = './models/naive_bayes_model_new_labels_rb.pkl'
-VECTORIZER_NEW_ANNOTATIONS = './models/tfidf_vectorizer_new_labes.pkl'
 
 def main():
 
@@ -75,27 +74,22 @@ def main():
         # Load the different models
         new_NB = joblib.load(NEW_BAYESIAN_MODEL_PATH)
         new_RF = joblib.load(NEW_RANDOM_FOREST_MODEL_PATH)
-        vectorizer = joblib.load(VECTORIZER_NEW_ANNOTATIONS)
         print("Models to predict rule-based annotations loaded")
 
         # Test the models with new annotations
-        test_models(annotations, original_texts, df_features, new_NB, new_RF, vectorizer)
+        test_models(annotations, original_texts, df_features, new_NB, new_RF)
     else:
         print("Invalid choice. Please restart and choose 1 or 2.")
         return
 
 
-def test_models(annotations, original_texts, df_features, NB, RF, saved_vectorizer=None):
+def test_models(annotations, original_texts, df_features, NB, RF):
     # Preparation of data
     y = annotations
 
-    ## Text-based models:
     # Vectorization
-    if saved_vectorizer: # Use the saved vectorizer for the new annotations
-        X = saved_vectorizer.transform(original_texts)
-    else: # Create a new vectorizer for the old annotations
-        vectorizer = TfidfVectorizer()
-        X = vectorizer.fit_transform(original_texts)
+    vectorizer = TfidfVectorizer()
+    X = vectorizer.fit_transform(original_texts)
 
     # Splitting into training and testing data
     _, X_test, _, y_test = train_test_split(X, y, test_size=0.2, random_state=42)

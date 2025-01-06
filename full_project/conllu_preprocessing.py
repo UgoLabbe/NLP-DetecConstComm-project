@@ -286,19 +286,24 @@ def constructive_based_on_keywords(row, vocabulary_constructive, vocabulary_non_
     constructive_count = sum(row['comment_text'].count(word) for word in vocabulary_constructive)
     non_constructive_count = sum(row['comment_text'].count(word) for word in vocabulary_non_constructive)
 
-    # Calculate the ratio of constructive to non-constructive words
-    if non_constructive_count > 0:
-        return constructive_count / non_constructive_count # if > 1, constructive else non-constructive
+    # Positive score if constructive words are more than non-constructive words otherwise negative score
+    keyword_score = constructive_count - non_constructive_count
+
+    if constructive_count + non_constructive_count > 0:
+        # Value between -1 and 1 based on the number of constructive and non-constructive words
+        normalized_score = keyword_score / (constructive_count + non_constructive_count)
     else:
-        return 1 if constructive_count > 0 else 0  # Constructive if count > 0, else Not constructive
+        normalized_score = 0
+
+    return normalized_score
 
 
 def construcive_base_on_keywords_and_features(row, vocabulary_constructive, vocabulary_non_constructive):
     features_weight = constructive_based_on_features(row)
     keywords_weight = constructive_based_on_keywords(row, vocabulary_constructive, vocabulary_non_constructive)
 
-    features_weight = features_weight * .50 # 70% weight
-    keywords_weight = keywords_weight * .50 # 30% weight
+    features_weight = features_weight * .80 # 80% weight
+    keywords_weight = keywords_weight * .20 # 20% weight
 
     if features_weight + keywords_weight >= 0.5:
         return 1 # Constructive
