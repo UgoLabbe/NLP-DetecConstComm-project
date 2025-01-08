@@ -1,1 +1,32 @@
 /venv
+
+nlp-venv/
+
+# System Files
+.DS_Store                # macOS Finder metadata
+Thumbs.db                # Windows Explorer thumbnail cache
+ehthumbs.db              # Windows Explorer enhanced thumbnail cache
+desktop.ini              # Windows desktop configuration file
+*.swp                    # Vim swap files
+*.swo                    # Vim temporary files
+*.~*                     # Temporary backup files
+*.bak                    # Backup files
+
+# Logs
+*.log                    # Log files
+
+# Temporary Files
+*.tmp                    # Temporary files
+*.temp                   # Temp files
+*.pid                    # Process ID files
+*.lock                   # Lock files
+*.gz                     # Compressed files
+
+# Other Metadata
+*.orig                   # Merge conflict backup files
+
+
+# Ignore model files and checkpoints
+results/
+models/
+saved_bert_model/
