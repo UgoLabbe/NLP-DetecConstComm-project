@@ -281,6 +281,15 @@ def constructive_based_on_features(row):
         return 0  # Not constructive
 
 
+def constructive_based_on_features_for_keywords(row):
+    if row['num_verbs'] >= 10 and row['num_adjectives'] >= 8 and row['num_tokens'] >= 300:
+        return 1  # Constructive
+    elif row['num_tokens'] >= 300:
+        return 0.5
+    else:
+        return 0  # Not constructive
+
+
 def constructive_based_on_keywords(row, vocabulary_constructive, vocabulary_non_constructive):
     # Count the number of constructive and non-constructive words in the comment
     constructive_count = sum(row['comment_text'].count(word) for word in vocabulary_constructive)
@@ -299,7 +308,7 @@ def constructive_based_on_keywords(row, vocabulary_constructive, vocabulary_non_
 
 
 def construcive_base_on_keywords_and_features(row, vocabulary_constructive, vocabulary_non_constructive):
-    features_weight = constructive_based_on_features(row)
+    features_weight = constructive_based_on_features_for_keywords(row)
     keywords_weight = constructive_based_on_keywords(row, vocabulary_constructive, vocabulary_non_constructive)
 
     features_weight = features_weight * .80 # 80% weight
