@@ -30,3 +30,4 @@ desktop.ini              # Windows desktop configuration file
 results/
 models/
 saved_bert_model/
+bert_model_weights
