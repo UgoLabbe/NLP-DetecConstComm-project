@@ -200,7 +200,7 @@ class RuleBasedAnnotations:
 
     def __init__ (self, 
                   preprocessed_conllu_path='./input/preprocessed_dataset.conllu',
-                  output_path='./input/new_annotations.txt',
+                  output_path='./input/new_annotations_features_only.txt',
                   vocabulary_constructive='./input/vocabulary_constructive.csv',
                   vocabulary_non_constructive='./input/vocabulary_non_constructive.csv'
         ):
@@ -241,6 +241,8 @@ class RuleBasedAnnotations:
 
         data['constructive'] = data.apply(constructive_based_on_features, axis=1)
 
+        print(data['constructive'].value_counts())
+
         # Keep only comment_id and constructive
         data = data[['constructive']]
 
@@ -264,6 +266,8 @@ class RuleBasedAnnotations:
         data['comment_text'] = self.conllu_texts
 
         data['constructive'] = data.apply(construcive_base_on_keywords_and_features, axis=1, args=(self.vocabulary_constructive, self.vocabulary_non_constructive))
+
+        print(data['constructive'].value_counts())
 
         # Keep only comment_id and constructive
         data = data[['constructive']]
@@ -311,8 +315,8 @@ def construcive_base_on_keywords_and_features(row, vocabulary_constructive, voca
     features_weight = constructive_based_on_features_for_keywords(row)
     keywords_weight = constructive_based_on_keywords(row, vocabulary_constructive, vocabulary_non_constructive)
 
-    features_weight = features_weight * .80 # 80% weight
-    keywords_weight = keywords_weight * .20 # 20% weight
+    features_weight = features_weight * .7 # 70% weight
+    keywords_weight = keywords_weight * .3 # 30% weight
 
     if features_weight + keywords_weight >= 0.5:
         return 1 # Constructive

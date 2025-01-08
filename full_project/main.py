@@ -41,15 +41,15 @@ def run_pipeline(input_path, output_path, preprocessing_opt):
     except pd.errors.ParserError as e:
         print(f"Error creating CoNLL-U file: {e}")
 
-def run_rule_based_annotations(output_path):
+def run_rule_based_annotations(preprocessed_file):
     try:
-        rule_based_annotations = RuleBasedAnnotations(output_path)
+        rule_based_annotations = RuleBasedAnnotations(preprocessed_file)
 
         # Generate the rule-based annotations based on tokens, verbs, and adjetives
-        # rule_based_annotations.generate_feature_based_annotation(rule_based_annotations.conllu_data)
-        rule_based_annotations.generate_keywords_based_annotation(rule_based_annotations.conllu_data)
+        rule_based_annotations.generate_feature_based_annotation(rule_based_annotations.conllu_data)
+        # rule_based_annotations.generate_keywords_based_annotation(rule_based_annotations.conllu_data)
 
-        print(f"Rule-based annotations generated successfully for: {output_path}")
+        print(f"Rule-based annotations generated successfully for: {preprocessed_file}")
 
     except Exception as e:
         print(f"Error generating rule-based annotations: {e}")

@@ -21,12 +21,16 @@ INPUT_PATH = './input/preprocessed_dataset.conllu'
 
 OLD_ANNOTATIONS_PATH = './input/old_annotations.txt'
 NEW_ANNOTATIONS_PATH = './input/new_annotations.txt'
+NEW_ANNOTATIONS_PATH_ONLY_FEATURES = './input/new_annotations_features_only.txt'
 
 OLD_RANDOM_FOREST_MODEL_PATH = './models/rf_model.pkl'
 OLD_NAIVE_BAYES_MODEL_PATH = './models/original_naive_bayes_model.pkl'
 
 NEW_RANDOM_FOREST_MODEL_PATH = './models/rf_model_new_labels_rb.pkl'
 NEW_BAYESIAN_MODEL_PATH = './models/naive_bayes_model_new_labels_rb.pkl'
+
+NEW_RANDOM_FOREST_MODEL_ONLY_FEATURES_PATH = './models/rf_model_new_labels_features_only.pkl'
+NEW_BAYESIAN_MODEL_ONLY_FEATURES_PATH = './models/naive_bayes_model_new_labels_features_only.pkl'
 
 def main():
 
@@ -39,6 +43,7 @@ def main():
     print("As constructiveness is highly subjective and the annotations were done by crowdworkers, you have the option to:")
     print("  1. Use the old annotations (done by crowdworkers).")
     print("  2. Use the new annotations (generated using the following set of rules: at least 300 characters, 10 verbs and 8 adjectives).\n")
+    print("  3. Use the new annotations (generated using the following set of rules: at least 300 characters, 10 verbs, 8 adjectives, and the ratio of constructive/non-constructive keywords.) ")
 
     # Load the different input for our models
     original_texts = extract_original_text(INPUT_PATH)
@@ -49,9 +54,10 @@ def main():
     # User selection for annotations
     print("Choose your annotation option:")
     print("1. Use old annotations (crowdworkers)")
-    print("2. Use new annotations (rule based)")
+    print("2. Use new annotations (rule based - features only)")
+    print("3. Use new annotations (rule based - features and keywords)")
 
-    user_choice = input("Enter 1 or 2: ").strip()
+    user_choice = input("Enter 1, 2, or 3: ").strip()
 
     if user_choice == '1':
         # Load annotations based on user choice
@@ -65,8 +71,21 @@ def main():
 
         # Test the models with old annotations
         test_models(annotations, original_texts, df_features, original_NB, RF)
-        
+
     elif user_choice == '2':
+        # Load annotations based on user choice
+        annotations = pd.read_table(NEW_ANNOTATIONS_PATH_ONLY_FEATURES, header=None)
+        print("Annotations loaded")
+
+        # Load the different models
+        new_NB = joblib.load(NEW_BAYESIAN_MODEL_ONLY_FEATURES_PATH)
+        new_RF = joblib.load(NEW_RANDOM_FOREST_MODEL_ONLY_FEATURES_PATH)
+        print("Models to predict rule-based annotations loaded (just features)")
+
+        # Test the models with new annotations
+        test_models(annotations, original_texts, df_features, new_NB, new_RF)
+
+    elif user_choice == '3':
         # Load annotations based on user choice
         annotations = pd.read_table(NEW_ANNOTATIONS_PATH, header=None)
         print("Annotations loaded")
@@ -74,12 +93,12 @@ def main():
         # Load the different models
         new_NB = joblib.load(NEW_BAYESIAN_MODEL_PATH)
         new_RF = joblib.load(NEW_RANDOM_FOREST_MODEL_PATH)
-        print("Models to predict rule-based annotations loaded")
+        print("Models to predict rule-based annotations loaded (keywords and features)")
 
         # Test the models with new annotations
         test_models(annotations, original_texts, df_features, new_NB, new_RF)
     else:
-        print("Invalid choice. Please restart and choose 1 or 2.")
+        print("Invalid choice. Please restart and choose 1, 2 or 3.")
         return
 
 
