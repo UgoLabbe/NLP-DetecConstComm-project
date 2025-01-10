@@ -1,1 +1,0 @@
-- Add a selection model method to 'main.py', with handling of needed previous preprocessing
