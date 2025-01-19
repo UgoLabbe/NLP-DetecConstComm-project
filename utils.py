@@ -1,5 +1,16 @@
 from collections import Counter
 import pandas as pd
+import string
+import warnings
+import logging
+import joblib
+from sklearn.naive_bayes import MultinomialNB
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import classification_report
+import shap
+import matplotlib.pyplot as plt
 
 def extract_original_text(file_path):
     """
@@ -156,3 +167,5 @@ def load_conllu_data(file_path):
     
     df = pd.DataFrame(features)
     return df
+
+

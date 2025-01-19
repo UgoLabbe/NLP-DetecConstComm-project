@@ -2,7 +2,7 @@ import string
 import warnings
 import logging
 import pandas as pd
-from utils import load_conllu_data, extract_original_text, extract_preprocessed_text
+from utils import load_conllu_data, extract_original_text
 import joblib
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.ensemble import RandomForestClassifier
@@ -12,10 +12,36 @@ from sklearn.metrics import classification_report
 import shap
 import matplotlib.pyplot as plt
 
-
 warnings.filterwarnings("ignore", category=FutureWarning)
 
 logging.basicConfig(level=logging.WARNING)
+
+def test_models(annotations, original_texts, df_features, NB, RF, user_choice):
+    # Preparation of data
+    y = annotations
+
+    # Vectorization
+    vectorizer = TfidfVectorizer()
+    X = vectorizer.fit_transform(original_texts)
+
+    # Splitting into training and testing data
+    _, X_test, _, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+    # Evaluate the model
+    y_pred = NB.predict(X_test)
+    print(
+        "\nBest Naive Bayesian Classification Report:\n",
+        classification_report(y_test, y_pred),
+    )
+
+    ## Feature-based model
+    X = df_features.drop(["comment_id"], axis=1)
+    _, X_test, _, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+    # Evaluate the model
+    y_pred = RF.predict(X_test)
+    print(
+        "\nBest Feature Based Model (Random Forest) Classification Report:\n",
+        classification_report(y_test, y_pred),
+    )
 
 INPUT_PATH = "./input/preprocessed_dataset.conllu"
 
@@ -86,6 +112,35 @@ def main():
             annotations, original_texts, df_features, original_NB, RF, user_choice
         )
 
+        print("Results of all previously evaluated models:\n")
+
+        # Create lists of model names, accuracies, and f1-scores
+        models = ['Naive Bayes\n(original)', 'Naive Bayes\n(preprocessed)', 'KNN', 
+                 'Random Forest', 'Logistic\nRegression', 'Stacking (NB+RF)', 'BERT', 'Neural\nNetwork']
+        accuracies = [0.6875, 0.6808, 0.9075, 0.9233, 0.91, 0.91, 0.9363, 0.8446]
+        f1_scores = [0.67, 0.66, 0.91, 0.92, 0.91, 0.91, 0.94, 0.86]
+
+        # Set up the plot
+        fig, ax = plt.subplots(figsize=(12, 6))
+
+        # Set the width of each bar and positions of the bars
+        width = 0.35
+        x = range(len(models))
+        ax.bar([i - width/2 for i in x], accuracies, width, label='Accuracy', color='skyblue')
+        ax.bar([i + width/2 for i in x], f1_scores, width, label='Macro F1-score', color='lightgreen')
+
+        # Customize the plot
+        ax.set_ylabel('Score')
+        ax.set_title('Model Performance Comparison')
+        ax.set_xticks(x)
+        ax.set_xticklabels(models, rotation=45, ha='right')
+        ax.legend()
+        ax.grid(True, linestyle='--', alpha=0.7)
+
+        # Adjust layout to prevent label cutoff
+        plt.tight_layout()
+        plt.show()
+
     elif user_choice == "2":
         # Load annotations based on user choice
         annotations = pd.read_table(NEW_ANNOTATIONS_PATH_ONLY_FEATURES, header=None)
@@ -120,33 +175,6 @@ def main():
         return
 
 
-def test_models(annotations, original_texts, df_features, NB, RF, user_choice):
-    # Preparation of data
-    y = annotations
-
-    # Vectorization
-    vectorizer = TfidfVectorizer()
-    X = vectorizer.fit_transform(original_texts)
-
-    # Splitting into training and testing data
-    _, X_test, _, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
-    # Evaluate the model
-    y_pred = NB.predict(X_test)
-    print(
-        "\nBest Naive Bayesian Classification Report:\n",
-        classification_report(y_test, y_pred),
-    )
-
-    ## Feature-based model
-    X = df_features.drop(["comment_id"], axis=1)
-    _, X_test, _, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
-    # Evaluate the model
-    y_pred = RF.predict(X_test)
-    print(
-        "\nBest Feature Based Model (Random Forest) Classification Report:\n",
-        classification_report(y_test, y_pred),
-    )
-
     if user_choice == "1":
         # Print the Shap values of the feature based model
         # Create a SHAP Tree Explainer
@@ -168,6 +196,9 @@ def test_models(annotations, original_texts, df_features, NB, RF, user_choice):
         )
         print("\n" + "=" * 40)
         explainer = shap.TreeExplainer(RF)
+        y = annotations
+        X = df_features.drop(["comment_id"], axis=1)
+        _, X_test, _, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
         shap_values = explainer.shap_values(X_test)
         shap.plots.violin(shap_values[:, :, 1], X_test, plot_type="layered_violin")
         print(
@@ -190,3 +221,4 @@ def test_models(annotations, original_texts, df_features, NB, RF, user_choice):
 
 if __name__ == "__main__":
     main()
+
